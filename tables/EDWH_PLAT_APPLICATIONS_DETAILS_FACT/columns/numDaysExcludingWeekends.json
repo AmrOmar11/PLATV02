@@ -1,0 +1,11 @@
+{
+  "type": "calculated",
+  "name": "numDaysExcludingWeekends",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "RELATED(",
+    "    COMMON_END_DATE_DIM[numDaysExcludingWeekends]",
+    ")"
+  ]
+}

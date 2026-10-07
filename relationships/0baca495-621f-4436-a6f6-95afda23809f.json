@@ -2,6 +2,7 @@
   "name": "0baca495-621f-4436-a6f6-95afda23809f",
   "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
   "fromColumn": "THIRD_NATIONALITY_KEY",
-  "toTable": "THIRD_NATIONALITY_DIM",
-  "toColumn": "NATIONALITY_KEY"
+  "toTable": "COMMON_NATIONALITIES_DIM",
+  "toColumn": "NATIONALITY_KEY",
+  "isActive": false
 }

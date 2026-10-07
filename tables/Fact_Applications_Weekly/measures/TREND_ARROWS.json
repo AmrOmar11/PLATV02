@@ -1,0 +1,4 @@
+{
+  "name": "TREND_ARROWS",
+  "expression": " IF(Fact_Applications_Weekly[Weekly Variance]<0,\"↗\",IF(Fact_Applications_Weekly[Weekly Variance]>0,\"↘\",\"-\"))"
+}

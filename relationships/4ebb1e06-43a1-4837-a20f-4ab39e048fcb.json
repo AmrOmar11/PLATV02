@@ -2,6 +2,6 @@
   "name": "4ebb1e06-43a1-4837-a20f-4ab39e048fcb",
   "fromTable": "EDWH_PLAT_NIC_DEPENDENT_REQ_FACT",
   "fromColumn": "NIC_IQAMA_EXPIRY_DATE",
-  "toTable": "IQAMA_EXPIRY_DATE_DIM",
+  "toTable": "COMMON_DATE_DIM",
   "toColumn": "COMMON_DATE_DIM_KEY"
 }

@@ -1,0 +1,8 @@
+{
+  "name": "Cumulative Achievement Rate %",
+  "expression": [
+    "",
+    "DIVIDE([Cumulative Applications YTD], [Annual Target], 0)"
+  ],
+  "formatString": "0.00%;-0.00%;0.00%"
+}

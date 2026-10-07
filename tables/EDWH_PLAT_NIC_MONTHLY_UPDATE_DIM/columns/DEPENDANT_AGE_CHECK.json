@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "DEPENDANT_AGE_CHECK",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": " IF(ISBLANK(EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[HOH]),BLANK(), IF(DATEDIFF(EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[BIRTH_DT],TODAY(),YEAR)>25,1,0))"
+}

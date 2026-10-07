@@ -1,6 +1,6 @@
 {
   "name": "1ed21dc5-4bab-45af-8f2e-407228534767",
-  "fromTable": "EDWH_PLAT_WHITELISTED_COMPANEIS_DIM Copy",
+  "fromTable": "EDWH_PLAT_WHITELISTED_COMPANEIS_DIM",
   "fromColumn": "COMPANY_CAT_KEY",
   "toTable": "EDWH_PLAT_COMPANY_CATEGORIES_DIM",
   "toColumn": "COMPANY_CAT_KEY"

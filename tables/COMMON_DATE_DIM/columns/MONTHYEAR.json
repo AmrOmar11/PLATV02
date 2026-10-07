@@ -1,9 +1,9 @@
 {
   "name": "MONTHYEAR",
-  "dataType": "string",
+  "dataType": "dateTime",
   "sourceColumn": "MONTHYEAR",
   "formatString": "dd-MMM-yy",
-  "sourceProviderType": "String",
+  "sourceProviderType": "Char",
   "annotations": [
     {
       "name": "Format",

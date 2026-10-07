@@ -1,5 +1,6 @@
 {
   "name": "COMMON_AD_USERS_DIM",
+  "dataView": "full",
   "source": {
     "type": "query",
     "query": " SELECT [COMMON].[COMMON_AD_USERS_DIM].* FROM [COMMON].[COMMON_AD_USERS_DIM] ",
@@ -70,42 +71,13 @@
         "    </item>",
         "  </ColumnDisplayIndex>",
         "  <ColumnFrozen />",
-        "  <ColumnChecked>",
-        "    <item>",
-        "      <key>",
-        "        <string>USER_KEY</string>",
-        "      </key>",
-        "      <value>",
-        "        <boolean>true</boolean>",
-        "      </value>",
-        "    </item>",
-        "    <item>",
-        "      <key>",
-        "        <string>USER_DISPLAY_NAME</string>",
-        "      </key>",
-        "      <value>",
-        "        <boolean>true</boolean>",
-        "      </value>",
-        "    </item>",
-        "    <item>",
-        "      <key>",
-        "        <string>USER_PRINCIPAL_NAME</string>",
-        "      </key>",
-        "      <value>",
-        "        <boolean>true</boolean>",
-        "      </value>",
-        "    </item>",
-        "  </ColumnChecked>",
+        "  <ColumnChecked />",
         "  <ColumnFilter />",
         "  <SelectionFilter />",
         "  <FilterParameters />",
         "  <IsSortDescending>false</IsSortDescending>",
         "</TableWidgetGridSerialization>]]></AnnotationContent></Gemini>"
       ]
-    },
-    {
-      "name": "TableWidgetSourceTable",
-      "value": "COMMON.COMMON_GENDER_DIM"
     }
   ]
 }

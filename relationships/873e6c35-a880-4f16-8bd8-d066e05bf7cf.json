@@ -1,0 +1,7 @@
+{
+  "name": "873e6c35-a880-4f16-8bd8-d066e05bf7cf",
+  "fromTable": "Fact_Applications_Monthly",
+  "fromColumn": "PRODUCT_KEY",
+  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
+  "toColumn": "APPLICATION_PRODUCT_KEY"
+}

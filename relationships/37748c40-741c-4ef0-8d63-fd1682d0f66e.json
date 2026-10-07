@@ -1,0 +1,7 @@
+{
+  "name": "37748c40-741c-4ef0-8d63-fd1682d0f66e",
+  "fromTable": "Fact_Applications_Weekly",
+  "fromColumn": "WeekStartDate",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "DATE"
+}

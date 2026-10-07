@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "birth_date_value",
+  "dataType": "dateTime",
+  "isDataTypeInferred": true,
+  "expression": " RELATED(COMMON_DATE_DIM[DATE])"
+}

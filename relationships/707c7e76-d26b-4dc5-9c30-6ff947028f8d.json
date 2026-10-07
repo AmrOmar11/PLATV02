@@ -1,0 +1,8 @@
+{
+  "name": "707c7e76-d26b-4dc5-9c30-6ff947028f8d",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
+  "fromColumn": "APPLICATION_PAYMENT_STATUS",
+  "toTable": "EDWH_PLAT_VIP_APP_PAYMNT_STATUS_DIM",
+  "toColumn": "PAYMENT_STATUS_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}

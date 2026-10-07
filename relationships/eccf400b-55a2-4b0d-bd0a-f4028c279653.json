@@ -1,0 +1,8 @@
+{
+  "name": "eccf400b-55a2-4b0d-bd0a-f4028c279653",
+  "fromTable": "EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM",
+  "fromColumn": "IQAMA_TYPE",
+  "toTable": "EDWH_PLAT_NIC_IQAMA_TYPES_DIM",
+  "toColumn": "NIC_IQAMA_TYPE_KEY",
+  "isActive": false
+}

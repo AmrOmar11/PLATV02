@@ -1,0 +1,8 @@
+{
+  "type": "calculated",
+  "name": "FORTUNE_VALUE_CHECK",
+  "dataType": "boolean",
+  "isDataTypeInferred": true,
+  "expression": "IF(EDWH_PLAT_RESIDENCIES_FACT[FORTUNE_VALUE_KEY] in {4,5} , TRUE(),FALSE())",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\""
+}

@@ -1,0 +1,8 @@
+{
+  "type": "calculated",
+  "name": "commitment_age_check",
+  "dataType": "boolean",
+  "isDataTypeInferred": true,
+  "expression": " IF(DATEDIFF(EDWH_PLAT_DEPENDENTS_FACT[birth_date_value],TODAY(),YEAR)>25,TRUE(),FALSE())",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\""
+}

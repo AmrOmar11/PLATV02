@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "MonthStartDate",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[MonthStartDate]"
+}

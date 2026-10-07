@@ -1,0 +1,10 @@
+{
+  "name": "Cumulative Applications YTD",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    SUM(Fact_Applications_Monthly[ApplicationsSubmitted]),",
+    "    DATESYTD(Fact_Applications_Monthly[MonthStartDate])",
+    ")"
+  ]
+}

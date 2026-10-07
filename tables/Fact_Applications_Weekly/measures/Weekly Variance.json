@@ -1,0 +1,4 @@
+{
+  "name": "Weekly Variance",
+  "expression": " SUM(Fact_Applications_Weekly[ActualApplications])- SUM(Fact_Applications_Weekly[WeeklyTarget])"
+}

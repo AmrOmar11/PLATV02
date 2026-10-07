@@ -1,0 +1,7 @@
+{
+  "name": "97636c7b-67f4-47b3-9b76-153858bf67d3",
+  "fromTable": "Fact_Applications_Weekly",
+  "fromColumn": "PRODUCT_KEY",
+  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
+  "toColumn": "APPLICATION_PRODUCT_KEY"
+}

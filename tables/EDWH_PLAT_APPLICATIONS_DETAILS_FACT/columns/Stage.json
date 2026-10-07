@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "Stage",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": " RELATED(EDWH_PLAT_APPLICATION_STG_ASGN_DIM[STAGE])"
+}

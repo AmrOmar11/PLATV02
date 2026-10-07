@@ -3,6 +3,5 @@
   "fromTable": "EDWH_PLAT_AWARD_GROUPS_DIM",
   "fromColumn": "AWARD_FIELD_KEY",
   "toTable": "EDWH_PLAT_AWARD_FIELDS_DIM",
-  "toColumn": "AWARD_FIELD_KEY",
-  "isActive": false
+  "toColumn": "AWARD_FIELD_KEY"
 }

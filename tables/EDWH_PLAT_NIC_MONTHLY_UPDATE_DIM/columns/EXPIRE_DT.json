@@ -1,6 +1,7 @@
 {
   "name": "EXPIRE_DT",
-  "dataType": "string",
+  "dataType": "dateTime",
   "sourceColumn": "EXPIRE_DT",
+  "formatString": "General Date",
   "sourceProviderType": "WChar"
 }

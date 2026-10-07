@@ -3,5 +3,6 @@
   "fromTable": "EDWH_PLAT_APP_STATUS_LOGS_FACT",
   "fromColumn": "APPLICATION_KEY",
   "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
-  "toColumn": "APPLICATION_KEY"
+  "toColumn": "APPLICATION_KEY",
+  "isActive": false
 }

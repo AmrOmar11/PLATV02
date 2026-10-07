@@ -1,0 +1,32 @@
+{
+  "type": "calculated",
+  "name": "VIOLATION_TYPE",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR DependantAge =",
+    "    EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[DEPENDANT_AGE_CHECK]",
+    "",
+    "VAR ExpiryDate =",
+    "    EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[EXPIRY_DATE_CHECK]",
+    "",
+    "VAR Whitelisted =",
+    "    EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[WHITELISTED_CHECK]",
+    "",
+    "VAR ViolationCount =",
+    "    DependantAge",
+    "    + ExpiryDate",
+    "    + Whitelisted",
+    "",
+    "RETURN",
+    "    SWITCH(",
+    "        TRUE(),",
+    "        ViolationCount = 0, \"No Violation\",",
+    "        ViolationCount >= 2, \"Multi Violations\",",
+    "        DependantAge = 1, \"Dependant Age Violation\",",
+    "        ExpiryDate = 1, \"Expiry Date Violation\",",
+    "        Whitelisted = 1, \"Whitelisted Violation\"",
+    "    )"
+  ]
+}
