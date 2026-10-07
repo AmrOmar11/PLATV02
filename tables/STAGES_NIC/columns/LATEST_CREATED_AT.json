@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "LATEST_CREATED_AT",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[LATEST_CREATED_AT]"
+}

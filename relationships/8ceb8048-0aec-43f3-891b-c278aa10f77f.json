@@ -2,6 +2,7 @@
   "name": "8ceb8048-0aec-43f3-891b-c278aa10f77f",
   "fromTable": "EDWH_PLAT_APP_REQST_ASGN_FACT",
   "fromColumn": "COMPLETED_AT",
-  "toTable": "REQST_ASGN_COMPLETED_AT_DATE",
-  "toColumn": "COMMON_DATE_DIM_KEY"
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY",
+  "isActive": false
 }

@@ -1,0 +1,8 @@
+{
+  "name": "20e0c836-f0f7-4283-9d2e-2788f57398bf",
+  "fromTable": "EDWH_PLAT_IQAMA_TYPES_MAPPING_FACT",
+  "fromColumn": "APPLICATION_PRODUCT_KEY",
+  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
+  "toColumn": "APPLICATION_PRODUCT_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}

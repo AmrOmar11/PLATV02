@@ -1,0 +1,8 @@
+{
+  "type": "calculated",
+  "name": "IQAMA_EXPIRY_DATE_CHECK",
+  "dataType": "boolean",
+  "isDataTypeInferred": true,
+  "expression": " IF(EDWH_PLAT_APPLICANT_FACT[IQAMA_Expiry_date] > TODAY(),FALSE(),TRUE())",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\""
+}

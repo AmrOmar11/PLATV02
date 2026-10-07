@@ -1,6 +1,7 @@
 {
   "name": "SNAPSHOT_DATE",
-  "dataType": "string",
+  "dataType": "dateTime",
   "sourceColumn": "SNAPSHOT_DATE",
+  "formatString": "General Date",
   "sourceProviderType": "WChar"
 }

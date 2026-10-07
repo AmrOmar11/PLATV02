@@ -1,0 +1,4 @@
+{
+  "name": "Annual Target",
+  "expression": " SUM(Fact_AnnualTarget[AnnualTarget])"
+}

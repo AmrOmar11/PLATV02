@@ -1,0 +1,8 @@
+{
+  "name": "5c8bd9a4-e8bd-4f83-84f4-2e929a391d9d",
+  "fromTable": "EDWH_PLAT_APP_STATUS_LOGS_FACT",
+  "fromColumn": "EXTERNAL_REASON_KEY",
+  "toTable": "EDWH_PLAT_APP_STATUS_REASON_DIM",
+  "toColumn": "REASON_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}

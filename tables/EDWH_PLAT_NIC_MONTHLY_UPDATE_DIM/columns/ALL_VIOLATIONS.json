@@ -1,0 +1,15 @@
+{
+  "type": "calculated",
+  "name": "ALL_VIOLATIONS",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    " MAX(",
+    "    MAX(",
+    "        EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[DEPENDANT_AGE_CHECK],",
+    "        EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[EXPIRY_DATE_CHECK]",
+    "    ),",
+    "    EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[WHITELISTED_CHECK]",
+    ")"
+  ]
+}

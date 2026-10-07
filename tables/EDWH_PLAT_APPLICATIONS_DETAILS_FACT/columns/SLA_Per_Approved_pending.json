@@ -1,0 +1,29 @@
+{
+  "type": "calculated",
+  "name": "SLA_Per_Approved_pending",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR StatusKey =",
+    "    EDWH_PLAT_APPLICATIONS_DETAILS_FACT[APPLICATION_STATUS_KEY]",
+    "VAR NumberOfDays =",
+    "    EDWH_PLAT_APPLICATIONS_DETAILS_FACT[numDaysExcludingWeekends]",
+    "VAR ValidStatus =",
+    "    StatusKey IN {",
+    "        22,  // بانتظار مراجعة الدفع",
+    "        24   // بإنتظار إصدار إقامة المقيم المميز",
+    "    }",
+    "RETURN",
+    "    SWITCH(",
+    "        TRUE(),",
+    "        NOT ValidStatus, \"0\",",
+    "        ISBLANK(NumberOfDays), \"0\",",
+    "        NumberOfDays <= 15, \"15-0 يوم\",",
+    "        NumberOfDays <= 30, \"يوم 16-30\",",
+    "        NumberOfDays <= 45, \"45-31 يوم\",",
+    "        NumberOfDays > 45, \"+45 يوم\",",
+    "        \"0\"",
+    "    )"
+  ]
+}

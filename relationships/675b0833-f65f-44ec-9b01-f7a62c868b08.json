@@ -3,6 +3,5 @@
   "fromTable": "EDWH_PLAT_APPLICANT_REQUESTS_FACT",
   "fromColumn": "APPLICANT_REQ_KEY",
   "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
-  "toColumn": "APPLICANT_REQ_KEY",
-  "crossFilteringBehavior": "bothDirections"
+  "toColumn": "APPLICANT_REQ_KEY"
 }

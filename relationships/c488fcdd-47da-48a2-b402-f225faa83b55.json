@@ -1,0 +1,7 @@
+{
+  "name": "c488fcdd-47da-48a2-b402-f225faa83b55",
+  "fromTable": "EDWH_PLAT_GIFTED_TALENTS_FACT",
+  "fromColumn": "AWARD_SECTOR_KEY",
+  "toTable": "EDWH_PLAT_AWARD_SECTORS_DIM",
+  "toColumn": "AWARD_SECTOR_KEY"
+}

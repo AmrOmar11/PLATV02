@@ -1,0 +1,8 @@
+{
+  "name": "NO_OF_NATIONALITIES",
+  "expression": [
+    "DISTINCTCOUNT(",
+    "    'EDWH_PLAT_APPLICANT_FACT'[NATIONALITY_KEY]",
+    ")"
+  ]
+}

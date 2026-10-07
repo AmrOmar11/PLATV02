@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "ApplicationsSubmitted",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[ApplicationsSubmitted]"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "IS_COMPANY_WHITELISTED_CHECK",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": " IF(RELATED(EDWH_PLAT_COMPANY_CATEGORIES_DIM[COMPANY_CAT_ID])=0,1,0)"
+}

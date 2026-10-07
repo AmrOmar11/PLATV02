@@ -2,6 +2,7 @@
   "name": "02d0960a-3dbf-4b2c-938e-45a5949ba84b",
   "fromTable": "EDWH_PLAT_APPLICANT_FACT",
   "fromColumn": "CURRENT_RESIDENCY_KEY",
-  "toTable": "CURRENT_RESIDENCY_DIM",
-  "toColumn": "COUNTRY_KEY"
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY",
+  "isActive": false
 }

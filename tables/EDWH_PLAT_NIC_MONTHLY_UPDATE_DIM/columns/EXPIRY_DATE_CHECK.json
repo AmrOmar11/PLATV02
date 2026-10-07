@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "EXPIRY_DATE_CHECK",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": " IF(ISBLANK(EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[EXPIRE_DT]),BLANK(), IF(EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[EXPIRE_DT]>TODAY(),0,1))"
+}

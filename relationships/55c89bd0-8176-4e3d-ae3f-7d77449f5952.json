@@ -1,0 +1,8 @@
+{
+  "name": "55c89bd0-8176-4e3d-ae3f-7d77449f5952",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "fromColumn": "APPLICATION_PRODUCT_KEY",
+  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
+  "toColumn": "APPLICATION_PRODUCT_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}

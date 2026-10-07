@@ -1,0 +1,24 @@
+{
+  "type": "calculated",
+  "name": "numDaysExcludingWeekends",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR StartDate = COMMON_END_DATE_DIM[DATE]",
+    "VAR EndDate = TODAY()",
+    "RETURN",
+    "    IF(",
+    "        ISBLANK(StartDate)",
+    "            || ISBLANK(EndDate) || StartDate > EndDate,",
+    "        0,",
+    "        COUNTROWS(",
+    "            FILTER(",
+    "                CALENDAR(StartDate, EndDate),",
+    "                WEEKDAY([Date], 1) <> 6",
+    "                    && WEEKDAY([Date], 1) <> 7",
+    "            )",
+    "        )",
+    "    )"
+  ]
+}

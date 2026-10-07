@@ -1,5 +1,6 @@
 {
   "name": "COMMON_CITIES_DIM",
+  "dataView": "full",
   "source": {
     "type": "query",
     "query": " SELECT [COMMON].[COMMON_CITIES_DIM].* FROM [COMMON].[COMMON_CITIES_DIM] ",

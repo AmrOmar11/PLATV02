@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "PRODUCT_KEY",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[PRODUCT_KEY]"
+}

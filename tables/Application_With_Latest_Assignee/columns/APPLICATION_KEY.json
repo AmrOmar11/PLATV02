@@ -1,0 +1,9 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "APPLICATION_KEY",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "EDWH_PLAT_APPLICATIONS_DIM[APPLICATION_KEY]",
+  "sortByColumn": "STAGE_ASSIGNEE_KEY"
+}

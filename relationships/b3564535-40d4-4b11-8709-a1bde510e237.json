@@ -1,0 +1,7 @@
+{
+  "name": "b3564535-40d4-4b11-8709-a1bde510e237",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "IQAMA_EXPIRY_DATE_KEY",
+  "toTable": "COMMON_END_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

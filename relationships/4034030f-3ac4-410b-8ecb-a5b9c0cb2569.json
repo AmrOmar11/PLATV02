@@ -1,0 +1,7 @@
+{
+  "name": "4034030f-3ac4-410b-8ecb-a5b9c0cb2569",
+  "fromTable": "Fact_AnnualTarget",
+  "fromColumn": "Year",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "DATE"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "COMPLIANT_APPLICANTS",
+  "expression": [
+    "",
+    "SUMX(",
+    "    VALUES(",
+    "        EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[APPLICANT_KEY]",
+    "    ),",
+    "    IF(",
+    "        CALCULATE(",
+    "            MAX(",
+    "                EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM[ALL_VIOLATIONS]",
+    "            )",
+    "        ) = 0,",
+    "        1,",
+    "        0",
+    "    )",
+    ")"
+  ]
+}

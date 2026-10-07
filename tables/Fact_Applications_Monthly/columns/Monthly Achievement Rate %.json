@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "Monthly Achievement Rate %",
+  "dataType": "double",
+  "isDataTypeInferred": true,
+  "expression": " DIVIDE([ApplicationsSubmitted],Fact_Applications_Monthly[MonthlyTarget])"
+}

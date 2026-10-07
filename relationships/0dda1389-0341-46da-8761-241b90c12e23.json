@@ -2,6 +2,7 @@
   "name": "0dda1389-0341-46da-8761-241b90c12e23",
   "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
   "fromColumn": "APP_COMPLETION_DATE_KEY",
-  "toTable": "APP_COMPLETION_DATE_DIM",
-  "toColumn": "COMMON_DATE_DIM_KEY"
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY",
+  "isActive": false
 }

@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "IQAMA_Expiry_date",
+  "dataType": "dateTime",
+  "isDataTypeInferred": true,
+  "expression": " RELATED(COMMON_END_DATE_DIM[DATE])"
+}

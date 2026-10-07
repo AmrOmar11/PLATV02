@@ -1,0 +1,7 @@
+{
+  "name": "0021afcd-dcea-4cae-8ea2-31aa6cefab7d",
+  "fromTable": "Fact_AnnualTarget",
+  "fromColumn": "PRODUCT_KEY",
+  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
+  "toColumn": "APPLICATION_PRODUCT_KEY"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "STAGE_ID",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": " RELATED(EDWH_PLAT_APPLICATION_STG_ASGN_DIM[STAGE_ASSIGNEE_KEY])"
+}

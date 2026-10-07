@@ -1,7 +1,7 @@
 {
   "name": "0428fc5b-9788-4666-b13b-9d2b9ac30682",
   "fromTable": "EDWH_PLAT_APPLICANT_FACT",
-  "fromColumn": "BIRTH_COUNTRY_KEY",
-  "toTable": "APPLICANT_COMMON_COUNTRIES_DIM",
+  "fromColumn": "ON_BEHALF_MOBILE_COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
   "toColumn": "COUNTRY_KEY"
 }

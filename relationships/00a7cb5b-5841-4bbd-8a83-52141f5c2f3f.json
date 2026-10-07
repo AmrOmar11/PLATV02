@@ -1,0 +1,7 @@
+{
+  "name": "00a7cb5b-5841-4bbd-8a83-52141f5c2f3f",
+  "fromTable": "Fact_Applications_Monthly",
+  "fromColumn": "MonthStartDate",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "DATE"
+}

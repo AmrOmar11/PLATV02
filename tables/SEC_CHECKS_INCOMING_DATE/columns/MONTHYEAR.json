@@ -1,7 +1,7 @@
 {
   "type": "calculatedTableColumn",
   "name": "MONTHYEAR",
-  "dataType": "string",
+  "dataType": "dateTime",
   "isNameInferred": true,
   "isDataTypeInferred": true,
   "sourceColumn": "COMMON_DATE_DIM[MONTHYEAR]"

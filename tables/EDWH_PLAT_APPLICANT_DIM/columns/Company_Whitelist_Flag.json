@@ -1,0 +1,21 @@
+{
+  "type": "calculated",
+  "name": "Company_Whitelist_Flag",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "IF(",
+    "    MAXX(",
+    "        RELATEDTABLE('EDWH_PLAT_APPLICATIONS_DETAILS_FACT'),",
+    "        IF(",
+    "            'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[IS_COMPANY_WHITELISTED_CHECK],",
+    "            1,",
+    "            0",
+    "        )",
+    "    ) = 1,",
+    "    0,",
+    "    1",
+    ")"
+  ]
+}

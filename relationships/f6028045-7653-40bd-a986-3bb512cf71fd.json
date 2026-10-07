@@ -1,0 +1,7 @@
+{
+  "name": "f6028045-7653-40bd-a986-3bb512cf71fd",
+  "fromTable": "Application_With_Latest_Assignee",
+  "fromColumn": "STAGE_ASSIGNEE_KEY",
+  "toTable": "EDWH_PLAT_APPLICATION_STG_ASGN_DIM",
+  "toColumn": "STAGE_ASSIGNEE_KEY"
+}

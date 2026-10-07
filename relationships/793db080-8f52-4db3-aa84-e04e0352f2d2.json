@@ -1,0 +1,8 @@
+{
+  "name": "793db080-8f52-4db3-aa84-e04e0352f2d2",
+  "fromTable": "EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM",
+  "fromColumn": "APPLICANT_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_DIM",
+  "toColumn": "APPLICANT_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}
