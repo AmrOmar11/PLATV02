@@ -1,8 +1,0 @@
-{
-  "name": "c8d20ee6-47f5-4149-899a-a5b8bd42037d",
-  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
-  "fromColumn": "EMPLOYMENT_STATUS_KEY",
-  "toTable": "EDWH_PLAT_EMPLOYMENT_STATUSES_DIM",
-  "toColumn": "EMP_STATUS_KEY",
-  "crossFilteringBehavior": "bothDirections"
-}

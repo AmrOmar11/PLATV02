@@ -1,7 +1,0 @@
-{
-  "name": "cf5cc19e-c8f7-4b91-8b83-98ecf78ca71d",
-  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
-  "fromColumn": "SECOND_NATIONALITY_KEY",
-  "toTable": "SECOND_NATIONALITY_DIM",
-  "toColumn": "NATIONALITY_KEY"
-}

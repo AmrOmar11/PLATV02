@@ -1,8 +1,0 @@
-{
-  "name": "cd2a860c-6499-4cbe-b847-b742e1eb2e7d",
-  "fromTable": "EDWH_PLAT_IQAMA_TYPES_MAPPING_FACT",
-  "fromColumn": "NIC_IQAMA_TYPE_KEY",
-  "toTable": "EDWH_PLAT_NIC_IQAMA_TYPES_DIM",
-  "toColumn": "NIC_IQAMA_TYPE_KEY",
-  "crossFilteringBehavior": "bothDirections"
-}

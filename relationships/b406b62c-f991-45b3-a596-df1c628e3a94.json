@@ -1,7 +1,0 @@
-{
-  "name": "b406b62c-f991-45b3-a596-df1c628e3a94",
-  "fromTable": "EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM",
-  "fromColumn": "APPLICANT_KEY",
-  "toTable": "EDWH_PLAT_APPLICANT_DIM",
-  "toColumn": "APPLICANT_KEY"
-}

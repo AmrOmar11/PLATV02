@@ -1,7 +1,0 @@
-{
-  "name": "a2635c13-773d-4d23-b822-a318d19a57e4",
-  "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
-  "fromColumn": "APPLICATION_PAYMENT_STATUS",
-  "toTable": "EDWH_PLAT_VIP_APP_PAYMNT_STATUS_DIM",
-  "toColumn": "PAYMENT_STATUS_KEY"
-}

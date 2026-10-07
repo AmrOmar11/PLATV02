@@ -3,5 +3,6 @@
   "fromTable": "EDWH_PLAT_GIFTED_TALENTS_FACT",
   "fromColumn": "AWARD_FIELD_KEY",
   "toTable": "EDWH_PLAT_AWARD_FIELDS_DIM",
-  "toColumn": "AWARD_FIELD_KEY"
+  "toColumn": "AWARD_FIELD_KEY",
+  "isActive": false
 }

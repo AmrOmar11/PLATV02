@@ -1,8 +1,0 @@
-{
-  "name": "b6276676-f243-4705-9b23-cbb18e0bb7f7",
-  "fromTable": "EDWH_PLAT_NIC_APPLICANT_REQ_FACT",
-  "fromColumn": "NIC_IQAMA_TYPE_KEY",
-  "toTable": "EDWH_PLAT_NIC_IQAMA_TYPES_DIM",
-  "toColumn": "NIC_IQAMA_TYPE_KEY",
-  "isActive": false
-}

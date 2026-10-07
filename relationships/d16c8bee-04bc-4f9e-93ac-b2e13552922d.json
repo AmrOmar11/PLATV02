@@ -1,8 +1,0 @@
-{
-  "name": "d16c8bee-04bc-4f9e-93ac-b2e13552922d",
-  "fromTable": "EDWH_PLAT_GIFTED_TALENTS_FACT",
-  "fromColumn": "AWARD_SECTOR_KEY",
-  "toTable": "EDWH_PLAT_AWARD_SECTORS_DIM",
-  "toColumn": "AWARD_SECTOR_KEY",
-  "isActive": false
-}

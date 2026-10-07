@@ -1,8 +1,0 @@
-{
-  "name": "9beb2477-4036-437b-a287-a78aa4ffeeec",
-  "fromTable": "EDWH_PLAT_ENTREPRENEUR_INFO_FACT",
-  "fromColumn": "ENTREPRENEUR_INFO_KEY",
-  "toTable": "EDWH_PLAT_ENTREPRENEUR_INFO_DIM",
-  "toColumn": "ENTREPRENEUR_INFO_KEY",
-  "crossFilteringBehavior": "bothDirections"
-}

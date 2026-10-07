@@ -1,7 +1,0 @@
-{
-  "name": "98194ed3-dbd4-4790-bc54-4e4c642f55d3",
-  "fromTable": "EDWH_PLAT_APPLICATIONS_DIM",
-  "fromColumn": "APPLICATION_PRODUCT_KEY",
-  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
-  "toColumn": "APPLICATION_PRODUCT_KEY"
-}

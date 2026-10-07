@@ -1,7 +1,0 @@
-{
-  "name": "99c5dc2b-26d1-43d7-aab7-0d0727e4cdd5",
-  "fromTable": "EDWH_PLAT_APP_STATUS_LOGS_FACT",
-  "fromColumn": "EXTERNAL_REASON_KEY",
-  "toTable": "EDWH_PLAT_APP_STATUS_REASON_DIM",
-  "toColumn": "REASON_KEY"
-}
