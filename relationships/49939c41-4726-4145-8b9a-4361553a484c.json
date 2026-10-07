@@ -1,0 +1,7 @@
+{
+  "name": "49939c41-4726-4145-8b9a-4361553a484c",
+  "fromTable": "EDWH_PLAT_GIFTED_TALENTS_FACT",
+  "fromColumn": "SPECIALIZATION_KEY",
+  "toTable": "EDWH_PLAT_SPECIALIZATIONS_DIM",
+  "toColumn": "SPECIALIZATION_KEY"
+}

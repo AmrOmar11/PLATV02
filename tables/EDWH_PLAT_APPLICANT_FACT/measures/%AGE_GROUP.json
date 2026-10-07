@@ -1,0 +1,13 @@
+{
+  "name": "%AGE_GROUP",
+  "expression": [
+    "DIVIDE(",
+    "    [APPLICANT_COUNT],",
+    "    CALCULATE(",
+    "        [APPLICANT_COUNT],",
+    "        ALLSELECTED(EDWH_PLAT_APPLICANT_FACT[AGE_GROUP])",
+    "    ),",
+    "    0",
+    ")"
+  ]
+}

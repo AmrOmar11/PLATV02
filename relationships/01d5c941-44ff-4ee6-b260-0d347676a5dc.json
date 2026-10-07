@@ -1,0 +1,7 @@
+{
+  "name": "01d5c941-44ff-4ee6-b260-0d347676a5dc",
+  "fromTable": "EDWH_PLAT_RESIDENCIES_FACT",
+  "fromColumn": "FORTUNE_VALUE_KEY",
+  "toTable": "EDWH_PLAT_FORTUNE_VALUES_DIM",
+  "toColumn": "FORTUNE_VALUE_KEY"
+}

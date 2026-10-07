@@ -1,0 +1,6 @@
+{
+  "name": "EXAM_SCORE",
+  "dataType": "double",
+  "sourceColumn": "EXAM_SCORE",
+  "sourceProviderType": "Double"
+}

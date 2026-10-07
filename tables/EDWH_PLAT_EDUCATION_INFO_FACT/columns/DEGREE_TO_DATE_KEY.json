@@ -1,0 +1,6 @@
+{
+  "name": "DEGREE_TO_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "DEGREE_TO_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

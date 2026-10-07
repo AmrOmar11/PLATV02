@@ -1,0 +1,6 @@
+{
+  "name": "COMMERCIAL_REGISTER_NUMBER",
+  "dataType": "string",
+  "sourceColumn": "COMMERCIAL_REGISTER_NUMBER",
+  "sourceProviderType": "WChar"
+}

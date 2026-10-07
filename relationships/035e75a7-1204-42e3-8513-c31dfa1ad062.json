@@ -1,0 +1,7 @@
+{
+  "name": "035e75a7-1204-42e3-8513-c31dfa1ad062",
+  "fromTable": "EDWH_PLAT_SECURITY_CHECKS_FACT",
+  "fromColumn": "OUTGOING_DATE_KEY",
+  "toTable": "SEC_CHECKS_INCOMING_DATE",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "FLAG",
+  "dataType": "string",
+  "sourceColumn": "FLAG",
+  "sourceProviderType": "String"
+}

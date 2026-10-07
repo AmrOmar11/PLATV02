@@ -1,0 +1,10 @@
+{
+  "name": "COMPLETED_REQUESTS",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    DISTINCTCOUNT(EDWH_PLAT_APPLICANT_REQUESTS_FACT[APPLICANT_REQ_KEY]),",
+    "    'EDWH_PLAT_APP_REQST_STATUS_DIM'[REQST_STATUS_NAME_EN] = \"Completed\"",
+    ")"
+  ]
+}

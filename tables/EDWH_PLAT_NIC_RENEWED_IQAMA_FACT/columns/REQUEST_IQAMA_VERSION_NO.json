@@ -1,0 +1,6 @@
+{
+  "name": "REQUEST_IQAMA_VERSION_NO",
+  "dataType": "int64",
+  "sourceColumn": "REQUEST_IQAMA_VERSION_NO",
+  "sourceProviderType": "Integer"
+}

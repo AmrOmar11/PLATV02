@@ -1,0 +1,6 @@
+{
+  "name": "LEVEL_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "LEVEL_NAME_AR",
+  "sourceProviderType": "WChar"
+}

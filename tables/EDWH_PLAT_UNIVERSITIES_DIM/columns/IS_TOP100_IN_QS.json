@@ -1,0 +1,7 @@
+{
+  "name": "IS_TOP100_IN_QS",
+  "dataType": "boolean",
+  "sourceColumn": "IS_TOP100_IN_QS",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

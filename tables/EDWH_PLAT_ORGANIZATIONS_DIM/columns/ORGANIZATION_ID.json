@@ -1,0 +1,6 @@
+{
+  "name": "ORGANIZATION_ID",
+  "dataType": "int64",
+  "sourceColumn": "ORGANIZATION_ID",
+  "sourceProviderType": "UnsignedTinyInt"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "RULE_EXPRESSION_TYPE",
+  "dataType": "int64",
+  "sourceColumn": "RULE_EXPRESSION_TYPE",
+  "sourceProviderType": "Integer"
+}

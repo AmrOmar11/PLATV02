@@ -1,0 +1,7 @@
+{
+  "name": "afe32cd5-761d-4299-b47c-048c55de359c",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "PASSPORT_EXPIRY_DATE_KEY",
+  "toTable": "PASSPORT_EXPIRY_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

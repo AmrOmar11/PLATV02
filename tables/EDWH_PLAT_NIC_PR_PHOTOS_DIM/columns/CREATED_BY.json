@@ -1,0 +1,6 @@
+{
+  "name": "CREATED_BY",
+  "dataType": "int64",
+  "sourceColumn": "CREATED_BY",
+  "sourceProviderType": "Int32"
+}

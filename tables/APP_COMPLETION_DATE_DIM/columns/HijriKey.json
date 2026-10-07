@@ -1,0 +1,6 @@
+{
+  "name": "HijriKey",
+  "dataType": "int64",
+  "sourceColumn": "HijriKey",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "RECEPIENT_NAME",
+  "dataType": "string",
+  "sourceColumn": "RECEPIENT_NAME",
+  "sourceProviderType": "Char"
+}

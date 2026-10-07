@@ -1,0 +1,6 @@
+{
+  "name": "INVOICE_NUMBER",
+  "dataType": "int64",
+  "sourceColumn": "INVOICE_NUMBER",
+  "sourceProviderType": "BigInt"
+}

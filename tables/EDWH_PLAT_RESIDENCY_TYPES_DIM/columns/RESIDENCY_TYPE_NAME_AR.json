@@ -1,0 +1,6 @@
+{
+  "name": "RESIDENCY_TYPE_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "RESIDENCY_TYPE_NAME_AR",
+  "sourceProviderType": "WChar"
+}

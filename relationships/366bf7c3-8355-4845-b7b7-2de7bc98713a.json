@@ -1,0 +1,8 @@
+{
+  "name": "366bf7c3-8355-4845-b7b7-2de7bc98713a",
+  "fromTable": "EDWH_PLAT_AWARD_GROUPS_DIM",
+  "fromColumn": "AWARD_FIELD_KEY",
+  "toTable": "EDWH_PLAT_AWARD_FIELDS_DIM",
+  "toColumn": "AWARD_FIELD_KEY",
+  "isActive": false
+}

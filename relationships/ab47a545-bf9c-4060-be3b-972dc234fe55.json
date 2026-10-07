@@ -1,0 +1,7 @@
+{
+  "name": "ab47a545-bf9c-4060-be3b-972dc234fe55",
+  "fromTable": "EDWH_PLAT_STR_PATENTS_DIM",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

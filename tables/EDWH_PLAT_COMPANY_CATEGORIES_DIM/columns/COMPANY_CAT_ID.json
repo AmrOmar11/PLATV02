@@ -1,0 +1,6 @@
+{
+  "name": "COMPANY_CAT_ID",
+  "dataType": "int64",
+  "sourceColumn": "COMPANY_CAT_ID",
+  "sourceProviderType": "Integer"
+}

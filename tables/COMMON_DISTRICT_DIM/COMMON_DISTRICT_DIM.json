@@ -1,0 +1,17 @@
+{
+  "name": "COMMON_DISTRICT_DIM",
+  "annotations": [
+    {
+      "name": "_TM_ExtProp_QueryDefinition",
+      "value": " \t\t\t\tSELECT [COMMON].[COMMON_DISTRICT_DIM].*   FROM [COMMON].[COMMON_DISTRICT_DIM] "
+    },
+    {
+      "name": "_TM_ExtProp_DbTableName",
+      "value": "COMMON_DISTRICT_DIM"
+    },
+    {
+      "name": "_TM_ExtProp_DbSchemaName",
+      "value": "COMMON"
+    }
+  ]
+}

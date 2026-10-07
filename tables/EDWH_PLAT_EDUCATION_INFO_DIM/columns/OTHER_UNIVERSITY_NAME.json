@@ -1,0 +1,6 @@
+{
+  "name": "OTHER_UNIVERSITY_NAME",
+  "dataType": "string",
+  "sourceColumn": "OTHER_UNIVERSITY_NAME",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ACTIVE_APPLICANTS",
+  "expression": [
+    "CALCULATE(",
+    "    DISTINCTCOUNT(EDWH_PLAT_APPLICANT_FACT[APPLICANT_KEY]),",
+    "    EDWH_PLAT_NIC_IQAMA_STATUS_DIM[IQAMA_STATUS_ID] = 1",
+    ")"
+  ]
+}

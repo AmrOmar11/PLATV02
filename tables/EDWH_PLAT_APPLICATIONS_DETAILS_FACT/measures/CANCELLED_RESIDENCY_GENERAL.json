@@ -1,0 +1,13 @@
+{
+  "name": "CANCELLED_RESIDENCY_GENERAL",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "   DISTINCTCOUNT(",
+    "       'EDWH_PLAT_APPLICANT_REQUESTS_FACT'[APPLICATION_KEY]",
+    "   ),",
+    "   'EDWH_PLAT_APPLICANT_REQUESTS_FACT'[REQST_TYPE_KEY] = 4,",
+    "   'EDWH_PLAT_APPLICANT_REQUESTS_FACT'[REQST_STATUS_KEY] = 5",
+    ")"
+  ]
+}

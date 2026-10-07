@@ -1,0 +1,6 @@
+{
+  "name": "MINUTE",
+  "dataType": "int64",
+  "sourceColumn": "MINUTE",
+  "sourceProviderType": "UnsignedTinyInt"
+}

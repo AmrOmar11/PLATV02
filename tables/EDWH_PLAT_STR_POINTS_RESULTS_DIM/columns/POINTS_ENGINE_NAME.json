@@ -1,0 +1,6 @@
+{
+  "name": "POINTS_ENGINE_NAME",
+  "dataType": "string",
+  "sourceColumn": "POINTS_ENGINE_NAME",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "calculated",
+  "name": "APPLICATION_CODE",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "RELATED('EDWH_PLAT_APPLICATIONS_DIM'[APPLICATION_CODE])"
+  ]
+}

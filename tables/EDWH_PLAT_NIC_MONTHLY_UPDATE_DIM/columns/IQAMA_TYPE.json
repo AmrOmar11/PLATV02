@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_TYPE",
+  "dataType": "int64",
+  "sourceColumn": "IQAMA_TYPE",
+  "sourceProviderType": "Integer"
+}

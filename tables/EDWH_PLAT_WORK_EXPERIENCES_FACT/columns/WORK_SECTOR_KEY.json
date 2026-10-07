@@ -1,0 +1,6 @@
+{
+  "name": "WORK_SECTOR_KEY",
+  "dataType": "int64",
+  "sourceColumn": "WORK_SECTOR_KEY",
+  "sourceProviderType": "Integer"
+}

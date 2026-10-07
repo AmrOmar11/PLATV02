@@ -1,0 +1,17 @@
+{
+  "type": "calculated",
+  "name": "HAS_GIFTED_TALENT",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR GiftedTalentRows =",
+    "    CALCULATE (",
+    "        COUNTROWS (",
+    "            'EDWH_PLAT_GIFTED_TALENTS_FACT'",
+    "        )",
+    "    )",
+    "RETURN",
+    "    IF ( GiftedTalentRows > 0, 1, 0 )"
+  ]
+}

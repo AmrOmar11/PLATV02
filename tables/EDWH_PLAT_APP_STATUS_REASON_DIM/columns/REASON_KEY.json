@@ -1,0 +1,6 @@
+{
+  "name": "REASON_KEY",
+  "dataType": "int64",
+  "sourceColumn": "REASON_KEY",
+  "sourceProviderType": "Integer"
+}

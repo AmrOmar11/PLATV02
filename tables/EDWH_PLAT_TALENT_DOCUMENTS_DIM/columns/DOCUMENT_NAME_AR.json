@@ -1,0 +1,6 @@
+{
+  "name": "DOCUMENT_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "DOCUMENT_NAME_AR",
+  "sourceProviderType": "WChar"
+}

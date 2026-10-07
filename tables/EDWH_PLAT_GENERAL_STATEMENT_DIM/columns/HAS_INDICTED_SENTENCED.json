@@ -1,0 +1,7 @@
+{
+  "name": "HAS_INDICTED_SENTENCED",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_INDICTED_SENTENCED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

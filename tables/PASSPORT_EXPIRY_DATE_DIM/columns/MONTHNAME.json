@@ -1,0 +1,6 @@
+{
+  "name": "MONTHNAME",
+  "dataType": "string",
+  "sourceColumn": "MONTHNAME",
+  "sourceProviderType": "Char"
+}

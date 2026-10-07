@@ -1,0 +1,7 @@
+{
+  "name": "444c1736-1ca7-407b-9faf-7f92e4c4f23d",
+  "fromTable": "EDWH_PLAT_SMSA_TRACKINGRESULTS_DIM",
+  "fromColumn": "APPLICANT_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_DIM",
+  "toColumn": "APPLICANT_KEY"
+}

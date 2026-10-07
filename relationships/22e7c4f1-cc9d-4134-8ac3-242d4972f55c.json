@@ -1,0 +1,7 @@
+{
+  "name": "22e7c4f1-cc9d-4134-8ac3-242d4972f55c",
+  "fromTable": "EDWH_PLAT_SECURITY_CHECKS_FACT",
+  "fromColumn": "SECURITY_CHECKS_KEY",
+  "toTable": "EDWH_PLAT_SECURITY_CHECKS_DIM",
+  "toColumn": "SECURITY_CHECKS_KEY"
+}

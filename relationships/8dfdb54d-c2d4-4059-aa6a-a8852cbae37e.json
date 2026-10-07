@@ -1,0 +1,7 @@
+{
+  "name": "8dfdb54d-c2d4-4059-aa6a-a8852cbae37e",
+  "fromTable": "EDWH_PLAT_ENTREPRENEUR_INFO_FACT",
+  "fromColumn": "INVESTING_ENTITY_KEY",
+  "toTable": "EDWH_PLAT_INVESTING_ENTITIES_DIM",
+  "toColumn": "INVESTING_ENTITY_KEY"
+}

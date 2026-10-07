@@ -1,0 +1,9 @@
+{
+  "name": "EDWH_PLAT_NIC_RENEWED_IQAMA_FACT",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_NIC_RENEWED_IQAMA_FACT].*   FROM [EDWH].[EDWH_PLAT_NIC_RENEWED_IQAMA_FACT] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

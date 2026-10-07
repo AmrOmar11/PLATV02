@@ -1,0 +1,6 @@
+{
+  "name": "PREMIUM_IQAMA_NUMBER_OF_YEARS",
+  "dataType": "int64",
+  "sourceColumn": "PREMIUM_IQAMA_NUMBER_OF_YEARS",
+  "sourceProviderType": "Integer"
+}

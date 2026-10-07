@@ -1,0 +1,7 @@
+{
+  "name": "8bc7e5f8-4795-4be2-8cd4-e7534db9b308",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "ON_BEHALF_MOBILE_COUNTRY_KEY",
+  "toTable": "ON_BEHALF_MOBILE_COUNTRY_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

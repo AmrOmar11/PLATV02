@@ -1,0 +1,6 @@
+{
+  "name": "NIC_IQAMA_START_DATE",
+  "dataType": "int64",
+  "sourceColumn": "NIC_IQAMA_START_DATE",
+  "sourceProviderType": "Integer"
+}

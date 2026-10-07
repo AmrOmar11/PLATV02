@@ -1,0 +1,7 @@
+{
+  "name": "30559fe6-bd4a-49c5-9bb6-c62e0baa3bb1",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "PASSPORT_ISSUE_DATE_KEY",
+  "toTable": "PASSPORT_ISSUE_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

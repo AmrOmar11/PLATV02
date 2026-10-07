@@ -1,0 +1,9 @@
+{
+  "name": "EDWH_PLAT_LAN_LEVELS_ARB_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_LAN_LEVELS_ARB_DIM].*   FROM [EDWH].[EDWH_PLAT_LAN_LEVELS_ARB_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

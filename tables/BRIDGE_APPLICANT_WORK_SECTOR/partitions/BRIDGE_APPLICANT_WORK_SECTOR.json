@@ -1,0 +1,17 @@
+{
+  "name": "BRIDGE_APPLICANT_WORK_SECTOR",
+  "source": {
+    "type": "query",
+    "query": [
+      "SELECT DISTINCT",
+      "    AD.APPLICANT_KEY,",
+      "    WE.WORK_SECTOR_KEY",
+      "FROM EDWH.EDWH_PLAT_WORK_EXPERIENCES_FACT AS WE",
+      "INNER JOIN EDWH.EDWH_PLAT_APPLICATIONS_DETAILS_FACT AS AD",
+      "    ON WE.APPLICATION_KEY = AD.APPLICATION_KEY",
+      "WHERE AD.APPLICANT_KEY IS NOT NULL",
+      "  AND WE.WORK_SECTOR_KEY IS NOT NULL;"
+    ],
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

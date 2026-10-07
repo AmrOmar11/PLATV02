@@ -1,0 +1,17 @@
+{
+  "name": "TEST_FIRST_CREATED_DATE",
+  "expression": [
+    "VAR CreatedKey =",
+    "    CALCULATE(",
+    "        MIN(",
+    "            'EDWH_PLAT_APP_REQST_ASGN_FACT'[CREATED_AT]",
+    "        )",
+    "    )",
+    "RETURN",
+    "    LOOKUPVALUE(",
+    "        'REQST_ASGN_COMPLETED_AT_DATE'[DATE],",
+    "        'REQST_ASGN_COMPLETED_AT_DATE'[COMMON_DATE_DIM_KEY],",
+    "        CreatedKey",
+    "    )"
+  ]
+}

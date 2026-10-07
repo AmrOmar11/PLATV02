@@ -1,0 +1,7 @@
+{
+  "name": "4b57dbeb-1793-4ebc-91fb-ddcf9fa0894c",
+  "fromTable": "EDWH_PLAT_WORK_EXPERIENCES_FACT",
+  "fromColumn": "SPECIALIZATION_KEY",
+  "toTable": "EDWH_PLAT_WORK_SPECIALIZATIONS_DIM",
+  "toColumn": "SPECIALIZATION_KEY"
+}

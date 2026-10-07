@@ -1,0 +1,6 @@
+{
+  "name": "QUARTERNAME",
+  "dataType": "string",
+  "sourceColumn": "QUARTERNAME",
+  "sourceProviderType": "Char"
+}

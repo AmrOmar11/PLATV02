@@ -1,0 +1,7 @@
+{
+  "name": "HAS_PATENT",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_PATENT",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

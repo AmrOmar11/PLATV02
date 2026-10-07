@@ -1,0 +1,7 @@
+{
+  "name": "TIME",
+  "dataType": "dateTime",
+  "sourceColumn": "TIME",
+  "formatString": "General Date",
+  "sourceProviderType": "DBTimeStamp"
+}

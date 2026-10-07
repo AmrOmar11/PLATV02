@@ -1,0 +1,7 @@
+{
+  "name": "b8b42e4f-c4f1-4802-a994-4d580d04519d",
+  "fromTable": "EDWH_PLAT_APP_REQST_ADD_DPNDT_DIM",
+  "fromColumn": "NATIONALITY_KEY",
+  "toTable": "COMMON_NATIONALITIES_DIM",
+  "toColumn": "NATIONALITY_KEY"
+}

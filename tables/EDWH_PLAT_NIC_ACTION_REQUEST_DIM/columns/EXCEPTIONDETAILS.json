@@ -1,0 +1,6 @@
+{
+  "name": "EXCEPTIONDETAILS",
+  "dataType": "string",
+  "sourceColumn": "EXCEPTIONDETAILS",
+  "sourceProviderType": "WChar"
+}

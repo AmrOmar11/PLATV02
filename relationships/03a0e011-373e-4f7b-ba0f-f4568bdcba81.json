@@ -1,0 +1,7 @@
+{
+  "name": "03a0e011-373e-4f7b-ba0f-f4568bdcba81",
+  "fromTable": "EDWH_PLAT_APP_REQST_CHANGE_NAME_DIM",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

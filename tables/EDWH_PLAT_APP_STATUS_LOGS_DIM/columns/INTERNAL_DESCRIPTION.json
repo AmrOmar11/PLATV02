@@ -1,0 +1,6 @@
+{
+  "name": "INTERNAL_DESCRIPTION",
+  "dataType": "string",
+  "sourceColumn": "INTERNAL_DESCRIPTION",
+  "sourceProviderType": "WChar"
+}

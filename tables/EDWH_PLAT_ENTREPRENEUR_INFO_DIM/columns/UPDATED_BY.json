@@ -1,0 +1,6 @@
+{
+  "name": "UPDATED_BY",
+  "dataType": "int64",
+  "sourceColumn": "UPDATED_BY",
+  "sourceProviderType": "Integer"
+}

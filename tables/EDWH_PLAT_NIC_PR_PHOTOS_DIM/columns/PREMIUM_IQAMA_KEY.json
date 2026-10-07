@@ -1,0 +1,6 @@
+{
+  "name": "PREMIUM_IQAMA_KEY",
+  "dataType": "int64",
+  "sourceColumn": "PREMIUM_IQAMA_KEY",
+  "sourceProviderType": "Int32"
+}

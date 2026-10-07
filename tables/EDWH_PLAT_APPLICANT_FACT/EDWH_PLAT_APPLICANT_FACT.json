@@ -1,0 +1,17 @@
+{
+  "name": "EDWH_PLAT_APPLICANT_FACT",
+  "annotations": [
+    {
+      "name": "_TM_ExtProp_QueryDefinition",
+      "value": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_APPLICANT_FACT].*   FROM [EDWH].[EDWH_PLAT_APPLICANT_FACT] "
+    },
+    {
+      "name": "_TM_ExtProp_DbTableName",
+      "value": "EDWH_PLAT_APPLICANT_FACT"
+    },
+    {
+      "name": "_TM_ExtProp_DbSchemaName",
+      "value": "EDWH"
+    }
+  ]
+}

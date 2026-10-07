@@ -1,0 +1,6 @@
+{
+  "name": "REJECTION_REASON",
+  "dataType": "string",
+  "sourceColumn": "REJECTION_REASON",
+  "sourceProviderType": "WChar"
+}

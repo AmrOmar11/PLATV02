@@ -1,0 +1,6 @@
+{
+  "name": "EMP_STATUS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "EMP_STATUS_KEY",
+  "sourceProviderType": "Integer"
+}

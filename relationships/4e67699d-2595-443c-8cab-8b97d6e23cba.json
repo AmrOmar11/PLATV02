@@ -1,0 +1,7 @@
+{
+  "name": "4e67699d-2595-443c-8cab-8b97d6e23cba",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "RESIDENCY_TYPE_KEY",
+  "toTable": "EDWH_PLAT_APP_RESIDENCY_TYPES_DIM",
+  "toColumn": "RESIDENCY_TYPE_KEY"
+}

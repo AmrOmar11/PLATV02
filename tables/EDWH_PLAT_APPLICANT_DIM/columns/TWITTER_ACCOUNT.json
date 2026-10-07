@@ -1,0 +1,6 @@
+{
+  "name": "TWITTER_ACCOUNT",
+  "dataType": "string",
+  "sourceColumn": "TWITTER_ACCOUNT",
+  "sourceProviderType": "WChar"
+}

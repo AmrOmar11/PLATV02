@@ -1,0 +1,7 @@
+{
+  "name": "2f129f94-89cf-4ecb-b54b-bf9717327775",
+  "fromTable": "EDWH_PLAT_APP_REQST_STATUS_LOG_FACT",
+  "fromColumn": "REQST_STATUS_KEY",
+  "toTable": "EDWH_PLAT_APP_REQST_STATUS_DIM",
+  "toColumn": "REQST_STATUS_KEY"
+}

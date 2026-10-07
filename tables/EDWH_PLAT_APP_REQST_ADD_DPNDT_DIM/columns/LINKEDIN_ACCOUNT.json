@@ -1,0 +1,6 @@
+{
+  "name": "LINKEDIN_ACCOUNT",
+  "dataType": "string",
+  "sourceColumn": "LINKEDIN_ACCOUNT",
+  "sourceProviderType": "WChar"
+}

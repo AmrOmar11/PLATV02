@@ -1,0 +1,6 @@
+{
+  "name": "WORK_EXP_ID",
+  "dataType": "int64",
+  "sourceColumn": "WORK_EXP_ID",
+  "sourceProviderType": "Integer"
+}

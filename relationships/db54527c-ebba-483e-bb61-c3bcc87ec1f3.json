@@ -1,0 +1,7 @@
+{
+  "name": "db54527c-ebba-483e-bb61-c3bcc87ec1f3",
+  "fromTable": "EDWH_PLAT_STE_PER_STATEMENT_DIM",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

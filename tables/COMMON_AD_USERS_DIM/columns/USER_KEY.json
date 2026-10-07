@@ -1,0 +1,6 @@
+{
+  "name": "USER_KEY",
+  "dataType": "int64",
+  "sourceColumn": "USER_KEY",
+  "sourceProviderType": "Integer"
+}

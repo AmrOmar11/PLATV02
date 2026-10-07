@@ -1,0 +1,6 @@
+{
+  "name": "COMPLETED_AT",
+  "dataType": "int64",
+  "sourceColumn": "COMPLETED_AT",
+  "sourceProviderType": "Integer"
+}

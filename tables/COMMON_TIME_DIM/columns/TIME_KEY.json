@@ -1,0 +1,6 @@
+{
+  "name": "TIME_KEY",
+  "dataType": "int64",
+  "sourceColumn": "TIME_KEY",
+  "sourceProviderType": "Integer"
+}

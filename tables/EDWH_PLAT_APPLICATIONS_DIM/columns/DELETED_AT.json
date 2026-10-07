@@ -1,0 +1,6 @@
+{
+  "name": "DELETED_AT",
+  "dataType": "string",
+  "sourceColumn": "DELETED_AT",
+  "sourceProviderType": "WChar"
+}

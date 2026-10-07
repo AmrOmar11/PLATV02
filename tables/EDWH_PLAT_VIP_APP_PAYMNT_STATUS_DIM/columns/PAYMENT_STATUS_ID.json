@@ -1,0 +1,6 @@
+{
+  "name": "PAYMENT_STATUS_ID",
+  "dataType": "int64",
+  "sourceColumn": "PAYMENT_STATUS_ID",
+  "sourceProviderType": "Integer"
+}

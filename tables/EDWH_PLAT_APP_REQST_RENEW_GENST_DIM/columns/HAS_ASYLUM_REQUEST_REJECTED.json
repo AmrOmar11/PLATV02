@@ -1,0 +1,7 @@
+{
+  "name": "HAS_ASYLUM_REQUEST_REJECTED",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_ASYLUM_REQUEST_REJECTED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

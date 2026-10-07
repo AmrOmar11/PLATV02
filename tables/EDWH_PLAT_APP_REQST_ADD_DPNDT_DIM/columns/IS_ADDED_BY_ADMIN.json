@@ -1,0 +1,7 @@
+{
+  "name": "IS_ADDED_BY_ADMIN",
+  "dataType": "boolean",
+  "sourceColumn": "IS_ADDED_BY_ADMIN",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

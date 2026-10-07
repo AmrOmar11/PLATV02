@@ -1,0 +1,6 @@
+{
+  "name": "SHIPMENT_REF",
+  "dataType": "string",
+  "sourceColumn": "SHIPMENT_REF",
+  "sourceProviderType": "Char"
+}

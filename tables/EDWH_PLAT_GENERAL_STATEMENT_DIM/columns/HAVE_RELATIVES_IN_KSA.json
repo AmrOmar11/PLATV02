@@ -1,0 +1,7 @@
+{
+  "name": "HAVE_RELATIVES_IN_KSA",
+  "dataType": "boolean",
+  "sourceColumn": "HAVE_RELATIVES_IN_KSA",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

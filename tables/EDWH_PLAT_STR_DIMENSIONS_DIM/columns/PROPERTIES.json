@@ -1,0 +1,6 @@
+{
+  "name": "PROPERTIES",
+  "dataType": "string",
+  "sourceColumn": "PROPERTIES",
+  "sourceProviderType": "WChar"
+}

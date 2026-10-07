@@ -1,0 +1,6 @@
+{
+  "name": "NIC_CODE",
+  "dataType": "string",
+  "sourceColumn": "NIC_CODE",
+  "sourceProviderType": "WChar"
+}

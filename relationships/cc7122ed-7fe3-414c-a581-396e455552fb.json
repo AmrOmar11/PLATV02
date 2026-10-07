@@ -1,0 +1,7 @@
+{
+  "name": "cc7122ed-7fe3-414c-a581-396e455552fb",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "PASSPORT_EXPIRY_DATE_KEY",
+  "toTable": "PASSPORT_EXPIRY_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

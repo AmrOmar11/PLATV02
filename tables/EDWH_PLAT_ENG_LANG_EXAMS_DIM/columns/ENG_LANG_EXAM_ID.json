@@ -1,0 +1,6 @@
+{
+  "name": "ENG_LANG_EXAM_ID",
+  "dataType": "int64",
+  "sourceColumn": "ENG_LANG_EXAM_ID",
+  "sourceProviderType": "Integer"
+}

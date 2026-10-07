@@ -1,0 +1,6 @@
+{
+  "name": "TIME12",
+  "dataType": "string",
+  "sourceColumn": "TIME12",
+  "sourceProviderType": "WChar"
+}

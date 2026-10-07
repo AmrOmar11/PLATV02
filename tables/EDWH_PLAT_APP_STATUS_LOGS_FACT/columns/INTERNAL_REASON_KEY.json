@@ -1,0 +1,6 @@
+{
+  "name": "INTERNAL_REASON_KEY",
+  "dataType": "int64",
+  "sourceColumn": "INTERNAL_REASON_KEY",
+  "sourceProviderType": "Integer"
+}

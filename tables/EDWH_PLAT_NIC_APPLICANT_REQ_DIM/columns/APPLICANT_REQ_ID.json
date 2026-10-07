@@ -1,0 +1,6 @@
+{
+  "name": "APPLICANT_REQ_ID",
+  "dataType": "int64",
+  "sourceColumn": "APPLICANT_REQ_ID",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ASSIGNEE",
+  "dataType": "string",
+  "sourceColumn": "ASSIGNEE",
+  "sourceProviderType": "WChar"
+}

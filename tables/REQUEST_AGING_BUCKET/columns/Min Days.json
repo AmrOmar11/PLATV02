@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Min Days",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Min Days]"
+}

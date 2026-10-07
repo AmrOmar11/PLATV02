@@ -1,0 +1,6 @@
+{
+  "name": "OTHER_FORTUNE_SOURCE",
+  "dataType": "string",
+  "sourceColumn": "OTHER_FORTUNE_SOURCE",
+  "sourceProviderType": "WChar"
+}

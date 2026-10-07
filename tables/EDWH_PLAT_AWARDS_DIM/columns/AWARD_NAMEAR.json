@@ -1,0 +1,6 @@
+{
+  "name": "AWARD_NAMEAR",
+  "dataType": "string",
+  "sourceColumn": "AWARD_NAMEAR",
+  "sourceProviderType": "WChar"
+}

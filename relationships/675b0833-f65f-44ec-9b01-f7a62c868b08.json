@@ -1,0 +1,8 @@
+{
+  "name": "675b0833-f65f-44ec-9b01-f7a62c868b08",
+  "fromTable": "EDWH_PLAT_APPLICANT_REQUESTS_FACT",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}

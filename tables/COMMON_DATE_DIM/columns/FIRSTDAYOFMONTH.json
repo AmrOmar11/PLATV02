@@ -1,0 +1,6 @@
+{
+  "name": "FIRSTDAYOFMONTH",
+  "dataType": "string",
+  "sourceColumn": "FIRSTDAYOFMONTH",
+  "sourceProviderType": "WChar"
+}

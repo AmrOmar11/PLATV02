@@ -1,0 +1,22 @@
+{
+  "type": "calculated",
+  "name": "AGE",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR TodayDateKey =",
+    "    LOOKUPVALUE(",
+    "        'COMMON_DATE_DIM'[COMMON_DATE_DIM_KEY],",
+    "        'COMMON_DATE_DIM'[DATE],",
+    "        TODAY()",
+    "    )",
+    "",
+    "VAR DaysOld = IF(EDWH_PLAT_APPLICANT_FACT[BIRTH_DATE_KEY] = -1,BLANK(),",
+    "    TodayDateKey -",
+    "    'EDWH_PLAT_APPLICANT_FACT'[BIRTH_DATE_KEY])",
+    "",
+    "RETURN",
+    "    INT(DaysOld / 365.2425)"
+  ]
+}

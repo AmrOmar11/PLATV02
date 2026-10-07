@@ -1,0 +1,6 @@
+{
+  "name": "FULL_MOBILE_NUMBER",
+  "dataType": "int64",
+  "sourceColumn": "FULL_MOBILE_NUMBER",
+  "sourceProviderType": "BigInt"
+}

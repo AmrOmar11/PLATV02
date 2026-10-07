@@ -1,0 +1,6 @@
+{
+  "name": "END_DATE",
+  "dataType": "string",
+  "sourceColumn": "END_DATE",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "8dc29122-507d-427a-9747-c3f2ca86b63c",
+  "fromTable": "EDWH_PLAT_APP_REQST_SEC_CHECKS_DIM",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "644ef9a3-60ae-4d1a-b413-7adcd740bef8",
+  "fromTable": "EDWH_PLAT_APP_SECTION_COMMENTS_FACT",
+  "fromColumn": "COMMENT_KEY",
+  "toTable": "EDWH_PLAT_APP_SECTION_COMMENTS_DIM",
+  "toColumn": "COMMENT_KEY"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "NIC_ERROR_CODE",
+  "dataType": "string",
+  "sourceColumn": "NIC_ERROR_CODE",
+  "sourceProviderType": "WChar"
+}

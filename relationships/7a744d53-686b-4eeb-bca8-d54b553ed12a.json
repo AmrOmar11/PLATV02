@@ -1,0 +1,7 @@
+{
+  "name": "7a744d53-686b-4eeb-bca8-d54b553ed12a",
+  "fromTable": "EDWH_PLAT_APP_REQST_ADD_DPNDT_DIM",
+  "fromColumn": "MARITAL_STATUS_KEY",
+  "toTable": "COMMON_MARITAL_STATUS_DIM",
+  "toColumn": "MARITAL_STATUS_KEY"
+}

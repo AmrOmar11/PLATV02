@@ -1,0 +1,7 @@
+{
+  "name": "HAS_PAYMENT_INSOLVENCY",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_PAYMENT_INSOLVENCY",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

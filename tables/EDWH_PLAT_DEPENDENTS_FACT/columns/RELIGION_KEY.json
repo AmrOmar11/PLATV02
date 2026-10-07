@@ -1,0 +1,6 @@
+{
+  "name": "RELIGION_KEY",
+  "dataType": "int64",
+  "sourceColumn": "RELIGION_KEY",
+  "sourceProviderType": "Integer"
+}

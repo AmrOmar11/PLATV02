@@ -1,0 +1,6 @@
+{
+  "name": "CAREER_HISTORY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "CAREER_HISTORY_KEY",
+  "sourceProviderType": "Integer"
+}

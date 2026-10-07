@@ -1,0 +1,7 @@
+{
+  "name": "daa56ecc-38b1-40df-9e50-027e0f0df628",
+  "fromTable": "EDWH_PLAT_NIC_DEPENDENT_REQ_FACT",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_NIC_APPLICANT_REQ_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

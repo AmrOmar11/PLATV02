@@ -1,0 +1,7 @@
+{
+  "name": "53eab37d-a35f-48e7-9763-e4bde69f0645",
+  "fromTable": "EDWH_PLAT_GIFTED_INCOMES_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

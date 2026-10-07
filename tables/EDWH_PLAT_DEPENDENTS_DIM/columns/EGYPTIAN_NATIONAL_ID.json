@@ -1,0 +1,6 @@
+{
+  "name": "EGYPTIAN_NATIONAL_ID",
+  "dataType": "int64",
+  "sourceColumn": "EGYPTIAN_NATIONAL_ID",
+  "sourceProviderType": "BigInt"
+}

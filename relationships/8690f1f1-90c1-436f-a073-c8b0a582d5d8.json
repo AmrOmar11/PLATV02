@@ -1,0 +1,7 @@
+{
+  "name": "8690f1f1-90c1-436f-a073-c8b0a582d5d8",
+  "fromTable": "EDWH_PLAT_STR_POINTS_RESULTS_DIM",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

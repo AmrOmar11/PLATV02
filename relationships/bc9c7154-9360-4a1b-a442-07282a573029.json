@@ -1,0 +1,7 @@
+{
+  "name": "bc9c7154-9360-4a1b-a442-07282a573029",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "NATIONALITY_KEY",
+  "toTable": "COMMON_NATIONALITIES_DIM",
+  "toColumn": "NATIONALITY_KEY"
+}

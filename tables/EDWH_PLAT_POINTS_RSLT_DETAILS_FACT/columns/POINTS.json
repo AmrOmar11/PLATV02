@@ -1,0 +1,6 @@
+{
+  "name": "POINTS",
+  "dataType": "int64",
+  "sourceColumn": "POINTS",
+  "sourceProviderType": "Integer"
+}

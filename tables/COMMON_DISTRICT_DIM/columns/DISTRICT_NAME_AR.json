@@ -1,0 +1,6 @@
+{
+  "name": "DISTRICT_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "DISTRICT_NAME_AR",
+  "sourceProviderType": "WChar"
+}

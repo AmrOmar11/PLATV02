@@ -1,0 +1,6 @@
+{
+  "name": "DELETED_BY",
+  "dataType": "int64",
+  "sourceColumn": "DELETED_BY",
+  "sourceProviderType": "Integer"
+}

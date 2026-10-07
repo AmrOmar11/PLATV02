@@ -1,0 +1,6 @@
+{
+  "name": "JOB_TITLE",
+  "dataType": "string",
+  "sourceColumn": "JOB_TITLE",
+  "sourceProviderType": "WChar"
+}

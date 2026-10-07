@@ -1,0 +1,7 @@
+{
+  "name": "84efac1a-d8f8-45c8-8143-c1e2a3205b48",
+  "fromTable": "EDWH_PLAT_APP_REQST_ASGN_FACT",
+  "fromColumn": "STAGE_ASSIGNEE_KEY",
+  "toTable": "EDWH_PLAT_APPLICATION_STG_ASGN_DIM",
+  "toColumn": "STAGE_ASSIGNEE_KEY"
+}

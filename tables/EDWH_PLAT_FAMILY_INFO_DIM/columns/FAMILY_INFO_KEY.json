@@ -1,0 +1,6 @@
+{
+  "name": "FAMILY_INFO_KEY",
+  "dataType": "int64",
+  "sourceColumn": "FAMILY_INFO_KEY",
+  "sourceProviderType": "Integer"
+}

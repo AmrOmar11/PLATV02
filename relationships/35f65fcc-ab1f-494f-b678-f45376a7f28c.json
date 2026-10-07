@@ -1,0 +1,7 @@
+{
+  "name": "35f65fcc-ab1f-494f-b678-f45376a7f28c",
+  "fromTable": "EDWH_PLAT_NIC_RENEWED_IQAMA_FACT",
+  "fromColumn": "ACTION_REQUEST_KEY",
+  "toTable": "EDWH_PLAT_NIC_ACTION_REQUEST_DIM",
+  "toColumn": "ACTION_REQUEST_KEY"
+}

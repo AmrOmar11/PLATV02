@@ -1,0 +1,6 @@
+{
+  "name": "RELATIONSHIP",
+  "dataType": "string",
+  "sourceColumn": "RELATIONSHIP",
+  "sourceProviderType": "WChar"
+}

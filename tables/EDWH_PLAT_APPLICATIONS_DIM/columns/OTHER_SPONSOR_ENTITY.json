@@ -1,0 +1,6 @@
+{
+  "name": "OTHER_SPONSOR_ENTITY",
+  "dataType": "string",
+  "sourceColumn": "OTHER_SPONSOR_ENTITY",
+  "sourceProviderType": "WChar"
+}

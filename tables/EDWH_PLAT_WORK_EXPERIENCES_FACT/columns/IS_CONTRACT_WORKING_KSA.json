@@ -1,0 +1,7 @@
+{
+  "name": "IS_CONTRACT_WORKING_KSA",
+  "dataType": "boolean",
+  "sourceColumn": "IS_CONTRACT_WORKING_KSA",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

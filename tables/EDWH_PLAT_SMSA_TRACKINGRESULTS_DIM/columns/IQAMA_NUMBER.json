@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_NUMBER",
+  "dataType": "string",
+  "sourceColumn": "IQAMA_NUMBER",
+  "sourceProviderType": "Char"
+}

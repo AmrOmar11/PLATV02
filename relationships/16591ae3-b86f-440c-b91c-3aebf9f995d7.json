@@ -1,0 +1,7 @@
+{
+  "name": "16591ae3-b86f-440c-b91c-3aebf9f995d7",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "SECOND_NATIONALITY_KEY",
+  "toTable": "SECOND_NATIONALITY_DIM",
+  "toColumn": "NATIONALITY_KEY"
+}

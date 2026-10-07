@@ -1,0 +1,7 @@
+{
+  "name": "0acef54b-8768-418b-acbc-fe796cb83863",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "CITY_KEY",
+  "toTable": "COMMON_CITIES_DIM",
+  "toColumn": "CITY_KEY"
+}

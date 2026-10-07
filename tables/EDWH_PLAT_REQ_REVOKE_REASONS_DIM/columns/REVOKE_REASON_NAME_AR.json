@@ -1,0 +1,6 @@
+{
+  "name": "REVOKE_REASON_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "REVOKE_REASON_NAME_AR",
+  "sourceProviderType": "WChar"
+}

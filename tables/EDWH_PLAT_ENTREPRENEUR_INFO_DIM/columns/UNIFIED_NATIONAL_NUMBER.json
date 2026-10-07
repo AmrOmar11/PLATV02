@@ -1,0 +1,6 @@
+{
+  "name": "UNIFIED_NATIONAL_NUMBER",
+  "dataType": "string",
+  "sourceColumn": "UNIFIED_NATIONAL_NUMBER",
+  "sourceProviderType": "WChar"
+}

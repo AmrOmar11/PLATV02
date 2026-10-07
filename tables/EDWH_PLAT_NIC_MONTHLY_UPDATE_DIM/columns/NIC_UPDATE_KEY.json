@@ -1,0 +1,6 @@
+{
+  "name": "NIC_UPDATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "NIC_UPDATE_KEY",
+  "sourceProviderType": "Integer"
+}

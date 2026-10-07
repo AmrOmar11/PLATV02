@@ -1,0 +1,6 @@
+{
+  "name": "JOURNAL",
+  "dataType": "string",
+  "sourceColumn": "JOURNAL",
+  "sourceProviderType": "WChar"
+}

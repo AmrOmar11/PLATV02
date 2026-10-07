@@ -1,0 +1,6 @@
+{
+  "name": "REQST_STATUS_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "REQST_STATUS_NAME_AR",
+  "sourceProviderType": "WChar"
+}

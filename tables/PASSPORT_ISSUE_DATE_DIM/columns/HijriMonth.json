@@ -1,0 +1,6 @@
+{
+  "name": "HijriMonth",
+  "dataType": "string",
+  "sourceColumn": "HijriMonth",
+  "sourceProviderType": "Char"
+}

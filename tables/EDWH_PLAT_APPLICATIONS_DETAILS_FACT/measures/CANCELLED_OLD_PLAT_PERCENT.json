@@ -1,0 +1,11 @@
+{
+  "name": "CANCELLED_OLD_PLAT_PERCENT",
+  "expression": [
+    "",
+    "DIVIDE(",
+    "    [CANCELLED_RESIDENCY_OLD_PLAT],",
+    "    [TOTAL_CANCELLED_RESIDENCY],",
+    "    0",
+    ") * 100"
+  ]
+}

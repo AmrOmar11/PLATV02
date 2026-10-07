@@ -1,0 +1,6 @@
+{
+  "name": "ACTION_REQUEST_KEY",
+  "dataType": "int64",
+  "sourceColumn": "ACTION_REQUEST_KEY",
+  "sourceProviderType": "Integer"
+}

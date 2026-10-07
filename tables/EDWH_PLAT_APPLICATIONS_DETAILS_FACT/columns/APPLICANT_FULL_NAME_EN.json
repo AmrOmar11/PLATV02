@@ -1,0 +1,15 @@
+{
+  "type": "calculated",
+  "name": "APPLICANT_FULL_NAME_EN",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "LOOKUPVALUE(",
+    "   'EDWH_PLAT_APPLICANT_DIM'[APPLICANT_FULL_NAME_EN],",
+    "   'EDWH_PLAT_APPLICANT_DIM'[APPLICANT_KEY],",
+    "   'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICANT_KEY]",
+    "",
+    ")"
+  ]
+}

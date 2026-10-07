@@ -1,0 +1,7 @@
+{
+  "name": "ISWEEKDAY",
+  "dataType": "boolean",
+  "sourceColumn": "ISWEEKDAY",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

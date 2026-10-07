@@ -1,0 +1,12 @@
+{
+  "name": "AVERAGE_AGE",
+  "expression": [
+    "",
+    "AVERAGEX(",
+    "    VALUES('EDWH_PLAT_APPLICANT_FACT'[APPLICANT_KEY]),",
+    "    CALCULATE(",
+    "        MAX('EDWH_PLAT_APPLICANT_FACT'[AGE])",
+    "    )",
+    ")"
+  ]
+}

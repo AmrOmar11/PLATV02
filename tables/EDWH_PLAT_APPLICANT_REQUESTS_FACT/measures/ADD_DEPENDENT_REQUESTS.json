@@ -1,0 +1,11 @@
+{
+  "name": "ADD_DEPENDENT_REQUESTS",
+  "expression": [
+    "CALCULATE (",
+    "    DISTINCTCOUNT (",
+    "        'EDWH_PLAT_APPLICANT_REQUESTS_FACT'[APPLICANT_REQ_KEY]",
+    "    ),",
+    "    'EDWH_PLAT_APPLICANT_REQUESTS_FACT'[REQST_TYPE_KEY] = 1",
+    ")"
+  ]
+}

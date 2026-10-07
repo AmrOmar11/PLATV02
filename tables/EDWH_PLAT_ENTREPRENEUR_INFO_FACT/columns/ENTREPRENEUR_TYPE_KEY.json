@@ -1,0 +1,6 @@
+{
+  "name": "ENTREPRENEUR_TYPE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "ENTREPRENEUR_TYPE_KEY",
+  "sourceProviderType": "Integer"
+}

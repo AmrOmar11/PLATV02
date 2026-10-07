@@ -1,0 +1,6 @@
+{
+  "name": "ACTIONS",
+  "dataType": "string",
+  "sourceColumn": "ACTIONS",
+  "sourceProviderType": "WChar"
+}

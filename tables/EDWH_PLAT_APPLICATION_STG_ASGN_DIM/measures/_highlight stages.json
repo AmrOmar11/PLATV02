@@ -1,0 +1,25 @@
+{
+  "name": "_highlight stages",
+  "expression": [
+    " ",
+    "VAR SelectedStage =",
+    "    SELECTEDVALUE ( EDWH_PLAT_APP_REQST_ASGN_FACT[Latest Stage])",
+    " ",
+    "VAR SelectedOrder =",
+    "    CALCULATE (",
+    "        MAX ( Stage_Group_AR[STAGE_ASSIGNEE_KEY] ),",
+    "        REMOVEFILTERS ( Stage_Group_AR),",
+    "        TREATAS ( { SelectedStage }, Stage_Group_AR[Stage Group AR])",
+    "    )",
+    " ",
+    "VAR CurrentRowOrder =",
+    "    MAX ( Stage_Group_AR[STAGE_ASSIGNEE_KEY])",
+    "RETURN",
+    "IF (",
+    "    NOT ISBLANK ( SelectedOrder )           ",
+    "&& CurrentRowOrder <= SelectedOrder,",
+    "    1,",
+    "    BLANK()",
+    ")"
+  ]
+}

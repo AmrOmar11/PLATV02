@@ -1,0 +1,6 @@
+{
+  "name": "ANY_INFO_FINANCIAL_SOLVENCY",
+  "dataType": "string",
+  "sourceColumn": "ANY_INFO_FINANCIAL_SOLVENCY",
+  "sourceProviderType": "WChar"
+}

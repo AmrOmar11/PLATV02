@@ -1,0 +1,7 @@
+{
+  "name": "b26e7c50-f1da-4db4-8781-8abb88f0a2e8",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "BIRTH_DATE_KEY",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

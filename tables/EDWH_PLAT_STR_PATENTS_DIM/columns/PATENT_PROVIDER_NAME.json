@@ -1,0 +1,6 @@
+{
+  "name": "PATENT_PROVIDER_NAME",
+  "dataType": "string",
+  "sourceColumn": "PATENT_PROVIDER_NAME",
+  "sourceProviderType": "WChar"
+}

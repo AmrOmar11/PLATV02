@@ -1,0 +1,6 @@
+{
+  "name": "POST_CODE",
+  "dataType": "string",
+  "sourceColumn": "POST_CODE",
+  "sourceProviderType": "WChar"
+}

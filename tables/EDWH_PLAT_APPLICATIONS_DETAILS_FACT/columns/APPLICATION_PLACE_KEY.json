@@ -1,0 +1,6 @@
+{
+  "name": "APPLICATION_PLACE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "APPLICATION_PLACE_KEY",
+  "sourceProviderType": "SmallInt"
+}

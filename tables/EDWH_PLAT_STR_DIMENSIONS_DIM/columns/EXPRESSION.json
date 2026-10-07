@@ -1,0 +1,6 @@
+{
+  "name": "EXPRESSION",
+  "dataType": "string",
+  "sourceColumn": "EXPRESSION",
+  "sourceProviderType": "WChar"
+}

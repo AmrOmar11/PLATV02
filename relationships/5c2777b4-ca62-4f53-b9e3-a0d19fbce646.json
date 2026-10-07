@@ -1,0 +1,7 @@
+{
+  "name": "5c2777b4-ca62-4f53-b9e3-a0d19fbce646",
+  "fromTable": "EDWH_PLAT_APP_REQST_RENEW_RES_DIM",
+  "fromColumn": "FORTUNE_VALUE_KEY",
+  "toTable": "EDWH_PLAT_FORTUNE_VALUES_DIM",
+  "toColumn": "FORTUNE_VALUE_KEY"
+}

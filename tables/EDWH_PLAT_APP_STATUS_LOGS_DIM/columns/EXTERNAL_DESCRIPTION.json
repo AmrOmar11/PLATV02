@@ -1,0 +1,6 @@
+{
+  "name": "EXTERNAL_DESCRIPTION",
+  "dataType": "string",
+  "sourceColumn": "EXTERNAL_DESCRIPTION",
+  "sourceProviderType": "WChar"
+}

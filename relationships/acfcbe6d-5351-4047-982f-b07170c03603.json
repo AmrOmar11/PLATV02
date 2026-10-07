@@ -1,0 +1,7 @@
+{
+  "name": "acfcbe6d-5351-4047-982f-b07170c03603",
+  "fromTable": "APPLICATION_ORGANIZATION_BRIDGE",
+  "fromColumn": "WORK_EXP_KEY",
+  "toTable": "EDWH_PLAT_WORK_EXPERIENCES_DIM",
+  "toColumn": "WORK_EXP_KEY"
+}

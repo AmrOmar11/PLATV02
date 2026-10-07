@@ -1,0 +1,8 @@
+{
+  "name": "f4f8537a-b166-4aba-b029-c897c547cc8a",
+  "fromTable": "EDWH_PLAT_APP_SEC_PROGRESS_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY",
+  "isActive": false
+}

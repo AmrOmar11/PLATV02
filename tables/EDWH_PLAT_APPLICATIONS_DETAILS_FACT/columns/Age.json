@@ -1,0 +1,27 @@
+{
+  "type": "calculated",
+  "name": "Age",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "VAR BirthDate =",
+    "   'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[Birth_Date]",
+    "VAR TodayDate =",
+    "   TODAY()",
+    "RETURN",
+    "   IF(",
+    "       ISBLANK(BirthDate),",
+    "       BLANK(),",
+    "       YEAR(TodayDate) - YEAR(BirthDate)",
+    "           - IF(",
+    "               DATE(",
+    "                   YEAR(TodayDate),",
+    "                   MONTH(BirthDate),",
+    "                   DAY(BirthDate)",
+    "               ) > TodayDate,",
+    "               1,",
+    "               0",
+    "           )",
+    "   )"
+  ]
+}

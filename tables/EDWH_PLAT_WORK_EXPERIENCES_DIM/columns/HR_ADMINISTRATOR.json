@@ -1,0 +1,6 @@
+{
+  "name": "HR_ADMINISTRATOR",
+  "dataType": "string",
+  "sourceColumn": "HR_ADMINISTRATOR",
+  "sourceProviderType": "WChar"
+}

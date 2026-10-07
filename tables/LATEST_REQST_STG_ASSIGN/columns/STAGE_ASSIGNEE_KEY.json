@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "STAGE_ASSIGNEE_KEY",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[STAGE_ASSIGNEE_KEY]"
+}

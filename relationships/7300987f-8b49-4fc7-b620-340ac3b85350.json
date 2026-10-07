@@ -1,0 +1,7 @@
+{
+  "name": "7300987f-8b49-4fc7-b620-340ac3b85350",
+  "fromTable": "EDWH_PLAT_NIC_ACTION_REQUEST_FACT",
+  "fromColumn": "PREMIUM_IQAMA_KEY",
+  "toTable": "EDWH_PLAT_NIC_PREMIUM_IQAMA_DIM",
+  "toColumn": "PREMIUM_IQAMA_KEY"
+}

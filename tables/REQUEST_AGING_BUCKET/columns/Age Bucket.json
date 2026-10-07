@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Age Bucket",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Age Bucket]"
+}

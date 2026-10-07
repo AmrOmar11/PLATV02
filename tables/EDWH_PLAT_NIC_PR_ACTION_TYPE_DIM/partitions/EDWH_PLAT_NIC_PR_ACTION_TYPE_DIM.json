@@ -1,0 +1,9 @@
+{
+  "name": "EDWH_PLAT_NIC_PR_ACTION_TYPE_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_NIC_PR_ACTION_TYPE_DIM].*   FROM [EDWH].[EDWH_PLAT_NIC_PR_ACTION_TYPE_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

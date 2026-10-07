@@ -1,0 +1,6 @@
+{
+  "name": "RENEW_REQ_ID",
+  "dataType": "int64",
+  "sourceColumn": "RENEW_REQ_ID",
+  "sourceProviderType": "Integer"
+}

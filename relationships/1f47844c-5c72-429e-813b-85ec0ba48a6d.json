@@ -1,0 +1,7 @@
+{
+  "name": "1f47844c-5c72-429e-813b-85ec0ba48a6d",
+  "fromTable": "EDWH_PLAT_NIC_DEPENDENT_REQ_FACT",
+  "fromColumn": "ISSUING_STATUS_KEY",
+  "toTable": "EDWH_PLAT_ISSUING_STATUS_DIM",
+  "toColumn": "ISSUING_STATUS_KEY"
+}

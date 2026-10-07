@@ -1,0 +1,7 @@
+{
+  "name": "0d30c436-e6e1-4b58-b2d4-8f313e89baaf",
+  "fromTable": "EDWH_PLAT_NIC_APPLICANT_REQ_FACT",
+  "fromColumn": "IQAMA_DURATION_KEY",
+  "toTable": "EDWH_PLAT_NIC_IQAMA_DURATIONS_DIM",
+  "toColumn": "IQAMA_DURATION_KEY"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "IS_SUSPECT_FOR_CRIME",
+  "dataType": "boolean",
+  "sourceColumn": "IS_SUSPECT_FOR_CRIME",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "3ebce38f-f957-4146-9674-2097a61047d0",
+  "fromTable": "EDWH_PLAT_APP_STATUS_LOGS_FACT",
+  "fromColumn": "INTERNAL_REASON_KEY",
+  "toTable": "EDWH_PLAT_APP_STATUS_REASON_DIM",
+  "toColumn": "REASON_KEY",
+  "isActive": false
+}

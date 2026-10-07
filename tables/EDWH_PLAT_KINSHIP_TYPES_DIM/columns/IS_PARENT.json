@@ -1,0 +1,7 @@
+{
+  "name": "IS_PARENT",
+  "dataType": "boolean",
+  "sourceColumn": "IS_PARENT",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

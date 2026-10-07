@@ -1,0 +1,6 @@
+{
+  "name": "ORGANIZATION_KEY",
+  "dataType": "int64",
+  "sourceColumn": "ORGANIZATION_KEY",
+  "sourceProviderType": "SmallInt"
+}

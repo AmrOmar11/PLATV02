@@ -1,0 +1,6 @@
+{
+  "name": "ACR028_ACR005_SPID",
+  "dataType": "string",
+  "sourceColumn": "ACR028_ACR005_SPID",
+  "sourceProviderType": "WChar"
+}

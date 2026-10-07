@@ -1,0 +1,6 @@
+{
+  "name": "ON_BEHALF_NAME",
+  "dataType": "string",
+  "sourceColumn": "ON_BEHALF_NAME",
+  "sourceProviderType": "WChar"
+}

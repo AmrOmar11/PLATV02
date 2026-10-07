@@ -1,0 +1,12 @@
+{
+  "name": "VIP_RESIDENTS",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    DISTINCTCOUNT(",
+    "        'EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM'[APPLICANT_KEY]",
+    "    ),",
+    "    'EDWH_PLAT_NIC_MONTHLY_UPDATE_DIM'[DESCRIPTION] = \"صالح\"",
+    ")"
+  ]
+}

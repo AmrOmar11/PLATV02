@@ -1,0 +1,7 @@
+{
+  "name": "HAVE_INVESTMENT_RETURNS",
+  "dataType": "boolean",
+  "sourceColumn": "HAVE_INVESTMENT_RETURNS",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

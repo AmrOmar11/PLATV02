@@ -1,0 +1,7 @@
+{
+  "name": "4e121396-08df-4210-92e5-10b613a88387",
+  "fromTable": "EDWH_PLAT_CAREER_HISTORIES_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MANAGEMENT_LEVEL_KEY",
+  "dataType": "int64",
+  "sourceColumn": "MANAGEMENT_LEVEL_KEY",
+  "sourceProviderType": "Integer"
+}

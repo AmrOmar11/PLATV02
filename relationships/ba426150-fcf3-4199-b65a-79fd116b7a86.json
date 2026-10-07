@@ -1,0 +1,7 @@
+{
+  "name": "ba426150-fcf3-4199-b65a-79fd116b7a86",
+  "fromTable": "EDWH_PLAT_LANG_LEVELS_FACT",
+  "fromColumn": "LANG_LEVEL_AR_KEY",
+  "toTable": "EDWH_PLAT_LAN_LEVELS_ARB_DIM",
+  "toColumn": "LANG_LEVEL_AR_KEY"
+}

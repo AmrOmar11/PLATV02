@@ -1,0 +1,8 @@
+{
+  "name": "f14ff797-6750-4b26-bfc5-25b773b90047",
+  "fromTable": "COMMON_CITIES_DIM",
+  "fromColumn": "REGION_KEY",
+  "toTable": "COMMON_REGIONS_DIM",
+  "toColumn": "REGION_KEY",
+  "isActive": false
+}

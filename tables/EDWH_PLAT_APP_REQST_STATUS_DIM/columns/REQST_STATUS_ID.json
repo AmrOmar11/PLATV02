@@ -1,0 +1,6 @@
+{
+  "name": "REQST_STATUS_ID",
+  "dataType": "int64",
+  "sourceColumn": "REQST_STATUS_ID",
+  "sourceProviderType": "Integer"
+}

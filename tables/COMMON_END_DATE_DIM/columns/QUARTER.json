@@ -1,0 +1,6 @@
+{
+  "name": "QUARTER",
+  "dataType": "string",
+  "sourceColumn": "QUARTER",
+  "sourceProviderType": "Char"
+}

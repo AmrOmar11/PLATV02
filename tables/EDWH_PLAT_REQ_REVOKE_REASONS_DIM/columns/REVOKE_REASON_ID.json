@@ -1,0 +1,6 @@
+{
+  "name": "REVOKE_REASON_ID",
+  "dataType": "int64",
+  "sourceColumn": "REVOKE_REASON_ID",
+  "sourceProviderType": "Integer"
+}

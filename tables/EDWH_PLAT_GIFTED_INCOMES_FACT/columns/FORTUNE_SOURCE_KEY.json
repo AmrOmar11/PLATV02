@@ -1,0 +1,6 @@
+{
+  "name": "FORTUNE_SOURCE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "FORTUNE_SOURCE_KEY",
+  "sourceProviderType": "Integer"
+}

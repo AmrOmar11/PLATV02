@@ -1,0 +1,11 @@
+{
+  "name": "DISTINCT_ORGANIZATIONS",
+  "expression": [
+    "CALCULATE(",
+    "    DISTINCTCOUNT(",
+    "        EDWH_PLAT_WORK_EXPERIENCES_DIM[Organization_Name]",
+    "    ),",
+    "    EDWH_PLAT_WORK_EXPERIENCES_FACT[APPLICATION_KEY] <> BLANK()",
+    ")"
+  ]
+}

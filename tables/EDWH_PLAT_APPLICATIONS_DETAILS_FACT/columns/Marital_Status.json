@@ -1,0 +1,13 @@
+{
+  "type": "calculated",
+  "name": "Marital_Status",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "LOOKUPVALUE(",
+    "   'COMMON_MARITAL_STATUS_DIM'[CRM_Marital_Status_AR],",
+    "   'COMMON_MARITAL_STATUS_DIM'[MARITAL_STATUS_KEY],",
+    "   'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[Marital_Status_Key]",
+    ")"
+  ]
+}

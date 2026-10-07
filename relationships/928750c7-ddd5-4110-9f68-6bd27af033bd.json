@@ -1,0 +1,7 @@
+{
+  "name": "928750c7-ddd5-4110-9f68-6bd27af033bd",
+  "fromTable": "EDWH_PLAT_TALENT_DOCS_FACT",
+  "fromColumn": "TALENT_KEY",
+  "toTable": "EDWH_PLAT_GIFTED_TALENTS_DIM",
+  "toColumn": "TALENT_KEY"
+}

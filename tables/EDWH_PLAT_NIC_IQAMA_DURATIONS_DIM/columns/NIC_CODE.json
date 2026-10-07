@@ -1,0 +1,6 @@
+{
+  "name": "NIC_CODE",
+  "dataType": "int64",
+  "sourceColumn": "NIC_CODE",
+  "sourceProviderType": "SmallInt"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PASSPORT_EXPIRY_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "PASSPORT_EXPIRY_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "562b813d-a613-42d2-88fb-65cf3b570eed",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "EMPLOYMENT_STATUS_KEY",
+  "toTable": "EDWH_PLAT_EMPLOYMENT_STATUSES_DIM",
+  "toColumn": "EMP_STATUS_KEY"
+}

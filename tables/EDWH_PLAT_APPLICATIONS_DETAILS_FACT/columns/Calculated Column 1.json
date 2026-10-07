@@ -1,0 +1,8 @@
+{
+  "type": "calculated",
+  "name": "Calculated Column 1",
+  "dataType": "boolean",
+  "isDataTypeInferred": true,
+  "expression": "IF(EDWH_PLAT_APPLICATIONS_DETAILS_FACT[APP_COMPLETION_DATE_KEY] = EDWH_PLAT_APPLICATIONS_DETAILS_FACT[APP_LATEST_UPDATE_DATE_KEY] , TRUE() , FALSE())",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\""
+}

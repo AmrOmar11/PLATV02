@@ -1,0 +1,6 @@
+{
+  "name": "RESIDENCY_ID",
+  "dataType": "int64",
+  "sourceColumn": "RESIDENCY_ID",
+  "sourceProviderType": "Integer"
+}

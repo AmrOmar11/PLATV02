@@ -1,0 +1,6 @@
+{
+  "name": "NATIONALID",
+  "dataType": "int64",
+  "sourceColumn": "NATIONALID",
+  "sourceProviderType": "BigInt"
+}

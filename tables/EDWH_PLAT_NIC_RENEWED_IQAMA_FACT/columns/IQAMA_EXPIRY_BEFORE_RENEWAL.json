@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_EXPIRY_BEFORE_RENEWAL",
+  "dataType": "string",
+  "sourceColumn": "IQAMA_EXPIRY_BEFORE_RENEWAL",
+  "sourceProviderType": "WChar"
+}

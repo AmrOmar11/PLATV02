@@ -1,0 +1,6 @@
+{
+  "name": "POINTS_RESULT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "POINTS_RESULT_KEY",
+  "sourceProviderType": "Integer"
+}

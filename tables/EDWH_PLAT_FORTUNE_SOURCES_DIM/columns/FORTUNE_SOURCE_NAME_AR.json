@@ -1,0 +1,6 @@
+{
+  "name": "FORTUNE_SOURCE_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "FORTUNE_SOURCE_NAME_AR",
+  "sourceProviderType": "WChar"
+}

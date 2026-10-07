@@ -1,0 +1,7 @@
+{
+  "name": "0352a4c7-9537-4ce3-964b-cf4ec6b1bcc7",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "MARITAL_STATUS_KEY",
+  "toTable": "COMMON_MARITAL_STATUS_DIM",
+  "toColumn": "MARITAL_STATUS_KEY"
+}

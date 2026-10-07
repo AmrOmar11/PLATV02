@@ -1,0 +1,12 @@
+{
+  "type": "calculated",
+  "name": "REQUEST_CREATED_AT_DATE ",
+  "dataType": "dateTime",
+  "expression": [
+    "DATE(",
+    "    VALUE(LEFT('EDWH_PLAT_APPLICANT_REQUESTS_DIM'[CREATED_AT], 4)),",
+    "    VALUE(MID('EDWH_PLAT_APPLICANT_REQUESTS_DIM'[CREATED_AT], 6, 2)),",
+    "    VALUE(MID('EDWH_PLAT_APPLICANT_REQUESTS_DIM'[CREATED_AT], 9, 2))",
+    ")"
+  ]
+}

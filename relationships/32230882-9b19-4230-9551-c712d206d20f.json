@@ -1,0 +1,7 @@
+{
+  "name": "32230882-9b19-4230-9551-c712d206d20f",
+  "fromTable": "EDWH_PLAT_WORK_EXPERIENCES_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

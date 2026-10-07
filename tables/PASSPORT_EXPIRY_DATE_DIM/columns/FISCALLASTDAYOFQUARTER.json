@@ -1,0 +1,6 @@
+{
+  "name": "FISCALLASTDAYOFQUARTER",
+  "dataType": "string",
+  "sourceColumn": "FISCALLASTDAYOFQUARTER",
+  "sourceProviderType": "WChar"
+}

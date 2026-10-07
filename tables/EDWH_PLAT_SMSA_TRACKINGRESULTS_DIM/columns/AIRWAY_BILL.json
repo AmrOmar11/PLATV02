@@ -1,0 +1,6 @@
+{
+  "name": "AIRWAY_BILL",
+  "dataType": "string",
+  "sourceColumn": "AIRWAY_BILL",
+  "sourceProviderType": "Char"
+}

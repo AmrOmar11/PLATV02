@@ -1,0 +1,7 @@
+{
+  "name": "ef3bd1c1-dd45-474f-b38a-d24ace78c31d",
+  "fromTable": "EDWH_PLAT_ENTREPRENEUR_INFO_FACT",
+  "fromColumn": "ENTREPRENEUR_TYPE_KEY",
+  "toTable": "EDWH_PLAT_ENTREPRENEUR_TYPES_DIM",
+  "toColumn": "ENTREPRENEUR_TYPE_KEY"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "HR_PHONE_COUNTRY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "HR_PHONE_COUNTRY_KEY",
+  "sourceProviderType": "SmallInt"
+}

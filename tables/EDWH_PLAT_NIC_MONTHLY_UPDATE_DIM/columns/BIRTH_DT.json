@@ -1,0 +1,6 @@
+{
+  "name": "BIRTH_DT",
+  "dataType": "string",
+  "sourceColumn": "BIRTH_DT",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "INVESTMENT_TYPE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "INVESTMENT_TYPE_KEY",
+  "sourceProviderType": "Integer"
+}

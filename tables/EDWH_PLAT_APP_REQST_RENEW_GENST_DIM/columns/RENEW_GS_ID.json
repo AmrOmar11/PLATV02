@@ -1,0 +1,6 @@
+{
+  "name": "RENEW_GS_ID",
+  "dataType": "int64",
+  "sourceColumn": "RENEW_GS_ID",
+  "sourceProviderType": "Integer"
+}

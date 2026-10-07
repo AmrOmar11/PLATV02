@@ -1,0 +1,7 @@
+{
+  "name": "84d2196a-6296-42fe-9afa-d5abb4131de9",
+  "fromTable": "EDWH_PLAT_AWARD_FIELDS_DIM",
+  "fromColumn": "AWARD_SECTOR_KEY",
+  "toTable": "EDWH_PLAT_AWARD_SECTORS_DIM",
+  "toColumn": "AWARD_SECTOR_KEY"
+}

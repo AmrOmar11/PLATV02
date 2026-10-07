@@ -1,0 +1,7 @@
+{
+  "name": "HAVE_MONTHLY_SALARY",
+  "dataType": "boolean",
+  "sourceColumn": "HAVE_MONTHLY_SALARY",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

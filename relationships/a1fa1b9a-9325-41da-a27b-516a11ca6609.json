@@ -1,0 +1,7 @@
+{
+  "name": "a1fa1b9a-9325-41da-a27b-516a11ca6609",
+  "fromTable": "EDWH_PLAT_APP_REQST_SEC_CHECKS_DIM",
+  "fromColumn": "SEC_RESULT_KEY",
+  "toTable": "EDWH_PLAT_SEC_CHECK_RESULT_DIM",
+  "toColumn": "SEC_RESULT_KEY"
+}

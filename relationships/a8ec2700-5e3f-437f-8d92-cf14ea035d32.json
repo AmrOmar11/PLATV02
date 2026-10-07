@@ -1,0 +1,7 @@
+{
+  "name": "a8ec2700-5e3f-437f-8d92-cf14ea035d32",
+  "fromTable": "EDWH_PLAT_NIC_APPLICANT_REQ_FACT",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_NIC_APPLICANT_REQ_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

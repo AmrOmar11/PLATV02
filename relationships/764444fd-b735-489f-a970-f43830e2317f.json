@@ -1,0 +1,7 @@
+{
+  "name": "764444fd-b735-489f-a970-f43830e2317f",
+  "fromTable": "EDWH_PLAT_NIC_APPLICANT_REQ_FACT",
+  "fromColumn": "NIC_IQAMA_EXPIRY_DATE",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

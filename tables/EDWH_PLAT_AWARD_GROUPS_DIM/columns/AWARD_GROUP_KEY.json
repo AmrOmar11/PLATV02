@@ -1,0 +1,6 @@
+{
+  "name": "AWARD_GROUP_KEY",
+  "dataType": "int64",
+  "sourceColumn": "AWARD_GROUP_KEY",
+  "sourceProviderType": "Integer"
+}

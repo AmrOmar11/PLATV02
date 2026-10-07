@@ -1,0 +1,6 @@
+{
+  "name": "INCOMING_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "INCOMING_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PREMIUM_IQAMA_NUMBER",
+  "dataType": "int64",
+  "sourceColumn": "PREMIUM_IQAMA_NUMBER",
+  "sourceProviderType": "BigInt"
+}

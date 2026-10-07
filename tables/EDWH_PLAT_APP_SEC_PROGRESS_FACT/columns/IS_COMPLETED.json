@@ -1,0 +1,7 @@
+{
+  "name": "IS_COMPLETED",
+  "dataType": "boolean",
+  "sourceColumn": "IS_COMPLETED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

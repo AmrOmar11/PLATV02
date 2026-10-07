@@ -1,0 +1,8 @@
+{
+  "name": "TOTAL_DEPENDENTS",
+  "expression": [
+    "DISTINCTCOUNT(",
+    "    EDWH_PLAT_DEPENDENTS_FACT[DEPENDENT_KEY]",
+    ")"
+  ]
+}

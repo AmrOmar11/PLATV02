@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "HijriDate",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "COMMON_DATE_DIM[HijriDate]"
+}

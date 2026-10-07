@@ -1,0 +1,6 @@
+{
+  "name": "INCOME_KEY",
+  "dataType": "int64",
+  "sourceColumn": "INCOME_KEY",
+  "sourceProviderType": "Integer"
+}

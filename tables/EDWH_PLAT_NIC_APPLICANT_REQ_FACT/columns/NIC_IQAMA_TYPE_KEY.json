@@ -1,0 +1,6 @@
+{
+  "name": "NIC_IQAMA_TYPE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "NIC_IQAMA_TYPE_KEY",
+  "sourceProviderType": "Integer"
+}

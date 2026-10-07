@@ -1,0 +1,6 @@
+{
+  "name": "COMMON_DATE_DIM_KEY",
+  "dataType": "int64",
+  "sourceColumn": "COMMON_DATE_DIM_KEY",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "DELIVERY_DATE_KEY",
+  "dataType": "dateTime",
+  "sourceColumn": "DELIVERY_DATE_KEY",
+  "formatString": "General Date",
+  "sourceProviderType": "DBTimeStamp"
+}

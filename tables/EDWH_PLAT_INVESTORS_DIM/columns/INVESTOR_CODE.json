@@ -1,0 +1,6 @@
+{
+  "name": "INVESTOR_CODE",
+  "dataType": "string",
+  "sourceColumn": "INVESTOR_CODE",
+  "sourceProviderType": "WChar"
+}

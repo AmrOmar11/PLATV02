@@ -1,0 +1,8 @@
+{
+  "name": "67b96444-3968-44d8-87da-67a984221930",
+  "fromTable": "EDWH_PLAT_EDUCATION_INFO_FACT",
+  "fromColumn": "UNIVERSITY_KEY",
+  "toTable": "EDWH_PLAT_UNIVERSITIES_DIM",
+  "toColumn": "UNIVERSITY_KEY",
+  "isActive": false
+}

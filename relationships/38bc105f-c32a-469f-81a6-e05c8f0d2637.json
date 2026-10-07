@@ -1,0 +1,7 @@
+{
+  "name": "38bc105f-c32a-469f-81a6-e05c8f0d2637",
+  "fromTable": "EDWH_PLAT_APP_REQST_RENEW_RES_DIM",
+  "fromColumn": "RENEW_REQ_KEY",
+  "toTable": "EDWH_PLAT_APP_REQST_RENEW_DIM",
+  "toColumn": "RENEW_REQ_KEY"
+}

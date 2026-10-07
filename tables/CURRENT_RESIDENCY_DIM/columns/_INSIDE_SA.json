@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "_INSIDE_SA",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": "IF(CURRENT_RESIDENCY_DIM[COUNTRY_KEY] = 148 , \"داخل المملكة السعودية\",\"خارج المملكة السعودية\")"
+}

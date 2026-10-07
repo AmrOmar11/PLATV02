@@ -1,0 +1,7 @@
+{
+  "name": "HAS_ARRESTED_INDICTED_FOR_CRIME",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_ARRESTED_INDICTED_FOR_CRIME",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

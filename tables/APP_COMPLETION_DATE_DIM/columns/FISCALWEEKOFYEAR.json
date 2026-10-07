@@ -1,0 +1,6 @@
+{
+  "name": "FISCALWEEKOFYEAR",
+  "dataType": "string",
+  "sourceColumn": "FISCALWEEKOFYEAR",
+  "sourceProviderType": "Char"
+}

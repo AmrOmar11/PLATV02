@@ -1,0 +1,7 @@
+{
+  "name": "7ef3cf5b-cac5-447a-bf3c-a10523f39353",
+  "fromTable": "EDWH_PLAT_STR_AWARDS_DIM",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

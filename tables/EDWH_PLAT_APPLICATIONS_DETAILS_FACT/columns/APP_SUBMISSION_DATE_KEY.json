@@ -1,0 +1,6 @@
+{
+  "name": "APP_SUBMISSION_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "APP_SUBMISSION_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

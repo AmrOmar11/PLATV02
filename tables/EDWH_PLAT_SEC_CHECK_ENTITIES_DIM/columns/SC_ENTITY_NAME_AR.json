@@ -1,0 +1,6 @@
+{
+  "name": "SC_ENTITY_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "SC_ENTITY_NAME_AR",
+  "sourceProviderType": "WChar"
+}

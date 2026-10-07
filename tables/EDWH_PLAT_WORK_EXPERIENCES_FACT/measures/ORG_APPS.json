@@ -1,0 +1,9 @@
+{
+  "name": "ORG_APPS",
+  "expression": [
+    "CALCULATE(",
+    "    DISTINCTCOUNT(EDWH_PLAT_WORK_EXPERIENCES_FACT[APPLICATION_KEY]),",
+    "    EDWH_PLAT_WORK_EXPERIENCES_FACT[APPLICATION_KEY] <> BLANK()",
+    ")"
+  ]
+}

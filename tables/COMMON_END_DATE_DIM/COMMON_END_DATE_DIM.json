@@ -1,0 +1,17 @@
+{
+  "name": "COMMON_END_DATE_DIM",
+  "annotations": [
+    {
+      "name": "_TM_ExtProp_QueryDefinition",
+      "value": " \t\t\t\tSELECT [COMMON].[COMMON_END_DATE_DIM].*   FROM [COMMON].[COMMON_END_DATE_DIM] "
+    },
+    {
+      "name": "_TM_ExtProp_DbTableName",
+      "value": "COMMON_END_DATE_DIM"
+    },
+    {
+      "name": "_TM_ExtProp_DbSchemaName",
+      "value": "COMMON"
+    }
+  ]
+}

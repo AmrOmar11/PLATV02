@@ -1,0 +1,6 @@
+{
+  "name": "CATEGORY_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "CATEGORY_NAME_AR",
+  "sourceProviderType": "WChar"
+}

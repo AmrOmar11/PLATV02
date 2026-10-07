@@ -1,0 +1,6 @@
+{
+  "name": "STATUS",
+  "dataType": "string",
+  "sourceColumn": "STATUS",
+  "sourceProviderType": "Char"
+}

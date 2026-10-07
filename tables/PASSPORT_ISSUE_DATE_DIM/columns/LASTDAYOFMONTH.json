@@ -1,0 +1,6 @@
+{
+  "name": "LASTDAYOFMONTH",
+  "dataType": "string",
+  "sourceColumn": "LASTDAYOFMONTH",
+  "sourceProviderType": "WChar"
+}

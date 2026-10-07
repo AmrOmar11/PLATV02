@@ -1,0 +1,6 @@
+{
+  "name": "NIC_PR_IQAMA_NUMBER",
+  "dataType": "int64",
+  "sourceColumn": "NIC_PR_IQAMA_NUMBER",
+  "sourceProviderType": "BigInt"
+}

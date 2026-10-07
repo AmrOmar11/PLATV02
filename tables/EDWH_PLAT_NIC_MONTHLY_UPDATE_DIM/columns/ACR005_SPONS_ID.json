@@ -1,0 +1,6 @@
+{
+  "name": "ACR005_SPONS_ID",
+  "dataType": "string",
+  "sourceColumn": "ACR005_SPONS_ID",
+  "sourceProviderType": "WChar"
+}

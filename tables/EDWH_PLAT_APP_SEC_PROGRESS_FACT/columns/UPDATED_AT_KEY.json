@@ -1,0 +1,6 @@
+{
+  "name": "UPDATED_AT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "UPDATED_AT_KEY",
+  "sourceProviderType": "Integer"
+}

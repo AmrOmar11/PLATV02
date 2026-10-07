@@ -1,0 +1,6 @@
+{
+  "name": "WORK_SECTOR_ID",
+  "dataType": "int64",
+  "sourceColumn": "WORK_SECTOR_ID",
+  "sourceProviderType": "Integer"
+}

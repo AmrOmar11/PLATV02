@@ -1,0 +1,7 @@
+{
+  "name": "0470d291-f3a5-4842-8d31-d4a693761943",
+  "fromTable": "EDWH_PLAT_SECURITY_CHECKS_FACT",
+  "fromColumn": "SC_ENTITY_KEY",
+  "toTable": "EDWH_PLAT_SEC_CHECK_ENTITIES_DIM",
+  "toColumn": "SC_ENTITY_KEY"
+}

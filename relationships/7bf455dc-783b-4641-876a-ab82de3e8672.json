@@ -1,0 +1,7 @@
+{
+  "name": "7bf455dc-783b-4641-876a-ab82de3e8672",
+  "fromTable": "EDWH_PLAT_RESIDENCIES_FACT",
+  "fromColumn": "RESIDENCY_KEY",
+  "toTable": "EDWH_PLAT_RESIDENCIES_DIM",
+  "toColumn": "RESIDENCY_KEY"
+}

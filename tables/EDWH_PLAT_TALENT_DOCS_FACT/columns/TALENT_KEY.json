@@ -1,0 +1,6 @@
+{
+  "name": "TALENT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "TALENT_KEY",
+  "sourceProviderType": "Integer"
+}

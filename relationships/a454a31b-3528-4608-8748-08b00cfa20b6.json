@@ -1,0 +1,7 @@
+{
+  "name": "a454a31b-3528-4608-8748-08b00cfa20b6",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "APPLICANT_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_DIM",
+  "toColumn": "APPLICANT_KEY"
+}

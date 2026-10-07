@@ -1,0 +1,13 @@
+{
+  "type": "calculated",
+  "name": "Marital_Status_Key",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "LOOKUPVALUE(",
+    "   'EDWH_PLAT_APPLICANT_FACT'[MARITAL_STATUS_KEY],",
+    "   'EDWH_PLAT_APPLICANT_FACT'[APPLICANT_KEY],",
+    "   'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICANT_KEY]",
+    ")"
+  ]
+}

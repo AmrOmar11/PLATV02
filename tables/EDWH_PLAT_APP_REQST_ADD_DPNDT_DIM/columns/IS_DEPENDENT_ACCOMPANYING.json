@@ -1,0 +1,7 @@
+{
+  "name": "IS_DEPENDENT_ACCOMPANYING",
+  "dataType": "boolean",
+  "sourceColumn": "IS_DEPENDENT_ACCOMPANYING",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

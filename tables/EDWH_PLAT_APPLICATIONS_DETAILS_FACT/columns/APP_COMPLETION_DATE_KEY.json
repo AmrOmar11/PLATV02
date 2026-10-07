@@ -1,0 +1,6 @@
+{
+  "name": "APP_COMPLETION_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "APP_COMPLETION_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

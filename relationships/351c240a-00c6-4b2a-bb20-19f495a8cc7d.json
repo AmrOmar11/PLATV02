@@ -1,0 +1,7 @@
+{
+  "name": "351c240a-00c6-4b2a-bb20-19f495a8cc7d",
+  "fromTable": "EDWH_PLAT_WORK_SPECIALIZATIONS_DIM Copy",
+  "fromColumn": "WORK_SECTOR_KEY",
+  "toTable": "EDWH_PLAT_WORK_SECTORS_DIM",
+  "toColumn": "WORK_SECTOR_KEY"
+}

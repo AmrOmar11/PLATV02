@@ -1,0 +1,7 @@
+{
+  "name": "81d9f845-5a42-4c9d-9b4e-9618adee9c32",
+  "fromTable": "EDWH_PLAT_GIFTED_INCOMES_FACT",
+  "fromColumn": "FORTUNE_VALUE_KEY",
+  "toTable": "EDWH_PLAT_FORTUNE_VALUES_DIM",
+  "toColumn": "FORTUNE_VALUE_KEY"
+}

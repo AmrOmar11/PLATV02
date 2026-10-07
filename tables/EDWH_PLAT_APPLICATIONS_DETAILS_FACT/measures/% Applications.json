@@ -1,0 +1,12 @@
+{
+  "name": "% Applications",
+  "expression": [
+    "",
+    "DIVIDE(",
+    "    DISTINCTCOUNT('EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICATION_KEY]),",
+    "    CALCULATE(",
+    "        DISTINCTCOUNT('EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICATION_KEY]),",
+    "        ALLSELECTED('EDWH_PLAT_APPLICATIONS_DETAILS_FACT')",
+    "    ),0)"
+  ]
+}

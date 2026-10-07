@@ -1,0 +1,6 @@
+{
+  "name": "SECTION_ID",
+  "dataType": "int64",
+  "sourceColumn": "SECTION_ID",
+  "sourceProviderType": "Integer"
+}

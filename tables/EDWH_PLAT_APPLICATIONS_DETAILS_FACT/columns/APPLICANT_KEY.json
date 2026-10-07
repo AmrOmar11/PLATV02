@@ -1,0 +1,6 @@
+{
+  "name": "APPLICANT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "APPLICANT_KEY",
+  "sourceProviderType": "Integer"
+}

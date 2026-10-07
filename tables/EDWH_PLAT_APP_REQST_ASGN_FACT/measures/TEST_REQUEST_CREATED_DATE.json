@@ -1,0 +1,11 @@
+{
+  "name": "TEST_REQUEST_CREATED_DATE",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    MIN(",
+    "        'COMMON_DATE_DIM'[DATE]",
+    "    )",
+    ")"
+  ]
+}

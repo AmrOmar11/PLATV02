@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "DATE_RANGE",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "COMMON_DATE_DIM[DATE_RANGE]"
+}

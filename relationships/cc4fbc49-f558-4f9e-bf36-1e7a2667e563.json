@@ -1,0 +1,7 @@
+{
+  "name": "cc4fbc49-f558-4f9e-bf36-1e7a2667e563",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "THIRD_NATIONALITY_KEY",
+  "toTable": "THIRD_NATIONALITY_DIM",
+  "toColumn": "NATIONALITY_KEY"
+}

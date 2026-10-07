@@ -1,0 +1,7 @@
+{
+  "name": "APPS_WITH_STR_AWARDS",
+  "expression": [
+    "CALCULATE(",
+    "    DISTINCTCOUNT('EDWH_PLAT_STR_AWARDS_DIM'[APPLICATION_KEY]))"
+  ]
+}

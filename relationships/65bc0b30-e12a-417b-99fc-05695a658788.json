@@ -1,0 +1,7 @@
+{
+  "name": "65bc0b30-e12a-417b-99fc-05695a658788",
+  "fromTable": "EDWH_PLAT_APP_REQST_STATUS_LOG_FACT",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

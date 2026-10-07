@@ -1,0 +1,7 @@
+{
+  "name": "IS_VVIP",
+  "dataType": "boolean",
+  "sourceColumn": "IS_VVIP",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

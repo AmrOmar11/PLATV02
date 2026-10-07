@@ -1,0 +1,20 @@
+{
+  "type": "calculated",
+  "name": "_OVERALL_STATUS",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "VAR StatusID = VALUE('EDWH_PLAT_APPLICATION_STATUS_DIM'[APP_STATUS_ID])",
+    "RETURN",
+    "SWITCH(",
+    "    TRUE(),",
+    "    ISBLANK(StatusID) || StatusID = -1, BLANK(),",
+    "",
+    "    StatusID IN {200, 190, 400}, \"حاصل\",",
+    "",
+    "    StatusID IN {130, 300}, \"مستبعد\",",
+    "",
+    "    \"مقدم\"",
+    ")"
+  ]
+}

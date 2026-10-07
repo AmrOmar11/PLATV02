@@ -1,0 +1,7 @@
+{
+  "name": "5b437b6b-b93e-4840-a3f3-6e5a2090dc58",
+  "fromTable": "EDWH_PLAT_APP_REQST_REVOKE_DIM",
+  "fromColumn": "ACTION_SOURCE_KEY",
+  "toTable": "EDWH_PLAT_APP_REQST_ACT_SOURCE_DIM",
+  "toColumn": "ACTION_SOURCE_KEY"
+}

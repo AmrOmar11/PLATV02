@@ -1,0 +1,9 @@
+{
+  "name": "TOTAL_REQUSTS_FROM_DIM",
+  "expression": [
+    "",
+    "DISTINCTCOUNT(",
+    "    'EDWH_PLAT_APPLICANT_REQUESTS_DIM'[APPLICANT_REQ_KEY]",
+    ")"
+  ]
+}

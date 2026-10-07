@@ -1,0 +1,7 @@
+{
+  "name": "306ee694-b3b4-468d-8bd6-4f960b02ff18",
+  "fromTable": "EDWH_PLAT_APP_SECTION_COMMENTS_FACT",
+  "fromColumn": "LOG_KEY",
+  "toTable": "EDWH_PLAT_APP_STATUS_LOGS_DIM",
+  "toColumn": "LOG_KEY"
+}

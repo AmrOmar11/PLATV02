@@ -1,0 +1,7 @@
+{
+  "name": "TOTAL_ASGN_REQUESTS",
+  "expression": [
+    "",
+    "DISTINCTCOUNT(EDWH_PLAT_APP_REQST_ASGN_FACT[APPLICANT_REQ_KEY])"
+  ]
+}

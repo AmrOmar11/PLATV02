@@ -1,0 +1,6 @@
+{
+  "name": "DIMENSION_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "DIMENSION_NAME_AR",
+  "sourceProviderType": "WChar"
+}

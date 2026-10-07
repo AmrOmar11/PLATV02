@@ -1,0 +1,7 @@
+{
+  "name": "d0a96a28-e6b8-40d4-a615-b7a428269059",
+  "fromTable": "EDWH_PLAT_EDUCATION_INFO_FACT",
+  "fromColumn": "DEGREE_KEY",
+  "toTable": "EDWH_PLAT_EDUCATIONAL_DEGREES_DIM",
+  "toColumn": "DEGREE_KEY"
+}

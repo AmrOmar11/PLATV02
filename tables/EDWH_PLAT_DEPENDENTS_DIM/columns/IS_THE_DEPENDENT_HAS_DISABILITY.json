@@ -1,0 +1,7 @@
+{
+  "name": "IS_THE_DEPENDENT_HAS_DISABILITY",
+  "dataType": "boolean",
+  "sourceColumn": "IS_THE_DEPENDENT_HAS_DISABILITY",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

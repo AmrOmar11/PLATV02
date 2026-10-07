@@ -1,0 +1,6 @@
+{
+  "name": "SNAPSHOT_DATE",
+  "dataType": "string",
+  "sourceColumn": "SNAPSHOT_DATE",
+  "sourceProviderType": "WChar"
+}

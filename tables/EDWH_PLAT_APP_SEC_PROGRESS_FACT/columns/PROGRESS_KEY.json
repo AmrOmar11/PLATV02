@@ -1,0 +1,6 @@
+{
+  "name": "PROGRESS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "PROGRESS_KEY",
+  "sourceProviderType": "Integer"
+}

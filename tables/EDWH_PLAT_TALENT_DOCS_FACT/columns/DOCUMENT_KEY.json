@@ -1,0 +1,6 @@
+{
+  "name": "DOCUMENT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "DOCUMENT_KEY",
+  "sourceProviderType": "Integer"
+}

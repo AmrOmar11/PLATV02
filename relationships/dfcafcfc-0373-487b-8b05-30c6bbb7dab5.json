@@ -1,0 +1,7 @@
+{
+  "name": "dfcafcfc-0373-487b-8b05-30c6bbb7dab5",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "GENDER_KEY",
+  "toTable": "COMMON_GENDER_DIM",
+  "toColumn": "GENDER_KEY"
+}

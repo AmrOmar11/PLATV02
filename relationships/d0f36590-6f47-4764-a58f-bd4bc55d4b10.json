@@ -1,0 +1,7 @@
+{
+  "name": "d0f36590-6f47-4764-a58f-bd4bc55d4b10",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
+  "fromColumn": "APP_SUBMISSION_DATE_KEY",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

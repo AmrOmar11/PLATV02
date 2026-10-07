@@ -1,0 +1,9 @@
+{
+  "name": "COMMON_DISTRICT_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [COMMON].[COMMON_DISTRICT_DIM].*   FROM [COMMON].[COMMON_DISTRICT_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

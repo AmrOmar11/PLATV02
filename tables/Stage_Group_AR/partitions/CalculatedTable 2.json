@@ -1,0 +1,17 @@
+{
+  "name": "CalculatedTable 2",
+  "source": {
+    "type": "calculated",
+    "expression": [
+      "",
+      "SUMMARIZE(",
+      "    EDWH_PLAT_APPLICATION_STG_ASGN_DIM,",
+      "    EDWH_PLAT_APPLICATION_STG_ASGN_DIM[Stage Group AR],\"STAGE_ASSIGNEE_KEY\",",
+      "        FIRSTNONBLANK(",
+      "            EDWH_PLAT_APPLICATION_STG_ASGN_DIM[STAGE_ASSIGNEE_KEY],",
+      "            1",
+      "        )",
+      ")"
+    ]
+  }
+}

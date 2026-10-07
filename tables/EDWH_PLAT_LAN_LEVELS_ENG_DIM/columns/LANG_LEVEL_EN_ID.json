@@ -1,0 +1,6 @@
+{
+  "name": "LANG_LEVEL_EN_ID",
+  "dataType": "int64",
+  "sourceColumn": "LANG_LEVEL_EN_ID",
+  "sourceProviderType": "Integer"
+}

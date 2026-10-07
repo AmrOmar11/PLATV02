@@ -1,0 +1,6 @@
+{
+  "name": "HOH",
+  "dataType": "string",
+  "sourceColumn": "HOH",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TOTAL_REQST_REVOKE",
+  "expression": [
+    "",
+    "DISTINCTCOUNT(EDWH_PLAT_APP_REQST_REVOKE_DIM[APPLICANT_REQ_KEY])"
+  ]
+}

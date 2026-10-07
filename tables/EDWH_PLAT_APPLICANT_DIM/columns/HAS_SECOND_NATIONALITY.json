@@ -1,0 +1,7 @@
+{
+  "name": "HAS_SECOND_NATIONALITY",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_SECOND_NATIONALITY",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

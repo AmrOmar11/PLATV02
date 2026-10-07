@@ -1,0 +1,26 @@
+{
+  "type": "calculated",
+  "name": "DATE_RANGE",
+  "dataType": "string",
+  "expression": [
+    "",
+    "VAR CurrentDate = REQST_ASGN_COMPLETED_AT_DATE[DATE]",
+    "VAR TodayDate = TODAY()",
+    "RETURN",
+    "SWITCH(TRUE(),",
+    "",
+    "        CurrentDate = TodayDate, ",
+    "",
+    "            \"Daily Report\",",
+    "",
+    "        YEAR(CurrentDate) = YEAR(TodayDate) && MONTH(CurrentDate) = MONTH(TodayDate), ",
+    "",
+    "            \"Monthly Report\",",
+    "",
+    "        YEAR(CurrentDate) = YEAR(TodayDate), ",
+    "",
+    "            \"Yearly Report\",",
+    "",
+    "        blank())"
+  ]
+}

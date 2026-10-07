@@ -1,0 +1,6 @@
+{
+  "name": "STR_PER_STATEMENT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "STR_PER_STATEMENT_KEY",
+  "sourceProviderType": "Integer"
+}

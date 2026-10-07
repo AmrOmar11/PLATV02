@@ -1,0 +1,73 @@
+{
+  "name": "COMMON_QUARTER_DIM",
+  "annotations": [
+    {
+      "name": "_TM_ExtProp_QueryDefinition",
+      "value": " SELECT [COMMON].[COMMON_QUARTER_DIM].* FROM [COMMON].[COMMON_QUARTER_DIM] "
+    },
+    {
+      "name": "_TM_ExtProp_DbTableName",
+      "value": "COMMON_QUARTER_DIM"
+    },
+    {
+      "name": "_TM_ExtProp_DbSchemaName",
+      "value": "COMMON"
+    },
+    {
+      "name": "TableWidgetSerialization",
+      "value": [
+        "<?xml version=\"1.0\" encoding=\"UTF-16\"?><Gemini xmlns=\"TableWidgetSerialization\"><AnnotationContent><![CDATA[<?xml version=\"1.0\"?>",
+        "<TableWidgetGridSerialization xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">",
+        "  <ColumnSuggestedType />",
+        "  <ColumnFormat />",
+        "  <ColumnAccuracy />",
+        "  <ColumnCurrencySymbol />",
+        "  <ColumnPositivePattern />",
+        "  <ColumnNegativePattern />",
+        "  <ColumnWidths>",
+        "    <item>",
+        "      <key>",
+        "        <string>QUARTER_KEY</string>",
+        "      </key>",
+        "      <value>",
+        "        <int>128</int>",
+        "      </value>",
+        "    </item>",
+        "    <item>",
+        "      <key>",
+        "        <string>QUARTER</string>",
+        "      </key>",
+        "      <value>",
+        "        <int>96</int>",
+        "      </value>",
+        "    </item>",
+        "  </ColumnWidths>",
+        "  <ColumnDisplayIndex>",
+        "    <item>",
+        "      <key>",
+        "        <string>QUARTER_KEY</string>",
+        "      </key>",
+        "      <value>",
+        "        <int>0</int>",
+        "      </value>",
+        "    </item>",
+        "    <item>",
+        "      <key>",
+        "        <string>QUARTER</string>",
+        "      </key>",
+        "      <value>",
+        "        <int>1</int>",
+        "      </value>",
+        "    </item>",
+        "  </ColumnDisplayIndex>",
+        "  <ColumnFrozen />",
+        "  <ColumnChecked />",
+        "  <ColumnFilter />",
+        "  <SelectionFilter />",
+        "  <FilterParameters />",
+        "  <IsSortDescending>false</IsSortDescending>",
+        "</TableWidgetGridSerialization>]]></AnnotationContent></Gemini>"
+      ]
+    }
+  ]
+}

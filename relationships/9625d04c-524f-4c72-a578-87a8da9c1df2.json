@@ -1,0 +1,7 @@
+{
+  "name": "9625d04c-524f-4c72-a578-87a8da9c1df2",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "BIRTH_COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

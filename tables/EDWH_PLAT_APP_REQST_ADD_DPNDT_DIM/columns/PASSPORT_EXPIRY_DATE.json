@@ -1,0 +1,6 @@
+{
+  "name": "PASSPORT_EXPIRY_DATE",
+  "dataType": "string",
+  "sourceColumn": "PASSPORT_EXPIRY_DATE",
+  "sourceProviderType": "WChar"
+}

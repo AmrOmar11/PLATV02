@@ -1,0 +1,6 @@
+{
+  "name": "BIRTH_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "BIRTH_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

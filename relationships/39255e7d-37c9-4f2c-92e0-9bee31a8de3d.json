@@ -1,0 +1,7 @@
+{
+  "name": "39255e7d-37c9-4f2c-92e0-9bee31a8de3d",
+  "fromTable": "EDWH_PLAT_GENERAL_STATEMENT_DIM",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "calculated",
+  "name": "Organization_Name",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "IF(",
+    "    NOT ISBLANK('EDWH_PLAT_WORK_EXPERIENCES_DIM'[ORGANIZATION_OTHER])",
+    "        && 'EDWH_PLAT_WORK_EXPERIENCES_DIM'[ORGANIZATION_OTHER] <> \"\",",
+    "    'EDWH_PLAT_WORK_EXPERIENCES_DIM'[ORGANIZATION_OTHER],",
+    "    'EDWH_PLAT_WORK_EXPERIENCES_DIM'[OTHER_ORGANIZATION_NAME]",
+    ")"
+  ]
+}

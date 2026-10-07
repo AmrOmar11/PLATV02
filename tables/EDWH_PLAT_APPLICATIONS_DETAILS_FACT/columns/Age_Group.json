@@ -1,0 +1,24 @@
+{
+  "type": "calculated",
+  "name": "Age_Group",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR CurrentAge =",
+    "    'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[Age]",
+    "RETURN",
+    "    SWITCH(",
+    "        TRUE(),",
+    "        ISBLANK(CurrentAge), BLANK(),",
+    "        CurrentAge < 21, \"Other\",",
+    "        CurrentAge <= 30, \"21-30\",",
+    "        CurrentAge <= 40, \"31-40\",",
+    "        CurrentAge <= 50, \"41-50\",",
+    "        CurrentAge <= 60, \"51-60\",",
+    "        CurrentAge <= 65, \"61-65\",",
+    "        \"أكبر من 65\"",
+    "    )"
+  ],
+  "sortByColumn": "Age_Group_Sort"
+}

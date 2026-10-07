@@ -1,0 +1,7 @@
+{
+  "name": "c8ae04f9-e964-432f-a572-7f62339b682a",
+  "fromTable": "EDWH_PLAT_EDUCATION_INFO_FACT",
+  "fromColumn": "COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

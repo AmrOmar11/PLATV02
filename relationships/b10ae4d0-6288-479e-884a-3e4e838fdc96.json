@@ -1,0 +1,7 @@
+{
+  "name": "b10ae4d0-6288-479e-884a-3e4e838fdc96",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
+  "fromColumn": "APP_LATEST_UPDATE_DATE_KEY",
+  "toTable": "COMMON_END_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

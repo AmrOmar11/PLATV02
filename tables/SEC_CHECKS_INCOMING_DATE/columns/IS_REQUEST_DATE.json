@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "IS_REQUEST_DATE",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "COMMON_DATE_DIM[IS_REQUEST_DATE]"
+}

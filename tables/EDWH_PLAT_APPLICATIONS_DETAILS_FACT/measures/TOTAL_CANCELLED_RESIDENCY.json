@@ -1,0 +1,14 @@
+{
+  "name": "TOTAL_CANCELLED_RESIDENCY",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "   DISTINCTCOUNT(",
+    "       'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICATION_KEY]",
+    "   ),",
+    "   REMOVEFILTERS(",
+    "       'EDWH_PLAT_APPLICATION_CATEGORY_DIM'",
+    "   )",
+    ")"
+  ]
+}

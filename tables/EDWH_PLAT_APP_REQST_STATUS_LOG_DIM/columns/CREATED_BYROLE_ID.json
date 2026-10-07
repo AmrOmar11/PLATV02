@@ -1,0 +1,6 @@
+{
+  "name": "CREATED_BYROLE_ID",
+  "dataType": "int64",
+  "sourceColumn": "CREATED_BYROLE_ID",
+  "sourceProviderType": "Integer"
+}

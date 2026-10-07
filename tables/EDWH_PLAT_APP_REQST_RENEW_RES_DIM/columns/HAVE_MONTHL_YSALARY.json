@@ -1,0 +1,7 @@
+{
+  "name": "HAVE_MONTHL_YSALARY",
+  "dataType": "boolean",
+  "sourceColumn": "HAVE_MONTHL_YSALARY",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

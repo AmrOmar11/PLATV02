@@ -1,0 +1,6 @@
+{
+  "name": "UNIVERSITY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "UNIVERSITY_KEY",
+  "sourceProviderType": "Integer"
+}

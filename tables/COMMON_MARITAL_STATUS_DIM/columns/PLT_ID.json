@@ -1,0 +1,5 @@
+{
+  "name": "PLT_ID",
+  "dataType": "int64",
+  "sourceColumn": "PLT_ID"
+}

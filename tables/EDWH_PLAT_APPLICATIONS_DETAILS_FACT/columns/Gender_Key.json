@@ -1,0 +1,13 @@
+{
+  "type": "calculated",
+  "name": "Gender_Key",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "LOOKUPVALUE(",
+    "   'EDWH_PLAT_APPLICANT_FACT'[GENDER_KEY],",
+    "   'EDWH_PLAT_APPLICANT_FACT'[APPLICANT_KEY],",
+    "   'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICANT_KEY]",
+    ")"
+  ]
+}

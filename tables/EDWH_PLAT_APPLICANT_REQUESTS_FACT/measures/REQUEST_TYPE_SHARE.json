@@ -1,0 +1,16 @@
+{
+  "name": "REQUEST_TYPE_SHARE",
+  "expression": [
+    "",
+    "DIVIDE(",
+    "    [TOTAL_REQUESTS],",
+    "    CALCULATE(",
+    "        [TOTAL_REQUESTS],",
+    "        REMOVEFILTERS(",
+    "            'EDWH_PLAT_APP_REQST_TYPE_DIM'",
+    "        )",
+    "    ),",
+    "    0",
+    ")"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "REQST_SEC_CHECK_KEY",
+  "dataType": "int64",
+  "sourceColumn": "REQST_SEC_CHECK_KEY",
+  "sourceProviderType": "Integer"
+}

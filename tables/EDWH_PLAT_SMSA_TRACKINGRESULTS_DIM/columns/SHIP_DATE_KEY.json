@@ -1,0 +1,6 @@
+{
+  "name": "SHIP_DATE_KEY",
+  "dataType": "string",
+  "sourceColumn": "SHIP_DATE_KEY",
+  "sourceProviderType": "Char"
+}

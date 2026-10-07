@@ -1,0 +1,9 @@
+{
+  "name": "SECURITY_CHECKS_COUNT",
+  "expression": [
+    "",
+    "DISTINCTCOUNT (",
+    "    'EDWH_PLAT_APP_REQST_SEC_CHECKS_DIM'[APPLICANT_REQ_KEY]",
+    ")"
+  ]
+}

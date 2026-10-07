@@ -1,0 +1,7 @@
+{
+  "name": "70e13b87-b3f5-4abf-a36a-d6914cb0442b",
+  "fromTable": "EDWH_PLAT_APP_REQST_ADD_DPNDT_DIM",
+  "fromColumn": "ADD_DEPENDENT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

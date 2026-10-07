@@ -1,0 +1,6 @@
+{
+  "name": "YEAR_NAME",
+  "dataType": "string",
+  "sourceColumn": "YEAR_NAME",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "STR_DIMENSION_KEY",
+  "dataType": "int64",
+  "sourceColumn": "STR_DIMENSION_KEY",
+  "sourceProviderType": "Integer"
+}

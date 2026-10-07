@@ -1,0 +1,7 @@
+{
+  "name": "f135a0f4-49e7-461d-918a-d05019adf754",
+  "fromTable": "EDWH_PLAT_APP_REQST_REVOKE_DIM",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

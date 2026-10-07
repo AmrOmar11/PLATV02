@@ -1,0 +1,6 @@
+{
+  "name": "ADD_DEPENDENT_REQUESTID",
+  "dataType": "int64",
+  "sourceColumn": "ADD_DEPENDENT_REQUESTID",
+  "sourceProviderType": "Integer"
+}

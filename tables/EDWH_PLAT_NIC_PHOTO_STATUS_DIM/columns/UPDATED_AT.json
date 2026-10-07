@@ -1,0 +1,6 @@
+{
+  "name": "UPDATED_AT",
+  "dataType": "string",
+  "sourceColumn": "UPDATED_AT",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "APP_APPLICATION_CATEGORY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "APP_APPLICATION_CATEGORY_KEY",
+  "sourceProviderType": "Integer"
+}

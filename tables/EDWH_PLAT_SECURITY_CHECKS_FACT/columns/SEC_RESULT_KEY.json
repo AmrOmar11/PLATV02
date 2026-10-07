@@ -1,0 +1,6 @@
+{
+  "name": "SEC_RESULT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "SEC_RESULT_KEY",
+  "sourceProviderType": "Integer"
+}

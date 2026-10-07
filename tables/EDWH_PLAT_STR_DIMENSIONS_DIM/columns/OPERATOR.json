@@ -1,0 +1,6 @@
+{
+  "name": "OPERATOR",
+  "dataType": "string",
+  "sourceColumn": "OPERATOR",
+  "sourceProviderType": "WChar"
+}

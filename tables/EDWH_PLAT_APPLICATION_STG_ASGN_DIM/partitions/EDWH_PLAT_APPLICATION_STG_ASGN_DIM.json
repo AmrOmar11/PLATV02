@@ -1,0 +1,9 @@
+{
+  "name": "EDWH_PLAT_APPLICATION_STG_ASGN_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_APPLICATION_STG_ASGN_DIM].*   FROM [EDWH].[EDWH_PLAT_APPLICATION_STG_ASGN_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

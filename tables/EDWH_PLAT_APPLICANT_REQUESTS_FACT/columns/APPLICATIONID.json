@@ -1,0 +1,6 @@
+{
+  "name": "APPLICATIONID",
+  "dataType": "int64",
+  "sourceColumn": "APPLICATIONID",
+  "sourceProviderType": "Integer"
+}

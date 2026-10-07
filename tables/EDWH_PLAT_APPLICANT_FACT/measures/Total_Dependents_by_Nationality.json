@@ -1,0 +1,27 @@
+{
+  "name": "Total_Dependents_by_Nationality",
+  "expression": [
+    "VAR ApplicantsInNationality =",
+    "    CALCULATETABLE(",
+    "        VALUES(",
+    "            'EDWH_PLAT_APPLICANT_FACT'[APPLICANT_KEY]",
+    "        )",
+    "    )",
+    "RETURN",
+    "    SUMX(",
+    "        ApplicantsInNationality,",
+    "        VAR CurrentApplicant =",
+    "            'EDWH_PLAT_APPLICANT_FACT'[APPLICANT_KEY]",
+    "        RETURN",
+    "            CALCULATE(",
+    "                MAX(",
+    "                    'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[NO_OF_DEPENDENTS]",
+    "                ),",
+    "                TREATAS(",
+    "                    { CurrentApplicant },",
+    "                    'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICANT_KEY]",
+    "                )",
+    "            )",
+    "    )"
+  ]
+}

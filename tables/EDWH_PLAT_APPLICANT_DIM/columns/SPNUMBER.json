@@ -1,0 +1,6 @@
+{
+  "name": "SPNUMBER",
+  "dataType": "string",
+  "sourceColumn": "SPNUMBER",
+  "sourceProviderType": "WChar"
+}

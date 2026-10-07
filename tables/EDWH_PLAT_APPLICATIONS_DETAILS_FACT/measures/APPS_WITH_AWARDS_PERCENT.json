@@ -1,0 +1,11 @@
+{
+  "name": "APPS_WITH_AWARDS_PERCENT",
+  "expression": [
+    "",
+    "DIVIDE(",
+    "    [APPS_WITH_AWARDS],",
+    "    [APPLICATIONS_COUNT],",
+    "    0",
+    ") * 100"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "3c50021d-db93-492e-b61e-334576666959",
+  "fromTable": "EDWH_PLAT_SECURITY_CHECKS_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

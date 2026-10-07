@@ -1,0 +1,7 @@
+{
+  "name": "feea4ea4-d88d-4e30-95ba-61426c39d944",
+  "fromTable": "EDWH_PLAT_APP_REQST_COMMENT_DIM",
+  "fromColumn": "S_LOG_KEY",
+  "toTable": "EDWH_PLAT_APP_REQST_STATUS_LOG_DIM",
+  "toColumn": "S_LOG_KEY"
+}

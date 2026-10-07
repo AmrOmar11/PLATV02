@@ -1,0 +1,7 @@
+{
+  "name": "04a08caa-fd12-4a0c-9918-eebb2bc3f8c5",
+  "fromTable": "EDWH_PLAT_CAREER_HISTORIES_FACT",
+  "fromColumn": "EXPERIENCE_FROM_DATE",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

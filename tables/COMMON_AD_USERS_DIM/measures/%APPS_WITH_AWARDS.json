@@ -1,0 +1,4 @@
+{
+  "name": "%APPS_WITH_AWARDS",
+  "expression": "DIVIDE( [APPS_WITH_AWARDS], [APPLICATIONS_COUNT], 0 )"
+}

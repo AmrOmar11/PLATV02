@@ -1,0 +1,6 @@
+{
+  "name": "APPLICATION_ID",
+  "dataType": "string",
+  "sourceColumn": "APPLICATION_ID",
+  "sourceProviderType": "WChar"
+}

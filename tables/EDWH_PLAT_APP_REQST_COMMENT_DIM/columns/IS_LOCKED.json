@@ -1,0 +1,7 @@
+{
+  "name": "IS_LOCKED",
+  "dataType": "boolean",
+  "sourceColumn": "IS_LOCKED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

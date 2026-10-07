@@ -1,0 +1,7 @@
+{
+  "name": "32f94cdb-99cb-4c77-b5b9-3451f5a6f917",
+  "fromTable": "EDWH_PLAT_APP_REQST_ASGN_FACT",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

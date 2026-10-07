@@ -1,0 +1,6 @@
+{
+  "name": "REQUEST_NO",
+  "dataType": "int64",
+  "sourceColumn": "REQUEST_NO",
+  "sourceProviderType": "BigInt"
+}

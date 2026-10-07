@@ -1,0 +1,6 @@
+{
+  "name": "DISTRICT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "DISTRICT_KEY",
+  "sourceProviderType": "SmallInt"
+}

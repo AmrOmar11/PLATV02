@@ -1,0 +1,6 @@
+{
+  "name": "GENERAL_STATEMENT_ID",
+  "dataType": "int64",
+  "sourceColumn": "GENERAL_STATEMENT_ID",
+  "sourceProviderType": "Integer"
+}

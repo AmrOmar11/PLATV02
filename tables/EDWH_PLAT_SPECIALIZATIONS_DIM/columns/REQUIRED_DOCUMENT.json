@@ -1,0 +1,6 @@
+{
+  "name": "REQUIRED_DOCUMENT",
+  "dataType": "int64",
+  "sourceColumn": "REQUIRED_DOCUMENT",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "HAS_AWARD",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_AWARD",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

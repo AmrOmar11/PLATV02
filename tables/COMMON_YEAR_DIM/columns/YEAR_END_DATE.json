@@ -1,0 +1,7 @@
+{
+  "name": "YEAR_END_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "YEAR_END_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "DBTimeStamp"
+}

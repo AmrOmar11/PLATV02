@@ -1,0 +1,7 @@
+{
+  "name": "IS_CITIZEN_RESIDENT_COUNTRY",
+  "dataType": "boolean",
+  "sourceColumn": "IS_CITIZEN_RESIDENT_COUNTRY",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

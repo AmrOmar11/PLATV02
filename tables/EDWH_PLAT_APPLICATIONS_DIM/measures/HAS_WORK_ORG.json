@@ -1,0 +1,24 @@
+{
+  "name": "HAS_WORK_ORG",
+  "expression": [
+    "",
+    "VAR CurrentAppKey =",
+    "    SELECTEDVALUE(",
+    "        'EDWH_PLAT_APPLICATIONS_DIM'[APPLICATION_KEY]",
+    "    )",
+    "VAR MatchingRows =",
+    "    COUNTROWS(",
+    "        FILTER(",
+    "            ALL('EDWH_PLAT_WORK_EXPERIENCES_FACT'),",
+    "            'EDWH_PLAT_WORK_EXPERIENCES_FACT'[APPLICATION_KEY]",
+    "                = CurrentAppKey",
+    "        )",
+    "    )",
+    "RETURN",
+    "    IF(",
+    "        ISBLANK(CurrentAppKey),",
+    "        0,",
+    "        IF(MatchingRows > 0, 1, 0)",
+    "    )"
+  ]
+}

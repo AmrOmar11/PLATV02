@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Max Days",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Max Days]"
+}

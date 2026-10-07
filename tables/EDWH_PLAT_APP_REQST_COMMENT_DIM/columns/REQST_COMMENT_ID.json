@@ -1,0 +1,6 @@
+{
+  "name": "REQST_COMMENT_ID",
+  "dataType": "int64",
+  "sourceColumn": "REQST_COMMENT_ID",
+  "sourceProviderType": "Integer"
+}

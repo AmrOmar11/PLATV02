@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_EXPIRY_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "IQAMA_EXPIRY_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

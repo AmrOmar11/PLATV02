@@ -1,0 +1,6 @@
+{
+  "name": "MARITAL_STATUS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "MARITAL_STATUS_KEY",
+  "sourceProviderType": "Integer"
+}

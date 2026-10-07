@@ -1,0 +1,7 @@
+{
+  "name": "3fb75546-8267-48d1-bbe8-b9d846e97622",
+  "fromTable": "COMMON_REGIONS_DIM",
+  "fromColumn": "COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

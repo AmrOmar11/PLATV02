@@ -1,0 +1,6 @@
+{
+  "name": "LANG_LEVEL_KEY",
+  "dataType": "int64",
+  "sourceColumn": "LANG_LEVEL_KEY",
+  "sourceProviderType": "Integer"
+}

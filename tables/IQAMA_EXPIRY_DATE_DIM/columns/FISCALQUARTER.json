@@ -1,0 +1,6 @@
+{
+  "name": "FISCALQUARTER",
+  "dataType": "string",
+  "sourceColumn": "FISCALQUARTER",
+  "sourceProviderType": "Char"
+}

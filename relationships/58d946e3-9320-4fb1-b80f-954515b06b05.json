@@ -1,0 +1,7 @@
+{
+  "name": "58d946e3-9320-4fb1-b80f-954515b06b05",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "RELIGION_KEY",
+  "toTable": "COMMON_RELIGION_DIM",
+  "toColumn": "RELIGION_KEY"
+}

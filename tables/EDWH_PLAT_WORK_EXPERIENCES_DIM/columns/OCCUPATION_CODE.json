@@ -1,0 +1,6 @@
+{
+  "name": "OCCUPATION_CODE",
+  "dataType": "int64",
+  "sourceColumn": "OCCUPATION_CODE",
+  "sourceProviderType": "Integer"
+}

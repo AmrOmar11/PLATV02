@@ -1,0 +1,6 @@
+{
+  "name": "LICENSE",
+  "dataType": "string",
+  "sourceColumn": "LICENSE",
+  "sourceProviderType": "WChar"
+}

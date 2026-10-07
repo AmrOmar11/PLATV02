@@ -1,0 +1,7 @@
+{
+  "name": "DO_YOU_HAVE_SOCIAL_MEDIA",
+  "dataType": "boolean",
+  "sourceColumn": "DO_YOU_HAVE_SOCIAL_MEDIA",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

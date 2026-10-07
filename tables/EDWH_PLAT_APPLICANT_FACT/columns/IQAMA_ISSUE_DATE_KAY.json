@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_ISSUE_DATE_KAY",
+  "dataType": "int64",
+  "sourceColumn": "IQAMA_ISSUE_DATE_KAY",
+  "sourceProviderType": "Integer"
+}

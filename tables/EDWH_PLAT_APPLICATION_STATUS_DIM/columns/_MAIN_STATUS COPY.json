@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "_MAIN_STATUS COPY",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": "EDWH_PLAT_APPLICATION_STATUS_DIM[_MAIN_STATUS]"
+}

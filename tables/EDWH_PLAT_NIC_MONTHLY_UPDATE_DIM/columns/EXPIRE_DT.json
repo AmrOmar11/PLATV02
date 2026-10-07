@@ -1,0 +1,6 @@
+{
+  "name": "EXPIRE_DT",
+  "dataType": "string",
+  "sourceColumn": "EXPIRE_DT",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "REGION_KEY",
+  "dataType": "int64",
+  "sourceColumn": "REGION_KEY",
+  "sourceProviderType": "Integer"
+}

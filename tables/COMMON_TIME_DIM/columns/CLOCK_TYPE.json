@@ -1,0 +1,6 @@
+{
+  "name": "CLOCK_TYPE",
+  "dataType": "string",
+  "sourceColumn": "CLOCK_TYPE",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "STE_PER_STATEMENT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "STE_PER_STATEMENT_KEY",
+  "sourceProviderType": "Integer"
+}

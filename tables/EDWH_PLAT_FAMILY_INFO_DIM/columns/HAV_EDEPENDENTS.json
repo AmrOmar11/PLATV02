@@ -1,0 +1,7 @@
+{
+  "name": "HAV_EDEPENDENTS",
+  "dataType": "boolean",
+  "sourceColumn": "HAV_EDEPENDENTS",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

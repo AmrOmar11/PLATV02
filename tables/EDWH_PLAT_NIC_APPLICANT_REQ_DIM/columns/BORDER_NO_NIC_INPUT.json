@@ -1,0 +1,6 @@
+{
+  "name": "BORDER_NO_NIC_INPUT",
+  "dataType": "int64",
+  "sourceColumn": "BORDER_NO_NIC_INPUT",
+  "sourceProviderType": "BigInt"
+}

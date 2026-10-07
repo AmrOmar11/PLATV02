@@ -1,0 +1,6 @@
+{
+  "name": "SPONSOR_ENTITY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "SPONSOR_ENTITY_KEY",
+  "sourceProviderType": "SmallInt"
+}

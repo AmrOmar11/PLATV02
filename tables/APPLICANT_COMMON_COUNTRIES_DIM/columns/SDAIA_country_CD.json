@@ -1,0 +1,5 @@
+{
+  "name": "SDAIA_country_CD",
+  "dataType": "string",
+  "sourceColumn": "SDAIA_country_CD"
+}

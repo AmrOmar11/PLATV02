@@ -1,0 +1,6 @@
+{
+  "name": "CATEGORY_NAME_EN",
+  "dataType": "string",
+  "sourceColumn": "CATEGORY_NAME_EN",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TOTAL_REQST_ADD_DEPENDENT",
+  "expression": [
+    "",
+    "DISTINCTCOUNT(EDWH_PLAT_APP_REQST_ADD_DPNDT_DIM[ADD_DEPENDENT_REQ_KEY])"
+  ]
+}

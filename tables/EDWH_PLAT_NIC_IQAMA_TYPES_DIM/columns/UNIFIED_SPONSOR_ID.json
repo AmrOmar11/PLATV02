@@ -1,0 +1,6 @@
+{
+  "name": "UNIFIED_SPONSOR_ID",
+  "dataType": "int64",
+  "sourceColumn": "UNIFIED_SPONSOR_ID",
+  "sourceProviderType": "BigInt"
+}

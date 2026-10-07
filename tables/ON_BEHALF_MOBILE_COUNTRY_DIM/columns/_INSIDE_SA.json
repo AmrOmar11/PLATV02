@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "_INSIDE_SA",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": "IF(ON_BEHALF_MOBILE_COUNTRY_DIM[COUNTRY_KEY] = 148 , \"داخل المملكة السعودية\",\"خارج المملكة السعودية\")"
+}

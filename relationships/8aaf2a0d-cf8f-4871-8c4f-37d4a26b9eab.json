@@ -1,0 +1,7 @@
+{
+  "name": "8aaf2a0d-cf8f-4871-8c4f-37d4a26b9eab",
+  "fromTable": "EDWH_PLAT_UNIVERSITIES_DIM",
+  "fromColumn": "COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

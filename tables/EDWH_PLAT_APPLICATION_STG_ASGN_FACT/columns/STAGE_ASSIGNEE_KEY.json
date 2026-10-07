@@ -1,0 +1,6 @@
+{
+  "name": "STAGE_ASSIGNEE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "STAGE_ASSIGNEE_KEY",
+  "sourceProviderType": "Integer"
+}

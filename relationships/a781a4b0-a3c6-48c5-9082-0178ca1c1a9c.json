@@ -1,0 +1,7 @@
+{
+  "name": "a781a4b0-a3c6-48c5-9082-0178ca1c1a9c",
+  "fromTable": "EDWH_PLAT_EDUCATION_INFO_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

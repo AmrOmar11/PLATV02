@@ -1,0 +1,6 @@
+{
+  "name": "SEC_RESULT_NAME_EN",
+  "dataType": "string",
+  "sourceColumn": "SEC_RESULT_NAME_EN",
+  "sourceProviderType": "WChar"
+}

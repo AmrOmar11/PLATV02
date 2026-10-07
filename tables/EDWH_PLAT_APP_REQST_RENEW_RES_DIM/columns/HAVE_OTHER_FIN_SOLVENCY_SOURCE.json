@@ -1,0 +1,7 @@
+{
+  "name": "HAVE_OTHER_FIN_SOLVENCY_SOURCE",
+  "dataType": "boolean",
+  "sourceColumn": "HAVE_OTHER_FIN_SOLVENCY_SOURCE",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

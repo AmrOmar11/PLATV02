@@ -1,0 +1,6 @@
+{
+  "name": "DEPENDENT_CODE",
+  "dataType": "string",
+  "sourceColumn": "DEPENDENT_CODE",
+  "sourceProviderType": "WChar"
+}

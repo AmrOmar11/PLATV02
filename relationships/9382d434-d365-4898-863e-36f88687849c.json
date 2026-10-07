@@ -1,0 +1,7 @@
+{
+  "name": "9382d434-d365-4898-863e-36f88687849c",
+  "fromTable": "EDWH_PLAT_GIFTED_TALENTS_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

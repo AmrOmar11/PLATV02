@@ -1,0 +1,6 @@
+{
+  "name": "INVESTING_ENTITY_NAMEAR",
+  "dataType": "string",
+  "sourceColumn": "INVESTING_ENTITY_NAMEAR",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "REQUESTS_WITH_UNRESOLVED_COMMENTS",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    DISTINCTCOUNT(",
+    "        'EDWH_PLAT_APP_REQST_COMMENT_DIM'[APPLICANT_REQ_KEY]",
+    "    ),",
+    "    'EDWH_PLAT_APP_REQST_COMMENT_DIM'[IS_RESOLVED] = FALSE()",
+    ")"
+  ]
+}

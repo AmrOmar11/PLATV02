@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_STATUS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "IQAMA_STATUS_KEY",
+  "sourceProviderType": "Integer"
+}

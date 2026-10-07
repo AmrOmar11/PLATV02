@@ -1,0 +1,6 @@
+{
+  "name": "TR_NAME",
+  "dataType": "string",
+  "sourceColumn": "TR_NAME",
+  "sourceProviderType": "WChar"
+}

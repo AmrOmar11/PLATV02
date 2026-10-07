@@ -1,0 +1,6 @@
+{
+  "name": "EMPLOYMENT_STATUS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "EMPLOYMENT_STATUS_KEY",
+  "sourceProviderType": "Integer"
+}

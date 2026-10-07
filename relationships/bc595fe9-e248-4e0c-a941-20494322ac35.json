@@ -1,0 +1,7 @@
+{
+  "name": "bc595fe9-e248-4e0c-a941-20494322ac35",
+  "fromTable": "EDWH_PLAT_FAMILY_INFO_DIM",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

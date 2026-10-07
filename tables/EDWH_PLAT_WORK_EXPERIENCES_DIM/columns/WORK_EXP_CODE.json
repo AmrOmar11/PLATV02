@@ -1,0 +1,6 @@
+{
+  "name": "WORK_EXP_CODE",
+  "dataType": "string",
+  "sourceColumn": "WORK_EXP_CODE",
+  "sourceProviderType": "WChar"
+}

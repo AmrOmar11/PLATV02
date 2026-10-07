@@ -1,0 +1,7 @@
+{
+  "name": "21589225-1aa7-46d1-a6c0-94d0e057fe0b",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "RELIGION_KEY",
+  "toTable": "COMMON_RELIGION_DIM",
+  "toColumn": "RELIGION_KEY"
+}

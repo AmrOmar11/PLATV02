@@ -1,0 +1,7 @@
+{
+  "name": "IS_SENT",
+  "dataType": "boolean",
+  "sourceColumn": "IS_SENT",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

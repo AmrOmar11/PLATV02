@@ -1,0 +1,6 @@
+{
+  "name": "COMMENT",
+  "dataType": "string",
+  "sourceColumn": "COMMENT",
+  "sourceProviderType": "WChar"
+}

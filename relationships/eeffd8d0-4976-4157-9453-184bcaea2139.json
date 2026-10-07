@@ -1,0 +1,7 @@
+{
+  "name": "eeffd8d0-4976-4157-9453-184bcaea2139",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "GENDER_KEY",
+  "toTable": "COMMON_GENDER_DIM",
+  "toColumn": "GENDER_KEY"
+}

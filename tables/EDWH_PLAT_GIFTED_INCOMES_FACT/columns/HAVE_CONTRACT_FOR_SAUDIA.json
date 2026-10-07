@@ -1,0 +1,7 @@
+{
+  "name": "HAVE_CONTRACT_FOR_SAUDIA",
+  "dataType": "boolean",
+  "sourceColumn": "HAVE_CONTRACT_FOR_SAUDIA",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

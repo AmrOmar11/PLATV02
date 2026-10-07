@@ -1,0 +1,6 @@
+{
+  "name": "DEPENDENT_ID",
+  "dataType": "int64",
+  "sourceColumn": "DEPENDENT_ID",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "STR_RESEARCH_KEY",
+  "dataType": "int64",
+  "sourceColumn": "STR_RESEARCH_KEY",
+  "sourceProviderType": "Integer"
+}

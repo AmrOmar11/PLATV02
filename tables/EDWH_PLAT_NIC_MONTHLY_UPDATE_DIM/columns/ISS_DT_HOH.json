@@ -1,0 +1,6 @@
+{
+  "name": "ISS_DT_HOH",
+  "dataType": "string",
+  "sourceColumn": "ISS_DT_HOH",
+  "sourceProviderType": "WChar"
+}

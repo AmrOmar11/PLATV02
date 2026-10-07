@@ -1,0 +1,6 @@
+{
+  "name": "ISSUING_STATUS_ID",
+  "dataType": "int64",
+  "sourceColumn": "ISSUING_STATUS_ID",
+  "sourceProviderType": "Integer"
+}

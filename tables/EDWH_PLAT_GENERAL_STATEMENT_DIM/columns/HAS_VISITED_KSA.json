@@ -1,0 +1,7 @@
+{
+  "name": "HAS_VISITED_KSA",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_VISITED_KSA",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

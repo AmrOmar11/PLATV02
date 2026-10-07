@@ -1,0 +1,9 @@
+{
+  "name": "EDWH_PLAT_APP_STATUS_REASON_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_APP_STATUS_REASON_DIM].*   FROM [EDWH].[EDWH_PLAT_APP_STATUS_REASON_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

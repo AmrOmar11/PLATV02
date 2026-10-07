@@ -1,0 +1,11 @@
+{
+  "name": "AVERAGE_ORG_APPS",
+  "expression": [
+    "",
+    "DIVIDE(",
+    "    [ORG_APPS],",
+    "    [DISTINCT_ORGANIZATIONS],",
+    "    0",
+    ")"
+  ]
+}

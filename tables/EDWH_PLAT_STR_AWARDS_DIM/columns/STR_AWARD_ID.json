@@ -1,0 +1,6 @@
+{
+  "name": "STR_AWARD_ID",
+  "dataType": "int64",
+  "sourceColumn": "STR_AWARD_ID",
+  "sourceProviderType": "Integer"
+}

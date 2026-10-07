@@ -1,0 +1,5 @@
+{
+  "name": "CRM_Marital_Status_AR",
+  "dataType": "string",
+  "sourceColumn": "CRM_Marital_Status_AR"
+}

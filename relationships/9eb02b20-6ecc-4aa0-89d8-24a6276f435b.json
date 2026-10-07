@@ -1,0 +1,7 @@
+{
+  "name": "9eb02b20-6ecc-4aa0-89d8-24a6276f435b",
+  "fromTable": "EDWH_PLAT_APP_REQST_ADD_DPNDT_DIM",
+  "fromColumn": "KINSHIP_TYPE_KEY",
+  "toTable": "EDWH_PLAT_KINSHIP_TYPES_DIM",
+  "toColumn": "KINSHIP_TYPE_KEY"
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Sum of APPLICATION_KEY",
+  "expression": "SUM([APPLICATION_KEY])"
+}

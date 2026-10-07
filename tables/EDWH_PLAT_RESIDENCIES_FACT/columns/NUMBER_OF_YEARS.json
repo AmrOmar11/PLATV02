@@ -1,0 +1,6 @@
+{
+  "name": "NUMBER_OF_YEARS",
+  "dataType": "int64",
+  "sourceColumn": "NUMBER_OF_YEARS",
+  "sourceProviderType": "Integer"
+}

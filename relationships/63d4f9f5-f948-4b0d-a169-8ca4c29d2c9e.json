@@ -1,0 +1,7 @@
+{
+  "name": "63d4f9f5-f948-4b0d-a169-8ca4c29d2c9e",
+  "fromTable": "EDWH_PLAT_IQAMA_TYPES_MAPPING_FACT",
+  "fromColumn": "APPLICATION_PRODUCT_KEY",
+  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
+  "toColumn": "APPLICATION_PRODUCT_KEY"
+}

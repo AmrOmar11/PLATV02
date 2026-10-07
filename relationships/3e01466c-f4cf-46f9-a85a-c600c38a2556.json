@@ -1,0 +1,7 @@
+{
+  "name": "3e01466c-f4cf-46f9-a85a-c600c38a2556",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "NATIONALITY_KEY",
+  "toTable": "COMMON_NATIONALITIES_DIM",
+  "toColumn": "NATIONALITY_KEY"
+}

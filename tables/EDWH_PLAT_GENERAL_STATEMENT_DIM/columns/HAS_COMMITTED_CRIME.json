@@ -1,0 +1,7 @@
+{
+  "name": "HAS_COMMITTED_CRIME",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_COMMITTED_CRIME",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

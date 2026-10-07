@@ -1,0 +1,13 @@
+{
+  "name": "DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "DATE",
+  "formatString": "yyyy-MM-dd",
+  "sourceProviderType": "DBTimeStamp",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeCustom\"><DateTimes><DateTime LCID=\"1033\" Group=\"ShortDate\" FormatString=\"yyyy-MM-dd\" /></DateTimes></Format>"
+    }
+  ]
+}

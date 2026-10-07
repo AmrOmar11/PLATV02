@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_TYPE_DESCRIPTION",
+  "dataType": "string",
+  "sourceColumn": "IQAMA_TYPE_DESCRIPTION",
+  "sourceProviderType": "WChar"
+}

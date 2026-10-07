@@ -1,0 +1,6 @@
+{
+  "name": "PCS",
+  "dataType": "string",
+  "sourceColumn": "PCS",
+  "sourceProviderType": "Char"
+}

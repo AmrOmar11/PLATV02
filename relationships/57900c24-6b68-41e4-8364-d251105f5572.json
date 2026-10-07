@@ -1,0 +1,7 @@
+{
+  "name": "57900c24-6b68-41e4-8364-d251105f5572",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
+  "fromColumn": "SPONSOR_ENTITY_KEY",
+  "toTable": "EDWH_PLAT_ORGANIZATIONS_DIM",
+  "toColumn": "ORGANIZATION_KEY"
+}

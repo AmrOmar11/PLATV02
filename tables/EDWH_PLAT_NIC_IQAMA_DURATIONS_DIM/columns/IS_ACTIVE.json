@@ -1,0 +1,7 @@
+{
+  "name": "IS_ACTIVE",
+  "dataType": "boolean",
+  "sourceColumn": "IS_ACTIVE",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

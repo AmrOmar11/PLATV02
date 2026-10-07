@@ -1,0 +1,6 @@
+{
+  "name": "ELIGIBILITY_PROOF_AR",
+  "dataType": "string",
+  "sourceColumn": "ELIGIBILITY_PROOF_AR",
+  "sourceProviderType": "WChar"
+}

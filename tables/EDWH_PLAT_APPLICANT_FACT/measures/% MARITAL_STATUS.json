@@ -1,0 +1,13 @@
+{
+  "name": "% MARITAL_STATUS",
+  "expression": [
+    "DIVIDE(",
+    "    [APPLICANT_COUNT],",
+    "    CALCULATE(",
+    "        [APPLICANT_COUNT],",
+    "        ALLSELECTED(EDWH_PLAT_APPLICANT_FACT[MARITAL_STATUS_KEY])",
+    "    ),",
+    "    0",
+    ")"
+  ]
+}

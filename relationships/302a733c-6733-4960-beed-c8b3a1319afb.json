@@ -1,0 +1,7 @@
+{
+  "name": "302a733c-6733-4960-beed-c8b3a1319afb",
+  "fromTable": "EDWH_PLAT_SECURITY_CHECKS_FACT",
+  "fromColumn": "INCOMING_DATE_KEY",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "99d85a3c-0d17-4f1e-a037-df8838597b00",
+  "fromTable": "EDWH_PLAT_NIC_ACTION_REQUEST_FACT",
+  "fromColumn": "ACTION_TYPE_KEY",
+  "toTable": "EDWH_PLAT_NIC_PR_ACTION_TYPE_DIM",
+  "toColumn": "ACTION_TYPE_KEY"
+}

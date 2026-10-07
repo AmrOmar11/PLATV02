@@ -1,0 +1,7 @@
+{
+  "name": "7a44cabb-e5bf-43a6-81bd-e77d440a3203",
+  "fromTable": "EDWH_PLAT_APP_REQST_ADD_DPNDT_DIM",
+  "fromColumn": "BIRTH_COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

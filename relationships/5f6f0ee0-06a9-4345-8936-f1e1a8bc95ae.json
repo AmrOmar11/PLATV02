@@ -1,0 +1,7 @@
+{
+  "name": "5f6f0ee0-06a9-4345-8936-f1e1a8bc95ae",
+  "fromTable": "EDWH_PLAT_APPLICANT_REQUESTS_FACT",
+  "fromColumn": "REF_APP_TYPE_KEY",
+  "toTable": "EDWH_PLAT_ARQ_REF_APP_TYPES_DIM",
+  "toColumn": "REF_APP_TYPE_KEY"
+}

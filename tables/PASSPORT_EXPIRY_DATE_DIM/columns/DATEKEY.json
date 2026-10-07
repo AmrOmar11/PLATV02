@@ -1,0 +1,6 @@
+{
+  "name": "DATEKEY",
+  "dataType": "int64",
+  "sourceColumn": "DATEKEY",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CREATED_AT",
+  "dataType": "string",
+  "sourceColumn": "CREATED_AT",
+  "sourceProviderType": "String"
+}

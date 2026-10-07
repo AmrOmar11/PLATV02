@@ -1,0 +1,6 @@
+{
+  "name": "PATENT_LINK",
+  "dataType": "string",
+  "sourceColumn": "PATENT_LINK",
+  "sourceProviderType": "WChar"
+}

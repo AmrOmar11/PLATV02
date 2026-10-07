@@ -1,0 +1,9 @@
+{
+  "name": "COMMON_TIME_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [COMMON].[COMMON_TIME_DIM].*   FROM [COMMON].[COMMON_TIME_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

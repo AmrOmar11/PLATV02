@@ -1,0 +1,6 @@
+{
+  "name": "OTHER_ORGANIZATION_NAME",
+  "dataType": "string",
+  "sourceColumn": "OTHER_ORGANIZATION_NAME",
+  "sourceProviderType": "WChar"
+}

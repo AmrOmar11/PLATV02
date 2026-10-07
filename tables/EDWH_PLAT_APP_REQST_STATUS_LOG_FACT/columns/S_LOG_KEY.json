@@ -1,0 +1,6 @@
+{
+  "name": "S_LOG_KEY",
+  "dataType": "int64",
+  "sourceColumn": "S_LOG_KEY",
+  "sourceProviderType": "Integer"
+}

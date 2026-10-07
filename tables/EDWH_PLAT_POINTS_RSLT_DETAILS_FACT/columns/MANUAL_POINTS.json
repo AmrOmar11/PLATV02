@@ -1,0 +1,6 @@
+{
+  "name": "MANUAL_POINTS",
+  "dataType": "int64",
+  "sourceColumn": "MANUAL_POINTS",
+  "sourceProviderType": "Integer"
+}

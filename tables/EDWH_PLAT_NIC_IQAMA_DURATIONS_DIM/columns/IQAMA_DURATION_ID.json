@@ -1,0 +1,6 @@
+{
+  "name": "IQAMA_DURATION_ID",
+  "dataType": "int64",
+  "sourceColumn": "IQAMA_DURATION_ID",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TOTAL_REQUESTS",
+  "expression": [
+    "",
+    "DISTINCTCOUNT(EDWH_PLAT_APPLICANT_REQUESTS_FACT[APPLICANT_REQ_KEY])"
+  ]
+}

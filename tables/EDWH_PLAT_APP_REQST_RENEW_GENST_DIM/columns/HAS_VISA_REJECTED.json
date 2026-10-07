@@ -1,0 +1,7 @@
+{
+  "name": "HAS_VISA_REJECTED",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_VISA_REJECTED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

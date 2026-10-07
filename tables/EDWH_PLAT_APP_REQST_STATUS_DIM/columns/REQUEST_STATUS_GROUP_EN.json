@@ -1,0 +1,30 @@
+{
+  "type": "calculated",
+  "name": "REQUEST_STATUS_GROUP_EN",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "SWITCH(",
+    "    TRUE(),",
+    "    'EDWH_PLAT_APP_REQST_STATUS_DIM'[REQST_STATUS_NAME_EN]IN {",
+    "        \"Waiting For Processing Fees\",",
+    "        \"Waiting For Residency Renewal Fees\",",
+    "        \"Waiting For Renewal Action\",",
+    "        \"Waiting For Payment Review\"",
+    "    }, \"In Progress\",",
+    "",
+    "    'EDWH_PLAT_APP_REQST_STATUS_DIM'[REQST_STATUS_NAME_EN] = \"Accepted\", \"Accepted\",",
+    "",
+    "     'EDWH_PLAT_APP_REQST_STATUS_DIM'[REQST_STATUS_NAME_EN] IN {",
+    "        \"Submitted\",",
+    "        \"Available for update\"",
+    "    }, \"Submitted\",",
+    "",
+    "    'EDWH_PLAT_APP_REQST_STATUS_DIM'[REQST_STATUS_NAME_EN] = \"Rejected\", \"Rejected\",",
+    "      'EDWH_PLAT_APP_REQST_STATUS_DIM'[REQST_STATUS_NAME_EN] = \"Completed\", \"Completed\",",
+    "",
+    "",
+    "    BLANK()",
+    ")"
+  ]
+}

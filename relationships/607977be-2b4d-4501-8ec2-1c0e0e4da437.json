@@ -1,0 +1,8 @@
+{
+  "name": "607977be-2b4d-4501-8ec2-1c0e0e4da437",
+  "fromTable": "APPLICATION_ORGANIZATION_BRIDGE",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}

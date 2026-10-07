@@ -1,0 +1,7 @@
+{
+  "name": "af3bc6c0-9bb7-416a-99d1-dfc89d533a12",
+  "fromTable": "EDWH_PLAT_GIFTED_TALENTS_FACT",
+  "fromColumn": "AWARD_FIELD_KEY",
+  "toTable": "EDWH_PLAT_AWARD_FIELDS_DIM",
+  "toColumn": "AWARD_FIELD_KEY"
+}

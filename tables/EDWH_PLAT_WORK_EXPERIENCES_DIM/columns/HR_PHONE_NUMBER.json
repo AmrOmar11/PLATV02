@@ -1,0 +1,6 @@
+{
+  "name": "HR_PHONE_NUMBER",
+  "dataType": "string",
+  "sourceColumn": "HR_PHONE_NUMBER",
+  "sourceProviderType": "WChar"
+}

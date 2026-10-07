@@ -1,0 +1,6 @@
+{
+  "name": "START_DATE",
+  "dataType": "string",
+  "sourceColumn": "START_DATE",
+  "sourceProviderType": "String"
+}

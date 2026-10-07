@@ -1,0 +1,7 @@
+{
+  "name": "IS_DEPENDENT_REQUEST",
+  "dataType": "boolean",
+  "sourceColumn": "IS_DEPENDENT_REQUEST",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

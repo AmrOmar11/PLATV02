@@ -1,0 +1,7 @@
+{
+  "name": "c3e9f487-9d30-4ed4-b7be-97be20a78256",
+  "fromTable": "EDWH_PLAT_NIC_DEPENDENT_REQ_FACT",
+  "fromColumn": "DEPENDENT_REQ_KEY",
+  "toTable": "EDWH_PLAT_NIC_DEPENDENT_REQ_DIM",
+  "toColumn": "DEPENDENT_REQ_KEY"
+}

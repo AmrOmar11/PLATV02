@@ -1,0 +1,7 @@
+{
+  "name": "7a778cc8-3074-4516-8786-b289ee04fbc1",
+  "fromTable": "EDWH_PLAT_APP_STATUS_LOGS_FACT",
+  "fromColumn": "APP_STATUS_KEY",
+  "toTable": "EDWH_PLAT_APPLICATION_STATUS_DIM",
+  "toColumn": "APP_STATUS_KEY"
+}

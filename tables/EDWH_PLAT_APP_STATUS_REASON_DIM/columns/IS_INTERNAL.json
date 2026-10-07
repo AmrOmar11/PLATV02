@@ -1,0 +1,7 @@
+{
+  "name": "IS_INTERNAL",
+  "dataType": "boolean",
+  "sourceColumn": "IS_INTERNAL",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "7a6fb13e-6d6f-4d21-be86-df3636872b29",
+  "fromTable": "EDWH_PLAT_TALENT_DOCS_FACT",
+  "fromColumn": "DOCUMENT_KEY",
+  "toTable": "EDWH_PLAT_TALENT_DOCUMENTS_DIM",
+  "toColumn": "DOCUMENT_KEY"
+}

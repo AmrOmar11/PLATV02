@@ -1,0 +1,6 @@
+{
+  "name": "CITY_KEY",
+  "dataType": "string",
+  "sourceColumn": "CITY_KEY",
+  "sourceProviderType": "Char"
+}

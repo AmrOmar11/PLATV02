@@ -1,0 +1,6 @@
+{
+  "name": "USER_PRINCIPAL_NAME",
+  "dataType": "string",
+  "sourceColumn": "USER_PRINCIPAL_NAME",
+  "sourceProviderType": "WChar"
+}

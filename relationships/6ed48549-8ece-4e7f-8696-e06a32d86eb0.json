@@ -1,0 +1,8 @@
+{
+  "name": "6ed48549-8ece-4e7f-8696-e06a32d86eb0",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY",
+  "crossFilteringBehavior": "bothDirections"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ACKNOWLEDGMENT",
+  "dataType": "boolean",
+  "sourceColumn": "ACKNOWLEDGMENT",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AREA_ID",
+  "dataType": "int64",
+  "sourceColumn": "AREA_ID",
+  "sourceProviderType": "Integer"
+}

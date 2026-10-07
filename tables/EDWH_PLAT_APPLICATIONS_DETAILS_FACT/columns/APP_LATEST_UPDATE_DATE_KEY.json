@@ -1,0 +1,6 @@
+{
+  "name": "APP_LATEST_UPDATE_DATE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "APP_LATEST_UPDATE_DATE_KEY",
+  "sourceProviderType": "Integer"
+}

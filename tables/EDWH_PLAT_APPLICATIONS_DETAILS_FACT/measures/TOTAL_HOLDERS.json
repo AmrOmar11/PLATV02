@@ -1,0 +1,9 @@
+{
+  "name": "TOTAL_HOLDERS",
+  "expression": [
+    "CALCULATE(",
+    "    DISTINCTCOUNT(EDWH_PLAT_APPLICATIONS_DETAILS_FACT[APPLICANT_KEY]),",
+    "    EDWH_PLAT_ISSUING_STATUS_DIM[ISSUING_STATUS_ID] = 120",
+    ")"
+  ]
+}

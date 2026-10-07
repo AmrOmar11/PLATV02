@@ -1,0 +1,6 @@
+{
+  "name": "OUTGOING_NUMBER",
+  "dataType": "string",
+  "sourceColumn": "OUTGOING_NUMBER",
+  "sourceProviderType": "WChar"
+}

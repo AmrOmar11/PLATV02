@@ -1,0 +1,7 @@
+{
+  "name": "64c779a0-a32a-42e7-a06b-cd84013aab99",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "KINSHIP_TYPE_KEY",
+  "toTable": "EDWH_PLAT_KINSHIP_TYPES_DIM",
+  "toColumn": "KINSHIP_TYPE_KEY"
+}

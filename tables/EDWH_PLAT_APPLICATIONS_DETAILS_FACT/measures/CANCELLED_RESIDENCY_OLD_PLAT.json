@@ -1,0 +1,13 @@
+{
+  "name": "CANCELLED_RESIDENCY_OLD_PLAT",
+  "expression": [
+    " ",
+    "CALCULATE(",
+    "   DISTINCTCOUNT(",
+    "       'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICATION_KEY]",
+    "   ),",
+    "   'EDWH_PLAT_APPLICATION_CATEGORY_DIM'[APPLICATION_CATEGORY_ID]",
+    "       IN {\"OC\", \"ONT\"}",
+    ")"
+  ]
+}

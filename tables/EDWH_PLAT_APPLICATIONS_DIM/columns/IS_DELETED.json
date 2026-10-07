@@ -1,0 +1,7 @@
+{
+  "name": "IS_DELETED",
+  "dataType": "boolean",
+  "sourceColumn": "IS_DELETED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

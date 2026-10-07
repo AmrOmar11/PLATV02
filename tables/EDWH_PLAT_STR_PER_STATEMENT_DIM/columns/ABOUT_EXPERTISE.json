@@ -1,0 +1,6 @@
+{
+  "name": "ABOUT_EXPERTISE",
+  "dataType": "string",
+  "sourceColumn": "ABOUT_EXPERTISE",
+  "sourceProviderType": "WChar"
+}

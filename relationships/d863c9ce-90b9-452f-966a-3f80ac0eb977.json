@@ -1,0 +1,7 @@
+{
+  "name": "d863c9ce-90b9-452f-966a-3f80ac0eb977",
+  "fromTable": "EDWH_PLAT_POINTS_RSLT_DETAILS_FACT",
+  "fromColumn": "STR_DIMENSION_KEY",
+  "toTable": "EDWH_PLAT_STR_DIMENSIONS_DIM",
+  "toColumn": "STR_DIMENSION_KEY"
+}

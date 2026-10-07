@@ -1,0 +1,6 @@
+{
+  "name": "ACTION_RESULT_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "ACTION_RESULT_NAME_AR",
+  "sourceProviderType": "WChar"
+}

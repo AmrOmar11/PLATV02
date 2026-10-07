@@ -1,0 +1,7 @@
+{
+  "name": "IS_DEP_LIVE_IN_SAUDIARABIA",
+  "dataType": "boolean",
+  "sourceColumn": "IS_DEP_LIVE_IN_SAUDIARABIA",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CONVERSATION_ID",
+  "dataType": "string",
+  "sourceColumn": "CONVERSATION_ID",
+  "sourceProviderType": "Guid"
+}

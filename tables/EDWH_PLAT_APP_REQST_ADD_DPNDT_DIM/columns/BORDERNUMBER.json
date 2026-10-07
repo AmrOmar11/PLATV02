@@ -1,0 +1,6 @@
+{
+  "name": "BORDERNUMBER",
+  "dataType": "int64",
+  "sourceColumn": "BORDERNUMBER",
+  "sourceProviderType": "BigInt"
+}

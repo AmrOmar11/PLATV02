@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "DAYNAME_AR",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "COMMON_DATE_DIM[DAYNAME_AR]"
+}

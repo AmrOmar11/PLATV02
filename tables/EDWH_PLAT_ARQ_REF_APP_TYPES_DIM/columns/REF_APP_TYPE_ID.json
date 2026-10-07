@@ -1,0 +1,6 @@
+{
+  "name": "REF_APP_TYPE_ID",
+  "dataType": "int64",
+  "sourceColumn": "REF_APP_TYPE_ID",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "calculated",
+  "name": "Latest Stage",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR MaxKey =",
+    "    CALCULATE (",
+    "        MAX ( EDWH_PLAT_APP_REQST_ASGN_FACT[STAGE_ASSIGNEE_KEY] ),",
+    "        ALLEXCEPT ( EDWH_PLAT_APP_REQST_ASGN_FACT,EDWH_PLAT_APP_REQST_ASGN_FACT[APPLICANT_REQ_KEY] )",
+    "    )",
+    "RETURN",
+    "    LOOKUPVALUE ( EDWH_PLAT_APPLICATION_STG_ASGN_DIM[Stage Group AR],EDWH_PLAT_APPLICATION_STG_ASGN_DIM[STAGE_ASSIGNEE_KEY], MaxKey )"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "7d32a375-a95c-4335-95cc-7a1c6c3206f1",
+  "fromTable": "EDWH_PLAT_LANG_LEVELS_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

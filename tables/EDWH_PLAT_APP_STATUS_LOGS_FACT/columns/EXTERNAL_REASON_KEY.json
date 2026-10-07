@@ -1,0 +1,6 @@
+{
+  "name": "EXTERNAL_REASON_KEY",
+  "dataType": "int64",
+  "sourceColumn": "EXTERNAL_REASON_KEY",
+  "sourceProviderType": "Integer"
+}

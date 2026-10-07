@@ -1,0 +1,7 @@
+{
+  "name": "IS_REQUIRED",
+  "dataType": "boolean",
+  "sourceColumn": "IS_REQUIRED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

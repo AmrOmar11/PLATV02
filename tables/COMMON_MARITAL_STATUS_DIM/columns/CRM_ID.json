@@ -1,0 +1,5 @@
+{
+  "name": "CRM_ID",
+  "dataType": "int64",
+  "sourceColumn": "CRM_ID"
+}

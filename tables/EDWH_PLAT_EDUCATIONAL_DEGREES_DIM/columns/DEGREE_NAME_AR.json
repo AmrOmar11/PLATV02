@@ -1,0 +1,6 @@
+{
+  "name": "DEGREE_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "DEGREE_NAME_AR",
+  "sourceProviderType": "WChar"
+}

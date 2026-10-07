@@ -1,0 +1,20 @@
+{
+  "name": "EDWH_PLAT_WORK_EXPERIENCES_FACT",
+  "source": {
+    "type": "query",
+    "query": [
+      "SELECT",
+      "\t [WORK_EXP_KEY]",
+      "\t,[APPLICATION_KEY]",
+      "FROM",
+      "\t[EDWH].[EDWH_PLAT_WORK_EXPERIENCES_FACT]"
+    ],
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  },
+  "annotations": [
+    {
+      "name": "TabularEditor_TableSchema",
+      "value": "{\"Name\":\"EDWH_PLAT_WORK_EXPERIENCES_FACT\",\"Schema\":\"EDWH\",\"Database\":\"EDWH\",\"IncludedColumns\":[\"WORK_EXP_KEY\",\"APPLICATION_KEY\"],\"SelectAll\":false}"
+    }
+  ]
+}

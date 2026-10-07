@@ -1,0 +1,7 @@
+{
+  "name": "760056cb-7535-4bad-a11b-57a6f7902667",
+  "fromTable": "EDWH_PLAT_APPLICATION_SECTIONS_DIM",
+  "fromColumn": "APPLICATION_PRODUCT_KEY",
+  "toTable": "EDWH_PLAT_APP_PRODUCT_TYPES_DIM",
+  "toColumn": "APPLICATION_PRODUCT_KEY"
+}

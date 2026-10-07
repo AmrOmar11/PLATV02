@@ -1,0 +1,6 @@
+{
+  "name": "PAPER_LINK",
+  "dataType": "string",
+  "sourceColumn": "PAPER_LINK",
+  "sourceProviderType": "WChar"
+}

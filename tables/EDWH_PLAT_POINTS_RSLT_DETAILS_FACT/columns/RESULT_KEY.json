@@ -1,0 +1,6 @@
+{
+  "name": "RESULT_KEY",
+  "dataType": "int64",
+  "sourceColumn": "RESULT_KEY",
+  "sourceProviderType": "Integer"
+}

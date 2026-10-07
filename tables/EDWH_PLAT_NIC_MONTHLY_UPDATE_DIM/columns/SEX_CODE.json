@@ -1,0 +1,6 @@
+{
+  "name": "SEX_CODE",
+  "dataType": "string",
+  "sourceColumn": "SEX_CODE",
+  "sourceProviderType": "WChar"
+}

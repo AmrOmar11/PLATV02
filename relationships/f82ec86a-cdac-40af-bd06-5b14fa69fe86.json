@@ -1,0 +1,7 @@
+{
+  "name": "f82ec86a-cdac-40af-bd06-5b14fa69fe86",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DETAILS_FACT",
+  "fromColumn": "APPLICATION_PLACE_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

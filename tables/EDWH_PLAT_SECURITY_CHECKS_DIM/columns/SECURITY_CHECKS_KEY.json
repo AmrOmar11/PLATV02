@@ -1,0 +1,6 @@
+{
+  "name": "SECURITY_CHECKS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "SECURITY_CHECKS_KEY",
+  "sourceProviderType": "Integer"
+}

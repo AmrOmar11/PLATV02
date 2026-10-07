@@ -1,0 +1,6 @@
+{
+  "name": "STAGE",
+  "dataType": "string",
+  "sourceColumn": "STAGE",
+  "sourceProviderType": "WChar"
+}

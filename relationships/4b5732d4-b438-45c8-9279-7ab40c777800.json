@@ -1,0 +1,8 @@
+{
+  "name": "4b5732d4-b438-45c8-9279-7ab40c777800",
+  "fromTable": "EDWH_PLAT_NIC_APPLICANT_REQ_FACT",
+  "fromColumn": "NIC_IQAMA_START_DATE",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY",
+  "isActive": false
+}

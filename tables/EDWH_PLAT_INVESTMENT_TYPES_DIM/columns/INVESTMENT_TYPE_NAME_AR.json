@@ -1,0 +1,6 @@
+{
+  "name": "INVESTMENT_TYPE_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "INVESTMENT_TYPE_NAME_AR",
+  "sourceProviderType": "WChar"
+}

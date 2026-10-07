@@ -1,0 +1,7 @@
+{
+  "name": "e3a82a07-745d-4dda-af65-5bed26164ddb",
+  "fromTable": "EDWH_PLAT_APP_REQST_SEC_CHECKS_DIM",
+  "fromColumn": "SC_ENTITY_KEY",
+  "toTable": "EDWH_PLAT_SEC_CHECK_ENTITIES_DIM",
+  "toColumn": "SC_ENTITY_KEY"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ec7ae3b1-6114-4cef-9b41-453265af45a6",
+  "fromTable": "EDWH_PLAT_NIC_APPLICANT_REQ_FACT",
+  "fromColumn": "IQAMA_STATUS_KEY",
+  "toTable": "EDWH_PLAT_NIC_IQAMA_STATUS_DIM",
+  "toColumn": "IQAMA_STATUS_KEY"
+}

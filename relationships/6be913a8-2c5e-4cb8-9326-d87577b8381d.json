@@ -1,0 +1,7 @@
+{
+  "name": "6be913a8-2c5e-4cb8-9326-d87577b8381d",
+  "fromTable": "EDWH_PLAT_LANG_LEVELS_FACT",
+  "fromColumn": "CERTIFICATE_ISSUE_DATE_KEY",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

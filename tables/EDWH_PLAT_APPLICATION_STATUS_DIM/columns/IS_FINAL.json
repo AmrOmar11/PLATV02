@@ -1,0 +1,7 @@
+{
+  "name": "IS_FINAL",
+  "dataType": "boolean",
+  "sourceColumn": "IS_FINAL",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

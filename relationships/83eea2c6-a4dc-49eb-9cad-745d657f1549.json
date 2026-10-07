@@ -1,0 +1,7 @@
+{
+  "name": "83eea2c6-a4dc-49eb-9cad-745d657f1549",
+  "fromTable": "EDWH_PLAT_ENTREPRENEUR_INFO_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

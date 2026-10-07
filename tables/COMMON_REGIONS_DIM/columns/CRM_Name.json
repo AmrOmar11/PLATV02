@@ -1,0 +1,5 @@
+{
+  "name": "CRM_Name",
+  "dataType": "string",
+  "sourceColumn": "CRM_Name"
+}

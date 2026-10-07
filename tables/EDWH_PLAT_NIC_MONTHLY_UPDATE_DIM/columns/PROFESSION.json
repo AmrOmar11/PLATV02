@@ -1,0 +1,6 @@
+{
+  "name": "PROFESSION",
+  "dataType": "string",
+  "sourceColumn": "PROFESSION",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "DAYNAME_AR",
+  "dataType": "string",
+  "sourceColumn": "DAYNAME_AR",
+  "sourceProviderType": "WChar"
+}

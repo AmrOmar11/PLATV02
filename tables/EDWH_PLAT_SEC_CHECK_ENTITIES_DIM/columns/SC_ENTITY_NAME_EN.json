@@ -1,0 +1,6 @@
+{
+  "name": "SC_ENTITY_NAME_EN",
+  "dataType": "string",
+  "sourceColumn": "SC_ENTITY_NAME_EN",
+  "sourceProviderType": "WChar"
+}

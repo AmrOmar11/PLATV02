@@ -1,0 +1,8 @@
+{
+  "name": "641224d4-e36f-4ba9-b4a6-2a6ff687c992",
+  "fromTable": "EDWH_PLAT_EDUCATION_INFO_FACT",
+  "fromColumn": "DEGREE_TO_DATE_KEY",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY",
+  "isActive": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "IS_FOR_PERMANENT",
+  "dataType": "boolean",
+  "sourceColumn": "IS_FOR_PERMANENT",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

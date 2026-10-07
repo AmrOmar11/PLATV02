@@ -1,0 +1,6 @@
+{
+  "name": "ACTION_REQUEST_ID",
+  "dataType": "int64",
+  "sourceColumn": "ACTION_REQUEST_ID",
+  "sourceProviderType": "Integer"
+}

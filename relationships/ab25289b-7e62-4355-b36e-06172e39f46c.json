@@ -1,0 +1,7 @@
+{
+  "name": "ab25289b-7e62-4355-b36e-06172e39f46c",
+  "fromTable": "EDWH_PLAT_DEPENDENTS_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

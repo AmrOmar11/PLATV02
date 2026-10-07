@@ -1,0 +1,6 @@
+{
+  "name": "AWARD_SECTOR_ID",
+  "dataType": "int64",
+  "sourceColumn": "AWARD_SECTOR_ID",
+  "sourceProviderType": "Integer"
+}

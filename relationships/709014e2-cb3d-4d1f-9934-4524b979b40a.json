@@ -1,0 +1,7 @@
+{
+  "name": "709014e2-cb3d-4d1f-9934-4524b979b40a",
+  "fromTable": "EDWH_PLAT_CAREER_HISTORIES_FACT",
+  "fromColumn": "CAREER_HISTORY_KEY",
+  "toTable": "EDWH_PLAT_CAREER_HISTORIES_DIM",
+  "toColumn": "CAREER_HISTORY_KEY"
+}

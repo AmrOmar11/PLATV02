@@ -1,0 +1,7 @@
+{
+  "name": "9c9fd26a-28cf-4e54-a344-7d4f859bc026",
+  "fromTable": "EDWH_PLAT_INVESTORS_DIM",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "24725be2-7de4-48af-b697-11450b6c4381",
+  "fromTable": "EDWH_PLAT_GIFTED_INCOMES_FACT",
+  "fromColumn": "INCOME_KEY",
+  "toTable": "EDWH_PLAT_GIFTED_INCOMES_DIM",
+  "toColumn": "INCOME_KEY"
+}

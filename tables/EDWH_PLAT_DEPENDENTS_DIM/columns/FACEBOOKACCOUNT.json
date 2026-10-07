@@ -1,0 +1,6 @@
+{
+  "name": "FACEBOOKACCOUNT",
+  "dataType": "string",
+  "sourceColumn": "FACEBOOKACCOUNT",
+  "sourceProviderType": "WChar"
+}

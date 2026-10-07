@@ -1,0 +1,6 @@
+{
+  "name": "AWARD_SECTOR_NAME_EN",
+  "dataType": "string",
+  "sourceColumn": "AWARD_SECTOR_NAME_EN",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "74baafa4-5a77-4c9e-aad1-e92b6159b7e6",
+  "fromTable": "EDWH_PLAT_WORK_EXPERIENCES_FACT",
+  "fromColumn": "HR_PHONE_COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

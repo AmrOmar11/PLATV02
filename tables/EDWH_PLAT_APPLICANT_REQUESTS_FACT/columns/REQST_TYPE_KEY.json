@@ -1,0 +1,6 @@
+{
+  "name": "REQST_TYPE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "REQST_TYPE_KEY",
+  "sourceProviderType": "Integer"
+}

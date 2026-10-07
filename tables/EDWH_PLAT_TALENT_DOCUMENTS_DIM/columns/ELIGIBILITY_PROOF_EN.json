@@ -1,0 +1,6 @@
+{
+  "name": "ELIGIBILITY_PROOF_EN",
+  "dataType": "string",
+  "sourceColumn": "ELIGIBILITY_PROOF_EN",
+  "sourceProviderType": "WChar"
+}

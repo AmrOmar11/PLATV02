@@ -1,0 +1,7 @@
+{
+  "name": "5342df46-0b05-4b88-8d90-ab9dc85857f5",
+  "fromTable": "EDWH_PLAT_APP_REQST_ADD_DPNDT_DIM",
+  "fromColumn": "BIRTH_DATE_KEY",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

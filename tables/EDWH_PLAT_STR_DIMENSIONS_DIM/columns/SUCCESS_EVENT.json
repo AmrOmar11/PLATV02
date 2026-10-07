@@ -1,0 +1,6 @@
+{
+  "name": "SUCCESS_EVENT",
+  "dataType": "string",
+  "sourceColumn": "SUCCESS_EVENT",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "REQST_MIN_CREATED_DATE",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    MIN('COMMON_DATE_DIM'[DATE]),",
+    "    USERELATIONSHIP(",
+    "        'EDWH_PLAT_APP_REQST_ASGN_FACT'[CREATED_AT],",
+    "        'COMMON_DATE_DIM'[COMMON_DATE_DIM_KEY])",
+    ")"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "THIRD_NATIONALITY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "THIRD_NATIONALITY_KEY",
+  "sourceProviderType": "Integer"
+}

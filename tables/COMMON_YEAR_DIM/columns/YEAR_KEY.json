@@ -1,0 +1,6 @@
+{
+  "name": "YEAR_KEY",
+  "dataType": "int64",
+  "sourceColumn": "YEAR_KEY",
+  "sourceProviderType": "Integer"
+}

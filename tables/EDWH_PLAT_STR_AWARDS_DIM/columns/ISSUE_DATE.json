@@ -1,0 +1,6 @@
+{
+  "name": "ISSUE_DATE",
+  "dataType": "string",
+  "sourceColumn": "ISSUE_DATE",
+  "sourceProviderType": "WChar"
+}

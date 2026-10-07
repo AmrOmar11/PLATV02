@@ -1,0 +1,7 @@
+{
+  "name": "ENABLED",
+  "dataType": "boolean",
+  "sourceColumn": "ENABLED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

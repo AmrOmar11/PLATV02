@@ -1,0 +1,6 @@
+{
+  "name": "DEGREE_ID",
+  "dataType": "int64",
+  "sourceColumn": "DEGREE_ID",
+  "sourceProviderType": "Integer"
+}

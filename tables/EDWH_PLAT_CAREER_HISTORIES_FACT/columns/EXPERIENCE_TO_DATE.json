@@ -1,0 +1,6 @@
+{
+  "name": "EXPERIENCE_TO_DATE",
+  "dataType": "int64",
+  "sourceColumn": "EXPERIENCE_TO_DATE",
+  "sourceProviderType": "Integer"
+}

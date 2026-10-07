@@ -1,0 +1,9 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "ISWEEKDAY",
+  "dataType": "boolean",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "COMMON_DATE_DIM[ISWEEKDAY]",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\""
+}

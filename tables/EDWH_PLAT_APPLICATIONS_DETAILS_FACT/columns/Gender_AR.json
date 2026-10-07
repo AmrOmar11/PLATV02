@@ -1,0 +1,13 @@
+{
+  "type": "calculated",
+  "name": "Gender_AR",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "LOOKUPVALUE(",
+    "   'COMMON_GENDER_DIM'[PLT_Name_AR],",
+    "   'COMMON_GENDER_DIM'[GENDER_KEY],",
+    "   'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[Gender_Key]",
+    ")"
+  ]
+}

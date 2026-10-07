@@ -1,0 +1,6 @@
+{
+  "name": "COUNTRY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "COUNTRY_KEY",
+  "sourceProviderType": "SmallInt"
+}

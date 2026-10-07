@@ -1,0 +1,6 @@
+{
+  "name": "TRACKING_KEY",
+  "dataType": "int64",
+  "sourceColumn": "TRACKING_KEY",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cc2b22c0-5c10-42ac-aec1-ca7f5984f803",
+  "fromTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "fromColumn": "APPLICATION_CATEGORY_KEY",
+  "toTable": "EDWH_PLAT_APPLICATION_CATEGORY_DIM",
+  "toColumn": "APPLICATION_CATEGORY_KEY"
+}

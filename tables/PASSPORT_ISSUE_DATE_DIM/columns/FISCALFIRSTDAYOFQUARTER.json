@@ -1,0 +1,6 @@
+{
+  "name": "FISCALFIRSTDAYOFQUARTER",
+  "dataType": "string",
+  "sourceColumn": "FISCALFIRSTDAYOFQUARTER",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "VIPAPPLICATION_ID",
+  "dataType": "int64",
+  "sourceColumn": "VIPAPPLICATION_ID",
+  "sourceProviderType": "Integer"
+}

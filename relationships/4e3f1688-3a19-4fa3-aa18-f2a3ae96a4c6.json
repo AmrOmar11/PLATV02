@@ -1,0 +1,7 @@
+{
+  "name": "4e3f1688-3a19-4fa3-aa18-f2a3ae96a4c6",
+  "fromTable": "EDWH_PLAT_IQAMA_TYPES_MAPPING_FACT",
+  "fromColumn": "NIC_IQAMA_TYPE_KEY",
+  "toTable": "EDWH_PLAT_NIC_IQAMA_TYPES_DIM",
+  "toColumn": "NIC_IQAMA_TYPE_KEY"
+}

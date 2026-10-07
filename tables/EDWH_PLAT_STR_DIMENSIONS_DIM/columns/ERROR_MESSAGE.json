@@ -1,0 +1,6 @@
+{
+  "name": "ERROR_MESSAGE",
+  "dataType": "string",
+  "sourceColumn": "ERROR_MESSAGE",
+  "sourceProviderType": "WChar"
+}

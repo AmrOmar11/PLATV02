@@ -1,0 +1,19 @@
+{
+  "name": "Total_Applications_by_Nationality",
+  "expression": [
+    "VAR ApplicantsInNationality =",
+    "    VALUES(",
+    "        'EDWH_PLAT_APPLICANT_FACT'[APPLICANT_KEY]",
+    "    )",
+    "RETURN",
+    "    CALCULATE(",
+    "        DISTINCTCOUNT(",
+    "            'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICATION_KEY]",
+    "        ),",
+    "        TREATAS(",
+    "            ApplicantsInNationality,",
+    "            'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICANT_KEY]",
+    "        )",
+    "    )"
+  ]
+}

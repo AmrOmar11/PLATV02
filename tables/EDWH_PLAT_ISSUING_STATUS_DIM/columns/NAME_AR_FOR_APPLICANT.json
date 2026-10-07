@@ -1,0 +1,6 @@
+{
+  "name": "NAME_AR_FOR_APPLICANT",
+  "dataType": "string",
+  "sourceColumn": "NAME_AR_FOR_APPLICANT",
+  "sourceProviderType": "WChar"
+}

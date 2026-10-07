@@ -1,0 +1,8 @@
+{
+  "name": "fa267d3b-fc58-444f-b5d4-47484c742604",
+  "fromTable": "EDWH_PLAT_APP_SECTION_COMMENTS_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY",
+  "isActive": false
+}

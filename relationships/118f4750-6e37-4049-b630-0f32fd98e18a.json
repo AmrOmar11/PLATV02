@@ -1,0 +1,7 @@
+{
+  "name": "118f4750-6e37-4049-b630-0f32fd98e18a",
+  "fromTable": "EDWH_PLAT_NIC_ACTION_REQUEST_FACT",
+  "fromColumn": "ACTION_RESULT_KEY",
+  "toTable": "EDWH_PLAT_NIC_PR_ACTION_RESULT_DIM",
+  "toColumn": "ACTION_RESULT_KEY"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "REC_ID",
+  "dataType": "int64",
+  "sourceColumn": "REC_ID",
+  "sourceProviderType": "Integer"
+}

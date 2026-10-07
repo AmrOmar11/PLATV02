@@ -1,0 +1,6 @@
+{
+  "name": "APPLICATION_STATUS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "APPLICATION_STATUS_KEY",
+  "sourceProviderType": "Integer"
+}

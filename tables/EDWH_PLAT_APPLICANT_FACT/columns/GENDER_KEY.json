@@ -1,0 +1,6 @@
+{
+  "name": "GENDER_KEY",
+  "dataType": "int64",
+  "sourceColumn": "GENDER_KEY",
+  "sourceProviderType": "Integer"
+}

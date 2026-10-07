@@ -1,0 +1,7 @@
+{
+  "name": "HAS_RESEARCH_PAPER",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_RESEARCH_PAPER",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

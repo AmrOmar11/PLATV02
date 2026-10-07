@@ -1,0 +1,6 @@
+{
+  "type": "calculated",
+  "name": "AGE_GROUP",
+  "dataType": "string",
+  "expression": "SWITCH( TRUE(), ISBLANK('EDWH_PLAT_APPLICANT_FACT'[AGE]), \"Other\", 'EDWH_PLAT_APPLICANT_FACT'[AGE] < 20, \"Other\", 'EDWH_PLAT_APPLICANT_FACT'[AGE] <= 29, \"20 - 29\", 'EDWH_PLAT_APPLICANT_FACT'[AGE] <= 39, \"30 - 39\", 'EDWH_PLAT_APPLICANT_FACT'[AGE] <= 49, \"40 - 49\", 'EDWH_PLAT_APPLICANT_FACT'[AGE] <= 59, \"50 - 59\", 'EDWH_PLAT_APPLICANT_FACT'[AGE] <= 65, \"60 - 65\", \"More than 65\" )"
+}

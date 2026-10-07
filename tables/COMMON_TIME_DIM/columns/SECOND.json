@@ -1,0 +1,6 @@
+{
+  "name": "SECOND",
+  "dataType": "int64",
+  "sourceColumn": "SECOND",
+  "sourceProviderType": "UnsignedTinyInt"
+}

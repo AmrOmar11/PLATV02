@@ -1,0 +1,6 @@
+{
+  "name": "IsRamadan",
+  "dataType": "int64",
+  "sourceColumn": "IsRamadan",
+  "sourceProviderType": "SmallInt"
+}

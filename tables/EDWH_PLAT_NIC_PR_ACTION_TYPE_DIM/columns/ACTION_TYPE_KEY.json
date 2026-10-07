@@ -1,0 +1,6 @@
+{
+  "name": "ACTION_TYPE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "ACTION_TYPE_KEY",
+  "sourceProviderType": "SmallInt"
+}

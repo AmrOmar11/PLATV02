@@ -1,0 +1,7 @@
+{
+  "name": "0267c6bd-14f7-4ea7-abdc-7d64aaea4bfd",
+  "fromTable": "EDWH_PLAT_WORK_EXPERIENCES_FACT",
+  "fromColumn": "WORK_SECTOR_KEY",
+  "toTable": "EDWH_PLAT_WORK_SECTORS_DIM",
+  "toColumn": "WORK_SECTOR_KEY"
+}

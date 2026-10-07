@@ -1,0 +1,7 @@
+{
+  "name": "IS_FATHER_ALIVE",
+  "dataType": "boolean",
+  "sourceColumn": "IS_FATHER_ALIVE",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

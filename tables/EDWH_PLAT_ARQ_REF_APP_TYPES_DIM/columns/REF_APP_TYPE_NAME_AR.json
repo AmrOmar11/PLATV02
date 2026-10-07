@@ -1,0 +1,6 @@
+{
+  "name": "REF_APP_TYPE_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "REF_APP_TYPE_NAME_AR",
+  "sourceProviderType": "WChar"
+}

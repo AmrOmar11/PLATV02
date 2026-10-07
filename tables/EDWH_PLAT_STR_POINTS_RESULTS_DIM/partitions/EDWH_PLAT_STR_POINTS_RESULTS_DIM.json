@@ -1,0 +1,9 @@
+{
+  "name": "EDWH_PLAT_STR_POINTS_RESULTS_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_STR_POINTS_RESULTS_DIM].*   FROM [EDWH].[EDWH_PLAT_STR_POINTS_RESULTS_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

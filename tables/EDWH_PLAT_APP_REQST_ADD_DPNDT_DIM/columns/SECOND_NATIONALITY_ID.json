@@ -1,0 +1,6 @@
+{
+  "name": "SECOND_NATIONALITY_ID",
+  "dataType": "int64",
+  "sourceColumn": "SECOND_NATIONALITY_ID",
+  "sourceProviderType": "Integer"
+}

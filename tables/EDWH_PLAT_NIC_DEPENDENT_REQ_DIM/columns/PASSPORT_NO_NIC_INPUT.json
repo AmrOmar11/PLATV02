@@ -1,0 +1,6 @@
+{
+  "name": "PASSPORT_NO_NIC_INPUT",
+  "dataType": "string",
+  "sourceColumn": "PASSPORT_NO_NIC_INPUT",
+  "sourceProviderType": "WChar"
+}

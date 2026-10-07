@@ -1,0 +1,6 @@
+{
+  "name": "QUARTER_KEY",
+  "dataType": "int64",
+  "sourceColumn": "QUARTER_KEY",
+  "sourceProviderType": "Integer"
+}

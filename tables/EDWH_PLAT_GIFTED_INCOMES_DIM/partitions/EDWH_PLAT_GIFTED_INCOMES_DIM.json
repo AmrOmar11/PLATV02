@@ -1,0 +1,9 @@
+{
+  "name": "EDWH_PLAT_GIFTED_INCOMES_DIM",
+  "dataView": "full",
+  "source": {
+    "type": "query",
+    "query": " \t\t\t\tSELECT [EDWH].[EDWH_PLAT_GIFTED_INCOMES_DIM].*   FROM [EDWH].[EDWH_PLAT_GIFTED_INCOMES_DIM] ",
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  }
+}

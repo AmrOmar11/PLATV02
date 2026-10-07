@@ -1,0 +1,6 @@
+{
+  "name": "FATHER_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "FATHER_NAME_AR",
+  "sourceProviderType": "WChar"
+}

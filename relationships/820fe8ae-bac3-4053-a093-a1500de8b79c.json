@@ -1,0 +1,7 @@
+{
+  "name": "820fe8ae-bac3-4053-a093-a1500de8b79c",
+  "fromTable": "EDWH_PLAT_INVESTORS_DIM",
+  "fromColumn": "INVESTMENT_TYPE_KEY",
+  "toTable": "EDWH_PLAT_INVESTMENT_TYPES_DIM",
+  "toColumn": "INVESTMENT_TYPE_KEY"
+}

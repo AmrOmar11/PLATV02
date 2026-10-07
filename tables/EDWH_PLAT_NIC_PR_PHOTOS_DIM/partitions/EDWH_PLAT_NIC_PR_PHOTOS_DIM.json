@@ -1,0 +1,27 @@
+{
+  "name": "EDWH_PLAT_NIC_PR_PHOTOS_DIM",
+  "source": {
+    "type": "query",
+    "query": [
+      "SELECT",
+      "\t [PR_PHOTO_KEY]",
+      "\t,[PR_PHOTO_ID]",
+      "\t,[PREMIUM_IQAMA_KEY]",
+      "\t,[PHOTO_STATUS_KEY]",
+      "\t,[CREATED_AT]",
+      "\t,[CREATED_BY]",
+      "\t,[START_DATE]",
+      "\t,[END_DATE]",
+      "\t,[FLAG]",
+      "FROM",
+      "\t[EDWH].[EDWH_PLAT_NIC_PR_PHOTOS_DIM]"
+    ],
+    "dataSource": "SqlServer DESKTOP-61EFDIR EDWH"
+  },
+  "annotations": [
+    {
+      "name": "TabularEditor_TableSchema",
+      "value": "{\"Name\":\"EDWH_PLAT_NIC_PR_PHOTOS_DIM\",\"Schema\":\"EDWH\",\"Database\":\"EDWH\",\"IncludedColumns\":[\"PR_PHOTO_KEY\",\"PR_PHOTO_ID\",\"PREMIUM_IQAMA_KEY\",\"PHOTO_STATUS_KEY\",\"CREATED_AT\",\"CREATED_BY\",\"START_DATE\",\"END_DATE\",\"FLAG\"],\"SelectAll\":false}"
+    }
+  ]
+}

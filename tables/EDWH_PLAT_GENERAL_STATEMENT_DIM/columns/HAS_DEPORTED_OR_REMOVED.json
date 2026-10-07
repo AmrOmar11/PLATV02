@@ -1,0 +1,7 @@
+{
+  "name": "HAS_DEPORTED_OR_REMOVED",
+  "dataType": "boolean",
+  "sourceColumn": "HAS_DEPORTED_OR_REMOVED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

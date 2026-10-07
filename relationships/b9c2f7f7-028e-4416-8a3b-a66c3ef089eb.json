@@ -1,0 +1,7 @@
+{
+  "name": "b9c2f7f7-028e-4416-8a3b-a66c3ef089eb",
+  "fromTable": "EDWH_PLAT_APP_REQST_ASGN_FACT",
+  "fromColumn": "CREATED_AT",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

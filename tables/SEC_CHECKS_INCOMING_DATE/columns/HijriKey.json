@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "HijriKey",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "COMMON_DATE_DIM[HijriKey]"
+}

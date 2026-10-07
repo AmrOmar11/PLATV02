@@ -1,0 +1,6 @@
+{
+  "name": "SC_ENTITY_ID",
+  "dataType": "int64",
+  "sourceColumn": "SC_ENTITY_ID",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "STR_RESEARCH_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "STR_RESEARCH_NAME_AR",
+  "sourceProviderType": "WChar"
+}

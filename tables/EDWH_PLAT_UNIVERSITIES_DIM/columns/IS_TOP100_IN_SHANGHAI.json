@@ -1,0 +1,7 @@
+{
+  "name": "IS_TOP100_IN_SHANGHAI",
+  "dataType": "boolean",
+  "sourceColumn": "IS_TOP100_IN_SHANGHAI",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

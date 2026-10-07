@@ -1,0 +1,6 @@
+{
+  "name": "IQAMANUMBER",
+  "dataType": "int64",
+  "sourceColumn": "IQAMANUMBER",
+  "sourceProviderType": "BigInt"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "TEST_BRIDGE_AWARDED_APPLICATIONS",
+  "expression": [
+    "",
+    "VAR AwardedApplications =",
+    "    CALCULATETABLE(",
+    "        VALUES(",
+    "            'EDWH_PLAT_GIFTED_TALENTS_FACT'[APPLICATION_KEY]",
+    "        ),",
+    "        'EDWH_PLAT_GIFTED_TALENTS_FACT'[AWARD_KEY] <> BLANK(),",
+    "        'EDWH_PLAT_GIFTED_TALENTS_FACT'[AWARD_KEY] <> -1",
+    "    )",
+    "RETURN",
+    "    COUNTROWS(",
+    "        INTERSECT(",
+    "            CALCULATETABLE(",
+    "                VALUES(",
+    "                    'EDWH_PLAT_APPLICATIONS_DIM'[APPLICATION_KEY]",
+    "                )",
+    "            ),",
+    "            AwardedApplications",
+    "        )",
+    "    )"
+  ]
+}

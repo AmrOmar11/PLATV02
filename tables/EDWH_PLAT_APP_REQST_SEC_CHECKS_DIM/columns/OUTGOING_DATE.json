@@ -1,0 +1,6 @@
+{
+  "name": "OUTGOING_DATE",
+  "dataType": "string",
+  "sourceColumn": "OUTGOING_DATE",
+  "sourceProviderType": "WChar"
+}

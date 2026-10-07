@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "COMMON_DATE_DIM_KEY",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "COMMON_DATE_DIM[COMMON_DATE_DIM_KEY]"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ENTREPRENEUR_TYPE_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "ENTREPRENEUR_TYPE_NAME_AR",
+  "sourceProviderType": "WChar"
+}

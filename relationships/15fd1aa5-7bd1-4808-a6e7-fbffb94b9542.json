@@ -1,0 +1,7 @@
+{
+  "name": "15fd1aa5-7bd1-4808-a6e7-fbffb94b9542",
+  "fromTable": "EDWH_PLAT_LANG_LEVELS_FACT",
+  "fromColumn": "LANG_LEVEL_EN_KEY",
+  "toTable": "EDWH_PLAT_LAN_LEVELS_ENG_DIM",
+  "toColumn": "LANG_LEVEL_EN_KEY"
+}

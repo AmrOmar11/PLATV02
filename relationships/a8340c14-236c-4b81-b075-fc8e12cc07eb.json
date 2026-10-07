@@ -1,0 +1,7 @@
+{
+  "name": "a8340c14-236c-4b81-b075-fc8e12cc07eb",
+  "fromTable": "EDWH_PLAT_EDUCATION_INFO_FACT",
+  "fromColumn": "EDUCATION_IFO_KEY",
+  "toTable": "EDWH_PLAT_EDUCATION_INFO_DIM",
+  "toColumn": "EDUCATION_IFO_KEY"
+}

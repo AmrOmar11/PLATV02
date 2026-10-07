@@ -1,0 +1,7 @@
+{
+  "name": "5347a401-1113-4a59-9201-2e8c959ebb29",
+  "fromTable": "EDWH_PLAT_AWARDS_DIM",
+  "fromColumn": "AWARD_GROUP_KEY",
+  "toTable": "EDWH_PLAT_AWARD_GROUPS_DIM",
+  "toColumn": "AWARD_GROUP_KEY"
+}

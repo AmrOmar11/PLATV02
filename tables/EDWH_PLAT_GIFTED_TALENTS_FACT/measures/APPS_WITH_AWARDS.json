@@ -1,0 +1,11 @@
+{
+  "name": "APPS_WITH_AWARDS",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    DISTINCTCOUNT('EDWH_PLAT_GIFTED_TALENTS_FACT'[APPLICATION_KEY]),",
+    "    'EDWH_PLAT_GIFTED_TALENTS_FACT'[AWARD_KEY] <> BLANK(),",
+    "    'EDWH_PLAT_GIFTED_TALENTS_FACT'[AWARD_KEY] <> -1",
+    ")"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ccbe9e1f-f577-4930-8a98-a9ca62534704",
+  "fromTable": "EDWH_PLAT_APPLICATION_STG_ASGN_FACT",
+  "fromColumn": "APPLICATION_KEY",
+  "toTable": "EDWH_PLAT_APPLICATIONS_DIM",
+  "toColumn": "APPLICATION_KEY"
+}

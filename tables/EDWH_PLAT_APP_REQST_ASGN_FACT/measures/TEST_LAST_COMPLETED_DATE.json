@@ -1,0 +1,17 @@
+{
+  "name": "TEST_LAST_COMPLETED_DATE",
+  "expression": [
+    "VAR CompletedKey =",
+    "    CALCULATE(",
+    "        MAX(",
+    "            'EDWH_PLAT_APP_REQST_ASGN_FACT'[COMPLETED_AT]",
+    "        )",
+    "    )",
+    "RETURN",
+    "    LOOKUPVALUE(",
+    "        'COMMON_DATE_DIM'[DATE],",
+    "        'COMMON_DATE_DIM'[COMMON_DATE_DIM_KEY],",
+    "        CompletedKey",
+    "    )"
+  ]
+}

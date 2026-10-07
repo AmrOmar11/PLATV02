@@ -1,0 +1,6 @@
+{
+  "name": "LEVEL_ID",
+  "dataType": "int64",
+  "sourceColumn": "LEVEL_ID",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "KINSHIP_TYPE_KEY",
+  "dataType": "int64",
+  "sourceColumn": "KINSHIP_TYPE_KEY",
+  "sourceProviderType": "Integer"
+}

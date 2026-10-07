@@ -1,0 +1,6 @@
+{
+  "name": "PHOTO_STATUS_NAMEAR",
+  "dataType": "string",
+  "sourceColumn": "PHOTO_STATUS_NAMEAR",
+  "sourceProviderType": "WChar"
+}

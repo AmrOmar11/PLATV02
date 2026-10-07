@@ -1,0 +1,6 @@
+{
+  "name": "DAYOFWEEKUK",
+  "dataType": "string",
+  "sourceColumn": "DAYOFWEEKUK",
+  "sourceProviderType": "Char"
+}

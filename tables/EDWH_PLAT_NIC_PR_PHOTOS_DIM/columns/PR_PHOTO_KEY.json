@@ -1,0 +1,6 @@
+{
+  "name": "PR_PHOTO_KEY",
+  "dataType": "int64",
+  "sourceColumn": "PR_PHOTO_KEY",
+  "sourceProviderType": "Int32"
+}

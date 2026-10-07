@@ -1,0 +1,23 @@
+{
+  "type": "calculated",
+  "name": "Age_Group_Sort",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": [
+    "",
+    "VAR CurrentAge =",
+    "    'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[Age]",
+    "RETURN",
+    "    SWITCH(",
+    "        TRUE(),",
+    "        ISBLANK(CurrentAge), BLANK(),",
+    "        CurrentAge < 21, 7,",
+    "        CurrentAge <= 30, 1,",
+    "        CurrentAge <= 40, 2,",
+    "        CurrentAge <= 50, 3,",
+    "        CurrentAge <= 60, 4,",
+    "        CurrentAge <= 65, 5,",
+    "        6",
+    "    )"
+  ]
+}

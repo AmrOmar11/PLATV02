@@ -1,0 +1,6 @@
+{
+  "name": "CURRENT_RESIDENCY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "CURRENT_RESIDENCY_KEY",
+  "sourceProviderType": "SmallInt"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a5d32689-60b1-487e-8dcb-8d8d7aff4832",
+  "fromTable": "EDWH_PLAT_CAREER_HISTORIES_FACT",
+  "fromColumn": "COUNTRY_KEY",
+  "toTable": "COMMON_COUNTRIES_DIM",
+  "toColumn": "COUNTRY_KEY"
+}

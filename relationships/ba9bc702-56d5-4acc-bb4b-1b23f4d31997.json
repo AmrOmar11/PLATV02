@@ -1,0 +1,7 @@
+{
+  "name": "ba9bc702-56d5-4acc-bb4b-1b23f4d31997",
+  "fromTable": "EDWH_PLAT_POINTS_RSLT_DETAILS_FACT",
+  "fromColumn": "POINTS_RESULT_KEY",
+  "toTable": "EDWH_PLAT_STR_POINTS_RESULTS_DIM",
+  "toColumn": "POINTS_RESULT_KEY"
+}

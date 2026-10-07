@@ -1,0 +1,5 @@
+{
+  "name": "SDAIA_region_CD",
+  "dataType": "int64",
+  "sourceColumn": "SDAIA_region_CD"
+}

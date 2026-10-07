@@ -1,0 +1,7 @@
+{
+  "name": "c333cc47-ebb5-4ea0-bd5d-bc8f58cb7a99",
+  "fromTable": "EDWH_PLAT_SPECIALIZATIONS_DIM",
+  "fromColumn": "AREA_KEY",
+  "toTable": "EDWH_PLAT_AREAS_DIM",
+  "toColumn": "AREA_KEY"
+}

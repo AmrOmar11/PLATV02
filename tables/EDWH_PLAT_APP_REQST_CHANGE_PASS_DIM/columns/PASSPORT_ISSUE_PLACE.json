@@ -1,0 +1,6 @@
+{
+  "name": "PASSPORT_ISSUE_PLACE",
+  "dataType": "string",
+  "sourceColumn": "PASSPORT_ISSUE_PLACE",
+  "sourceProviderType": "WChar"
+}

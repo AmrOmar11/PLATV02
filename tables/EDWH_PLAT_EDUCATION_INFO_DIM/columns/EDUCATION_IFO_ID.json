@@ -1,0 +1,6 @@
+{
+  "name": "EDUCATION_IFO_ID",
+  "dataType": "int64",
+  "sourceColumn": "EDUCATION_IFO_ID",
+  "sourceProviderType": "Integer"
+}

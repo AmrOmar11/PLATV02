@@ -1,0 +1,22 @@
+{
+  "name": "New Calculated Table",
+  "mode": "import",
+  "source": {
+    "type": "calculated",
+    "expression": [
+      "DATATABLE(",
+      "    \"Age Bucket\", STRING,",
+      "    \"Min Days\", INTEGER,",
+      "    \"Max Days\", INTEGER,",
+      "    \"Sort\", INTEGER,",
+      "    {",
+      "        {\"0 - 7 days\", 0, 7, 1},",
+      "        {\"8 - 30 days\", 8, 30, 2},",
+      "        {\"31 - 60 days\", 31, 60, 3},",
+      "        {\"61 - 90 days\", 61, 90, 4},",
+      "        {\"90+ days\", 91, 999999, 5}",
+      "    }",
+      ")"
+    ]
+  }
+}

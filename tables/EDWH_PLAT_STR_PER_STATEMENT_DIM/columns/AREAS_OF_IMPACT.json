@@ -1,0 +1,6 @@
+{
+  "name": "AREAS_OF_IMPACT",
+  "dataType": "string",
+  "sourceColumn": "AREAS_OF_IMPACT",
+  "sourceProviderType": "WChar"
+}

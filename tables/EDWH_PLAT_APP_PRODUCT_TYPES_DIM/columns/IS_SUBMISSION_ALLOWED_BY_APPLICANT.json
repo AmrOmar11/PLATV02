@@ -1,0 +1,7 @@
+{
+  "name": "IS_SUBMISSION_ALLOWED_BY_APPLICANT",
+  "dataType": "boolean",
+  "sourceColumn": "IS_SUBMISSION_ALLOWED_BY_APPLICANT",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

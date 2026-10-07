@@ -1,0 +1,6 @@
+{
+  "name": "FISCALLASTDAYOFYEAR",
+  "dataType": "string",
+  "sourceColumn": "FISCALLASTDAYOFYEAR",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "IS_RESOLVED",
+  "dataType": "boolean",
+  "sourceColumn": "IS_RESOLVED",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

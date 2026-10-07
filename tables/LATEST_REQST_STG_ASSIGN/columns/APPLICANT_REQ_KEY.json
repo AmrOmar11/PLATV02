@@ -1,0 +1,8 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "APPLICANT_REQ_KEY",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "EDWH_PLAT_APPLICANT_REQUESTS_FACT[APPLICANT_REQ_KEY]"
+}

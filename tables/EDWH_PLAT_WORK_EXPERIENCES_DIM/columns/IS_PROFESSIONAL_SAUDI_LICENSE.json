@@ -1,0 +1,7 @@
+{
+  "name": "IS_PROFESSIONAL_SAUDI_LICENSE",
+  "dataType": "boolean",
+  "sourceColumn": "IS_PROFESSIONAL_SAUDI_LICENSE",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

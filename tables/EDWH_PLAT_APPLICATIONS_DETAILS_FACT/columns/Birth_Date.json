@@ -1,0 +1,20 @@
+{
+  "type": "calculated",
+  "name": "Birth_Date",
+  "dataType": "dateTime",
+  "isDataTypeInferred": true,
+  "expression": [
+    "VAR BirthDateKey =",
+    "   LOOKUPVALUE(",
+    "       'EDWH_PLAT_APPLICANT_FACT'[BIRTH_DATE_KEY],",
+    "       'EDWH_PLAT_APPLICANT_FACT'[APPLICANT_KEY],",
+    "       'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICANT_KEY]",
+    "   )",
+    "RETURN",
+    "   LOOKUPVALUE(",
+    "       'COMMON_DATE_DIM'[DATE],",
+    "       'COMMON_DATE_DIM'[COMMON_DATE_DIM_KEY],",
+    "       BirthDateKey",
+    "   )"
+  ]
+}

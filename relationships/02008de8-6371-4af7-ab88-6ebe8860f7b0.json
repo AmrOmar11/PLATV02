@@ -1,0 +1,7 @@
+{
+  "name": "02008de8-6371-4af7-ab88-6ebe8860f7b0",
+  "fromTable": "EDWH_PLAT_APP_REQST_REVOKE_DIM",
+  "fromColumn": "REVOKE_REASON_KEY",
+  "toTable": "EDWH_PLAT_REQ_REVOKE_REASONS_DIM",
+  "toColumn": "REVOKE_REASON_KEY"
+}

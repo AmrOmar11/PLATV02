@@ -1,0 +1,6 @@
+{
+  "name": "SPECIALIZATION_ID",
+  "dataType": "int64",
+  "sourceColumn": "SPECIALIZATION_ID",
+  "sourceProviderType": "Integer"
+}

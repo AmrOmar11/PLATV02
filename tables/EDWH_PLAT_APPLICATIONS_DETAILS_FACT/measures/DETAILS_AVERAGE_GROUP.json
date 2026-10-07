@@ -1,0 +1,12 @@
+{
+  "name": "DETAILS_AVERAGE_GROUP",
+  "expression": [
+    "",
+    "AVERAGEX(",
+    "    VALUES('EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[APPLICANT_KEY]),",
+    "    CALCULATE(",
+    "        MAX('EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[Age])",
+    "    )",
+    ")"
+  ]
+}

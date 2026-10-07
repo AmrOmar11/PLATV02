@@ -1,0 +1,9 @@
+{
+  "name": "DISTINCT_WORK_SECTOR",
+  "expression": [
+    "CALCULATE(",
+    "    DISTINCTCOUNT(EDWH_PLAT_WORK_SECTORS_DIM[WORK_SECTOR_KEY]),",
+    "    EDWH_PLAT_WORK_SECTORS_DIM[WORK_SECTOR_KEY] <> BLANK()",
+    ")"
+  ]
+}

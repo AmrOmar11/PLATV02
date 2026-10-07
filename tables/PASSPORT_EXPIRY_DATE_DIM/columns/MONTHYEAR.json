@@ -1,0 +1,13 @@
+{
+  "name": "MONTHYEAR",
+  "dataType": "string",
+  "sourceColumn": "MONTHYEAR",
+  "formatString": "dd-MMM-yy",
+  "sourceProviderType": "String",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeCustom\"><DateTimes><DateTime LCID=\"1033\" Group=\"ShortDate\" FormatString=\"dd-MMM-yy\" /></DateTimes></Format>"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "2715b99d-bdab-42d6-9bcc-1b40eb6334a6",
+  "fromTable": "EDWH_PLAT_APP_REQST_RENEW_DIM",
+  "fromColumn": "APPLICANT_REQ_KEY",
+  "toTable": "EDWH_PLAT_APPLICANT_REQUESTS_DIM",
+  "toColumn": "APPLICANT_REQ_KEY"
+}

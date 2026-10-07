@@ -1,0 +1,9 @@
+{
+  "name": "TALENTS_WITH_AWARDS",
+  "expression": [
+    "CALCULATE(",
+    "    DISTINCTCOUNT('EDWH_PLAT_GIFTED_TALENTS_DIM'[TALENT_KEY]),",
+    "    'EDWH_PLAT_GIFTED_TALENTS_DIM'[HAS_AWARD] = TRUE()",
+    ")"
+  ]
+}

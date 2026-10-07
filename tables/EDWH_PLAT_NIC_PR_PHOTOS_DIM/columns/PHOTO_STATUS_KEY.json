@@ -1,0 +1,6 @@
+{
+  "name": "PHOTO_STATUS_KEY",
+  "dataType": "int64",
+  "sourceColumn": "PHOTO_STATUS_KEY",
+  "sourceProviderType": "Int32"
+}

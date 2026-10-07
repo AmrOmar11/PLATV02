@@ -1,0 +1,13 @@
+{
+  "type": "calculated",
+  "name": "Nationality_AR",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": [
+    "LOOKUPVALUE(",
+    "   'COMMON_NATIONALITIES_DIM'[PLT_Name_AR],",
+    "   'COMMON_NATIONALITIES_DIM'[NATIONALITY_KEY],",
+    "   'EDWH_PLAT_APPLICATIONS_DETAILS_FACT'[Nationality_Key]",
+    ")"
+  ]
+}

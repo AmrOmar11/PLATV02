@@ -1,0 +1,6 @@
+{
+  "name": "NIQAMA_TYPE_AME_AR",
+  "dataType": "string",
+  "sourceColumn": "NIQAMA_TYPE_AME_AR",
+  "sourceProviderType": "WChar"
+}

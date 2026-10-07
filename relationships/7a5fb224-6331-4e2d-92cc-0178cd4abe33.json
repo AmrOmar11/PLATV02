@@ -1,0 +1,7 @@
+{
+  "name": "7a5fb224-6331-4e2d-92cc-0178cd4abe33",
+  "fromTable": "EDWH_PLAT_APPLICANT_FACT",
+  "fromColumn": "BIRTH_DATE_KEY",
+  "toTable": "COMMON_DATE_DIM",
+  "toColumn": "COMMON_DATE_DIM_KEY"
+}

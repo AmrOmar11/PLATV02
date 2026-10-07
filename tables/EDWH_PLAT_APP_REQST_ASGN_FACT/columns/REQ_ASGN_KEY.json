@@ -1,0 +1,6 @@
+{
+  "name": "REQ_ASGN_KEY",
+  "dataType": "int64",
+  "sourceColumn": "REQ_ASGN_KEY",
+  "sourceProviderType": "Integer"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CITY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "CITY_KEY",
+  "sourceProviderType": "Integer"
+}

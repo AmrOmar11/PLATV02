@@ -1,0 +1,6 @@
+{
+  "name": "GRAND_FATHER_NAME_AR",
+  "dataType": "string",
+  "sourceColumn": "GRAND_FATHER_NAME_AR",
+  "sourceProviderType": "WChar"
+}

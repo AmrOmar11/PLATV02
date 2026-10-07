@@ -1,0 +1,6 @@
+{
+  "name": "ON_BEHALF_MOBILE_COUNTRY_KEY",
+  "dataType": "int64",
+  "sourceColumn": "ON_BEHALF_MOBILE_COUNTRY_KEY",
+  "sourceProviderType": "SmallInt"
+}
