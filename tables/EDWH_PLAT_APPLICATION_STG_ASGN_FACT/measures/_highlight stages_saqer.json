@@ -1,0 +1,25 @@
+{
+  "name": "_highlight stages_saqer",
+  "expression": [
+    " ",
+    "VAR SelectedStage =",
+    "    SELECTEDVALUE ( EDWH_PLAT_APPLICATION_STG_ASGN_DIM[Stage Group AR] )",
+    "",
+    "VAR SelectedOrder =",
+    "    CALCULATE (",
+    "        MAX ( Stage_Group_AR[STAGE_ASSIGNEE_KEY] ),",
+    "        REMOVEFILTERS ( Stage_Group_AR),",
+    "        TREATAS ( { SelectedStage }, Stage_Group_AR[Stage Group AR])",
+    "    )",
+    "",
+    "VAR CurrentRowOrder =",
+    "    MAX ( Stage_Group_AR[STAGE_ASSIGNEE_KEY])",
+    "RETURN",
+    "IF (",
+    "    NOT ISBLANK ( SelectedOrder )           ",
+    "        && CurrentRowOrder <= SelectedOrder,",
+    "    1,",
+    "    BLANK()",
+    ")"
+  ]
+}

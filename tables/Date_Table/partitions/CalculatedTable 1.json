@@ -1,0 +1,13 @@
+{
+  "name": "CalculatedTable 1",
+  "source": {
+    "type": "calculated",
+    "expression": [
+      "",
+      "SUMMARIZE(",
+      "    COMMON_END_DATE_DIM,",
+      "    COMMON_END_DATE_DIM[COMMON_DATE_DIM_KEY],\"DATE_KEY\",",
+      "    FIRSTNONBLANK(COMMON_END_DATE_DIM[DATE],\"DATE\"))"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "name": "_Check line",
+  "expression": " 0.47*[_VALUE]"
+}
